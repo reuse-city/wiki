@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2021-06-21T09:10:35.677Z
+date: 2021-06-21T09:11:48.352Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-17T19:52:46.018Z
@@ -17,6 +17,7 @@ A live backup us synced to [this repository on GitHub](https://github.com/reuse-
 Sections of this wiki:
 
 - [OpenDott](/opendott) - my PhD, part of the research project Open Design of Trusted Things
+	- [Roadmap](/opendott/roadmap)
 	- [Literature](/opendott/literature)
   	- [Smart cities](/opendott/literature/smart-cities) from a critical standpoint
     - [Waste prevention](/opendott/literature/waste-prevention) and smart cities
@@ -30,6 +31,4 @@ Sections of this wiki:
     - [Reuse City Co-design lab](/opendott/studies/reuse-city-lab)
     - [Experience prototype](/opendott/studies/experience-prototype)
   - [Prototypes](/opendott/prototypes)
-  - [Writing](/opendott/writing)
-  - [Presentations](/opendott/presentations)
   - [Public Engagement](/opendott/public-engagement)
