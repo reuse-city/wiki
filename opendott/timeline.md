@@ -2,7 +2,7 @@
 title: Timeline
 description: Current timeline of my PhD research project
 published: true
-date: 2021-06-21T09:34:28.945Z
+date: 2021-06-21T09:35:29.213Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-21T09:34:28.945Z
@@ -30,6 +30,8 @@ dateCreated: 2021-06-21T09:34:28.945Z
  - Experience prototype - video / performance
 
 ## Conferences / appearances / public engagement
+
+More details [here](/opendott/public-engagement).
 
  - 28th June - 1st July - Living Knowledge Festival
  - 29th June - Subversive Citizen Manual @MAB
