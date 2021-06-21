@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2021-06-21T09:00:46.745Z
+date: 2021-06-21T09:10:35.677Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-17T19:52:46.018Z
@@ -23,6 +23,7 @@ Sections of this wiki:
   - [Methodology](/opendott/methodology)
   	- [Design Research](/opendott/methodology/design-research)
     - [Ethnography](/opendott/methodology/ethnography)
+    - [Prototyping](/opendott/methodology/prototyping)
   - [Studies](/opendott/studies)
   	- [Repair Journey](/opendott/studies/repair-journey)
     - [Ecosystem Mapping](/opendott/studies/ecosystem-mapping)
