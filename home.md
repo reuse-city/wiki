@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2021-06-21T08:54:41.943Z
+date: 2021-06-21T08:55:21.157Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-17T19:52:46.018Z
@@ -28,3 +28,4 @@ Sections of this wiki:
   - [Prototypes](/opendott/prototypes)
   - [Writing](/opendott/writing)
   - [Presentations](/opendott/presentations)
+  - [Public Engagement](/opendott/public-engagement)
