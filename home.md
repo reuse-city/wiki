@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2021-06-21T09:17:23.460Z
+date: 2021-06-21T09:21:31.609Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-17T19:52:46.018Z
@@ -21,7 +21,7 @@ OpenDoTT (Open Design of Trusted Things) "is a PhD programme to explore how to b
 My research topic is "waste prevention in smart cities". In the following links you can find more information about it.
 
 - [OpenDott](/opendott)
-	- [Roadmap](/opendott/roadmap)
+	- Current [timeline](/opendott/timeline)
   - [Ethics](/opendott/ethics)
   - [Public Engagement](/opendott/public-engagement)
 
@@ -40,6 +40,7 @@ My research topic is "waste prevention in smart cities". In the following links 
     - [Ecosystem Mapping](/opendott/studies/ecosystem-mapping)
     - [Reuse City Co-design lab](/opendott/studies/reuse-city-lab)
     - [Experience prototype](/opendott/studies/experience-prototype)
+  - [Concept ideas](/opendott/concept-ideas)
   - [Prototypes](/opendott/prototypes)
   - [Policy](policy)
  
