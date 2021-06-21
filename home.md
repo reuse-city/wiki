@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2021-06-21T09:11:48.352Z
+date: 2021-06-21T09:16:42.885Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-17T19:52:46.018Z
@@ -14,13 +14,23 @@ Hi. I am [Felipe](https://is.efeefe.me). This wiki starts as a way to document m
 
 A live backup us synced to [this repository on GitHub](https://github.com/reuse-city/wiki/).
 
-Sections of this wiki:
+**1. OpenDoTT**
 
-- [OpenDott](/opendott) - my PhD, part of the research project Open Design of Trusted Things
+OpenDoTT (Open Design of Trusted Things) "is a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things". The [project](https://opendott.org) has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508.
+
+My research topic is "waste prevention in smart cities". In the following links you can find more information about it.
+
+- [OpenDott](/opendott)
 	- [Roadmap](/opendott/roadmap)
-	- [Literature](/opendott/literature)
+  - [Ethics](/opendott/ethics)
+  - [Public Engagement](/opendott/public-engagement)
+
+**Thesis outline**
+
+- [Literature](/opendott/literature)
   	- [Smart cities](/opendott/literature/smart-cities) from a critical standpoint
     - [Waste prevention](/opendott/literature/waste-prevention) and smart cities
+  - [Research questions](/opendott/research-questions)
   - [Methodology](/opendott/methodology)
   	- [Design Research](/opendott/methodology/design-research)
     - [Ethnography](/opendott/methodology/ethnography)
@@ -31,4 +41,4 @@ Sections of this wiki:
     - [Reuse City Co-design lab](/opendott/studies/reuse-city-lab)
     - [Experience prototype](/opendott/studies/experience-prototype)
   - [Prototypes](/opendott/prototypes)
-  - [Public Engagement](/opendott/public-engagement)
+ 
