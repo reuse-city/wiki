@@ -2,7 +2,7 @@
 title: OpenDoTT
 description: Open Design of Trusted Things - EU funded joint research project (Northumbria University + Mozilla Foundation)
 published: true
-date: 2021-06-21T09:42:34.153Z
+date: 2021-06-21T09:43:46.876Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-21T09:42:34.153Z
@@ -12,4 +12,4 @@ dateCreated: 2021-06-21T09:42:34.153Z
 
 > The challenges of the Internet of Things (IoT) require interdisciplinary thinking. OpenDoTT will train five Early Stage Researchers with backgrounds in design, technology, arts and activism to create and advocate for connected products that are more open, secure, and trustworthy.
 
-My research topic is "waste prevention and smart cities". In the following links you can find more information about it.
+My research topic is "waste prevention and smart cities". You can find more information about my investigation on other pages of this wiki, as well as on my [research blog](https://is.efeefe.me/opendott) and my [repository of links](https://links.efeefe.me/?searchtags=opendott).
