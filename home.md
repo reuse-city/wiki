@@ -38,7 +38,7 @@ My research topic is "waste prevention in smart cities". In the following links 
   - [Studies](/opendott/studies)
   	- [Repair Journey](/opendott/studies/repair-journey)
     - [Ecosystem Mapping](/opendott/studies/ecosystem-mapping)
-    - [Reuse City Co-design lab](/opendott/studies/reuse-city-lab)
+    - [reuse.city online co-design lab](/opendott/studies/reuse-city-lab)
     - [Experience prototype](/opendott/studies/experience-prototype)
     - [Generous City](/opendott/studies/generous-city)
   - [Concept ideas](/opendott/concept-ideas)
