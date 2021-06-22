@@ -3,14 +3,14 @@ title: Timeline
 description: Current timeline of my PhD research project
 published: true
 date: 2021-06-21T09:35:29.213Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-06-21T09:34:28.945Z
 ---
 
 # 2021
 
-## EU Deliverables Year 2
+## 1. EU Deliverables Year 2
 
 - D2.1 Technology Demonstrators
 - D2.2 Co-Designed IoT Concepts 2
@@ -18,20 +18,31 @@ dateCreated: 2021-06-21T09:34:28.945Z
 - D2.4 Deployment Datasets
 - D2.5 Open Technology Workbook
 
+## 2. Annual Progression 2021
 
-## Backlog
+- Auto-ethnography
 
+# Activities
 
- - Summarise reuse.city online discussions (mailing list / telegram / twitter)
- - Summarise miro boards / online documentation repository
- - New round at literature review
- - Prepare presentation co-designed concepts
- - Tech demonstrators - workbench E-I
- - Experience prototype - video / performance
+## Next tasks / backlog
 
-## Conferences / appearances / public engagement
+ - Report on [reuse.city lab](/opendott/studies/reuse-city-lab) (D2.2)
+   - Summarise reuse.city online discussions (mailing list / telegram / twitter)
+   - Summarise miro boards / online documentation repository
+   - Prepare presentation of co-designed concepts
+ - Tech demonstrators - workbench E-I (D2.1)
+ - Prototypes
+    - E-I documentation + video / performance (D2.3)
+    - thingwiki documentation (D2.3)
+    - transformation lab documentation (D2.3)
+    - [experience prototype](/opendott/experience-prototype) (D2.4)
+ - New round at literature review (Annual Progression)
+ - Progress report (Annual Progression)
+ - Clarify: Open Technology workbook template / format?
 
-More details [here](/opendott/public-engagement).
+## Conferences / events
+
+More info on events and public engagement [here](/opendott/public-engagement).
 
  - 28th June - 1st July - Living Knowledge Festival
  - 29th June - Subversive Citizen Manual @MAB
@@ -40,14 +51,10 @@ More details [here](/opendott/public-engagement).
  - 13th - 15th August - FAB City Summit
  - 6th - 9th October - 4S Summit
  - November - COP Glasgow (cooperating with Tales of Care and Repair)
- 
- 
-
 
 ---
 
-
-## Done
+## Completed tasks
 
 - Get videos transcribed
 - Sign up to Motionlab

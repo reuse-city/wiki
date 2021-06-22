@@ -1,9 +1,9 @@
 ---
 title: Reuse City Wiki
-description: 
+description:
 published: true
 date: 2021-06-21T09:21:31.609Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-06-17T19:52:46.018Z
 ---
@@ -40,7 +40,7 @@ My research topic is "waste prevention in smart cities". In the following links 
     - [Ecosystem Mapping](/opendott/studies/ecosystem-mapping)
     - [Reuse City Co-design lab](/opendott/studies/reuse-city-lab)
     - [Experience prototype](/opendott/studies/experience-prototype)
+    - [Generous City](/opendott/studies/generous-city)
   - [Concept ideas](/opendott/concept-ideas)
   - [Prototypes](/opendott/prototypes)
-  - [Policy](policy)
- 
+  - [Policy](/opendott/policy)
