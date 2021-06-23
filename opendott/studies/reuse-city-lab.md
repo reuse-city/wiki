@@ -2,7 +2,7 @@
 title: reuse.city lab
 description: Online co-design lab
 published: true
-date: 2021-06-23T09:03:43.323Z
+date: 2021-06-23T09:07:02.340Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-21T11:49:54.363Z
@@ -19,18 +19,20 @@ The reuse.city online co-design lab was created to expand on the original [conce
 The main goal of the reuse city lab is to understand to what extent the ability to assess the potential value of materials relies on a set of skills which could be augmented and replicated with the use of networked digital technologies.
 
 - RQ1: what are the cultural as well as informational elements that impact the ability to assess the potential value of discarded or broken materials?
-- RQ2: 
+- RQ2: can the skills involved in the reuse of materials be replicated via digital systems?
+- RQ3: what conditions outside of technology and information impact on the ability of cities to reuse a larger proportion of discarded materials?
 
 ## Participants
 
-Prior to and during the events in April, 29 participants from 10 different countries signed up and filled the consent form. A new round of recruitment will be done before the experience prototype phase.
+Prior to and during the events in April, 29 participants from 10 different countries in four continents signed up to the study and filled the consent form. A new round of recruitment will be done before the experience prototype phase.
 
 ## Recruitment
 
-The participants of reuse city lab were recruited by social media, invited personally by the researcher or suggested by colleagues and other participants. New participants will be invited via social media, as well as interest groups and communities such as Zero Waste Berlin, Motionlab, Zerbas Unite Berlin and Platform Coops Germany.
-Study methodology
+The participants of reuse city lab are recruited by social media, invited personally by the researcher or suggested by colleagues and other participants. New participants will be invited via social media, as well as interest groups and communities such as Zero Waste Berlin, Motionlab, Zerbas Unite Berlin and Platform Coops Germany.
 
-The participants will be sent a link that allows them to watch a video of the prototype in action, and reply to a structured questionnaire.
+## Study methodology
+
+Participatory + community building + open design + open-ended/spiral
 
 ## Activities
 
