@@ -2,7 +2,7 @@
 title: reuse.city lab
 description: Online co-design lab
 published: true
-date: 2021-06-23T06:59:51.587Z
+date: 2021-06-23T07:00:28.119Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-21T11:49:54.363Z
@@ -25,7 +25,7 @@ dateCreated: 2021-06-21T11:49:54.363Z
  - Importance of physical space. Reuse centres. Participants brought examples. Tools, materials. Storage is very important. Leave materials idle for future use.
  - Mobility: there are few places to get materials fixed (example participant in the US). My response: miniature workshops on top of bikes?
  - Wikipedia-inspired approach for the URT. My take: individual/personal contribution as well as automatic and institutional. Best metaphor might be free/open source software instead of wikipedia. In any case, "wiki" is understandable nowadays.
- -
+ 
 ## Co-designed concepts
 
 - [E-I](/opendott/prototypes/e-i)
