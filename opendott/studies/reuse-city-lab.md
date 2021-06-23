@@ -2,7 +2,7 @@
 title: reuse.city lab
 description: Online co-design lab
 published: true
-date: 2021-06-23T07:07:28.003Z
+date: 2021-06-23T09:03:43.323Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-21T11:49:54.363Z
@@ -12,17 +12,18 @@ dateCreated: 2021-06-21T11:49:54.363Z
 
 ## Objectives
 
-Through the workshops conducted during the reuse city lab in April 2021, new co-design concepts based on the original concept ideas were developed. Two of them were turned into prototypes: ThingWiki (an experimental implementation of the Universal Registry of Things) and E-I (an evaluation interface based on two earlier concept ideas).
-
-The experience prototype will wrap up the discussions by inviting participants to watch a demonstration of E-I and ThingWiki in use. The demonstration will be a video performance. Participants will then be asked to reply to a structured questionnaire on the internet.
+The reuse.city online co-design lab was created to expand on the original [concept ideas](/opendott/concept-ideas) developed in the first year of research, by involving participants interested and/or engaged on the reuse of second-hand goods and materials. The lab took place initially as a series of meetings and online discussions in April 2021. It was followed by a period of prototyping. The last phase of the lab will be an experience prototype, with a demonstration of the co-designed ideas in use and subsequent feedback from participants.
 
 ## Research questions
 
-- RQ1. How can technologies that help find information about goods and materials be integrated into urban patterns of reuse?
+The main goal of the reuse city lab is to understand to what extent the ability to assess the potential value of materials relies on a set of skills which could be augmented and replicated with the use of networked digital technologies.
+
+- RQ1: what are the cultural as well as informational elements that impact the ability to assess the potential value of discarded or broken materials?
+- RQ2: 
 
 ## Participants
 
-The experience prototype will invite the same participants who signed up the consent form for the reuse city co-design lab. New participants will be able to join as long as they fill the consent form.
+Prior to and during the events in April, 29 participants from 10 different countries signed up and filled the consent form. A new round of recruitment will be done before the experience prototype phase.
 
 ## Recruitment
 
@@ -31,9 +32,20 @@ Study methodology
 
 The participants will be sent a link that allows them to watch a video of the prototype in action, and reply to a structured questionnaire.
 
+## Activities
+
+Initially, the lab focused on two of the original concept ideas. The first one, the universal registry of things, had already been refined in a session at Mozfest 2021. The second was based on point-and-reuse, but was articulated in more abstract terms as "Evaluation Interface", or E-I. For discussion purposes, E-I could still be thought of as an app for mobile devices, but in tandem with the open hardware training and expected tech demonstrations, it is being prototyped as a workbench machine with similar functionality.
+
+Through the workshops conducted in April, new co-design concepts based on the original concept ideas were developed. Two of them are currently being turned into prototypes: ThingWiki (an experimental implementation of the Universal Registry of Things) and E-I (an evaluation interface based on two earlier concept ideas).
+
+The upcoming experience prototype phase will wrap up the discussions by inviting participants to watch a demonstration of E-I and ThingWiki in use. The demonstration will be an audiovisual performance. Participants will then be asked to reply to a structured online questionnaire.
+
+
 ## Analysis
 
 ### Main takeaways
+
+(very early impressions of the meetings in april)
 
  - Importance of physical space. Reuse centres. Participants brought examples. Tools, materials. Storage is very important. Leave materials idle for future use.
  - Mobility: there are few places to get materials fixed (example participant in the US). My response: miniature workshops on top of bikes?
