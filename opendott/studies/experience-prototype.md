@@ -2,7 +2,7 @@
 title: Experience Prototype
 description: Putting my prototypes to the test.
 published: true
-date: 2021-06-23T06:57:06.974Z
+date: 2021-06-23T06:57:39.321Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-21T09:19:25.434Z
@@ -20,7 +20,7 @@ dateCreated: 2021-06-21T09:19:25.434Z
 
 ## Research questions
 
-~~ - RQ1. How can technologies that help find information about goods and materials be integrated into urban patterns of reuse?~~
+- ~~RQ1. How can technologies that help find information about goods and materials be integrated into urban patterns of reuse?~~
 
 ## Participants
 
