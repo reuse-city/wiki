@@ -2,7 +2,7 @@
 title: Ethnography
 description: 
 published: true
-date: 2021-06-30T08:40:37.042Z
+date: 2021-06-30T08:41:13.585Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-21T09:52:04.740Z
