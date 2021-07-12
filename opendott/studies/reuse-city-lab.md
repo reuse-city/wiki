@@ -3,38 +3,74 @@ title: reuse.city lab
 description: Online co-design lab
 published: true
 date: 2021-06-23T09:07:02.340Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-06-21T11:49:54.363Z
 ---
 
-# reuse.city lab - study design
+# reuse.city (March-August 2021)
+
+reuse.city is a research study exploring waste prevention in smart cities. In earlier phases of this [PhD research](/opendott), two studies were carried out - [/studies/repair journey](repair-journey) and [/studies/ecosystem mapping](ecosystem-mapping) - which respectively identified participants’ behaviours towards broken objects, and how unwanted materials circulate in society before they are discarded. Building on such prior activities, reuse.city explores technologies, methods and behaviour involving the reuse of second hand goods and materials in cities and regions through practices of repair, upcycling and re-circulation.
 
 ## Objectives
 
-The reuse.city online co-design lab was created to expand on the original [concept ideas](/opendott/concept-ideas) developed in the first year of research, by involving participants interested and/or engaged on the reuse of second-hand goods and materials. The lab took place initially as a series of meetings and online discussions in April 2021. It was followed by a period of prototyping. The last phase of the lab will be an experience prototype, with a demonstration of the co-designed ideas in use and subsequent feedback from participants.
+The main goal of this study is to understand to what extent the ability to
+reuse goods and materials in cities and regions can be promoted with the aid of networked digital tecnologies. A secondary objective is to investigate social as well as cultural aspects influencing the reuse of goods and materials.
+
+The research objectives will be accomplished by three axes of activities conducted in parallel:
+
+ - engaging with a group of participants in a series of workshops called reuse.city co-design lab
+ - building prototypes of technology to help assess the potential value of goods and materials
+ - conducting ethnographic fieldwork in the city of Berlin
 
 ## Research questions
 
-The main goal of the reuse city lab is to understand to what extent the ability to assess the potential value of materials relies on a set of skills which could be augmented and replicated with the use of networked digital technologies.
+reuse.city seeks to expand the understanding about the diverse skills and abilities involved with assessing the potential value of discarded materials, as well as realising that value with the aid of digital technologies. It is expected to address the following research questions:
 
 - RQ1: what are the cultural as well as informational elements that impact the ability to assess the potential value of discarded or broken materials?
 - RQ2: can the skills involved in the reuse of materials be replicated via digital systems?
-- RQ3: what conditions outside of technology and information impact on the ability of cities to reuse a larger proportion of discarded materials?
+- RQ3: ~~what conditions outside of technology and information impact on the ability of cities to reuse a larger proportion of discarded materials?~~
 
 ## Participants
 
-Prior to and during the events in April, 29 participants from 10 different countries in four continents signed up to the study and filled the consent form. A new round of recruitment will be done before the experience prototype phase.
+The reuse.city co-design lab recruited 29 participants from 10 different countries in four continents which signed up to the study and filled the consent form.
 
 ## Recruitment
 
-The participants of reuse city lab are recruited by social media, invited personally by the researcher or suggested by colleagues and other participants. New participants will be invited via social media, as well as interest groups and communities such as Zero Waste Berlin, Motionlab, Zerbas Unite Berlin and Platform Coops Germany.
+The participants of reuse city lab were recruited by social media, invited personally by the researcher or suggested by colleagues and other participants.
 
 ## Study methodology
 
+reuse.city approaches the [research questions](#research-questions) from three complementary perspectives:
+
+ - the reuse.city co-design lab was created to expand on the original [concept ideas](/opendott/concept-ideas) developed in the first year of research, by involving [participants](#participants) interested and/or engaged on the reuse of second-hand goods and materials. It became also an opportunity to start building a community of stakeholders experienced in activities of reuse and repair.
+ - prototyping and experimenting with digital technologies to promote the reuse of materials in tandem with the training module on open hardware.
+ - an ethnographic exploration of reuse in the city of Berlin, and how the prototypes would impact on the reuse of materials.
+
+
 Participatory + community building + open design + open-ended/spiral
 
+
+In order to expand and disseminate the reuse of materials so as to contribute to prevent the generation of waste, the project seeks to understand what types of data, skills and experience are involved in assessing the potential value of
+goods and materials. The main goal is to envision technologies that replicate and expand on the skills of evaluating materials and their potential reuse.
+
+
+
+
+This will be
+accomplished by a combination of two concept ideas: a multi‐layered database of objects and materials (“universal registry
+of things”); and a machine that identifies objects against the database and displays information about their repairability,
+spare parts, authorised repair shops, and possibilities for reuse and recycling. Through online workshops, groups of
+participants with diverse levels of involvement with repair, reuse and waste will be exposed to a prototype of such
+concept ideas and discuss what their implications might be in real scenarios.
+[1] https://ecossolies.fr/Formation‐Agent‐valoriste,
+
+
+
+
 ## Activities
+
+The lab took place initially as a series of meetings and online discussions in April 2021. As well as refining the concept ideas and informing their prototyping, the reuse.city co-design lab became also an opportunity to put in practice community-building and open methodologies.
 
 Initially, the lab focused on two of the original concept ideas. The first one, the universal registry of things, had already been refined in a session at Mozfest 2021. The second was based on point-and-reuse, but was articulated in more abstract terms as "Evaluation Interface", or E-I. For discussion purposes, E-I could still be thought of as an app for mobile devices, but in tandem with the open hardware training and expected tech demonstrations, it is being prototyped as a workbench machine with similar functionality.
 
