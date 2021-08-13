@@ -3,7 +3,7 @@ title: Timeline
 description: Current timeline of my PhD research project
 published: true
 date: 2021-06-23T07:00:06.875Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-06-21T09:34:28.945Z
 ---
@@ -36,7 +36,7 @@ dateCreated: 2021-06-21T09:34:28.945Z
     - thingwiki documentation (D2.3)
     - transformation lab documentation (D2.3)
     - [experience prototype](/opendott/studies/experience-prototype) (D2.4)
- - New round at literature review (Annual Progression)
+ - New round at literature review (Annual Progression 2)
  - Progress report (Annual Progression)
  - Clarify: Open Technology workbook template / format?
 
