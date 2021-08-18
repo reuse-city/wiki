@@ -3,7 +3,7 @@ title: OpenDoTT
 description: Open Design of Trusted Things - EU funded joint research project (Northumbria University + Mozilla Foundation)
 published: true
 date: 2021-06-21T09:43:46.876Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-06-21T09:42:34.153Z
 ---

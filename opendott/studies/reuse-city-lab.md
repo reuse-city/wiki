@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-06-21T11:49:54.363Z
 ---
 
-# reuse.city (March-August 2021)
+# reuse.city online co-design lab (March-August 2021)
 
 reuse.city is a research study exploring waste prevention in smart cities. In earlier phases of this [PhD research](/opendott), two studies were carried out - [/studies/repair journey](repair-journey) and [/studies/ecosystem mapping](ecosystem-mapping) - which respectively identified participants’ behaviours towards broken objects, and how unwanted materials circulate in society before they are discarded. Building on such prior activities, reuse.city explores technologies, methods and behaviour involving the reuse of second hand goods and materials in cities and regions through practices of repair, upcycling and re-circulation.
 
