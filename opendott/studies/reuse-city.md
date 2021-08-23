@@ -2,33 +2,33 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2021-08-23T15:10:19.082Z
+date: 2021-08-23T15:17:51.935Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-23T09:05:08.367Z
 ---
 
 # reuse.city
-## Online co-design lab (March-August 2021)
+## Online co-design lab
 
-reuse.city is a research study created to co-design speculative technologies, methodologies and systems to promote the reuse of goods and materials in cities and regions. It is part of a [PhD research on waste prevention and smart cities](/opendott). 
+reuse.city is a research study created to co-design speculative technologies, methodologies and systems to promote the reuse of goods and materials in cities and regions. It was conducted between April and August 2021, as part of a [PhD research on waste prevention and smart cities](/opendott). 
 
 ## Objectives
 
-The main goal of reuse.city has been to co-design ways to expand the ability to reuse goods and materials in cities and regions, particularly with the aid of networked digital tecnologies. A secondary objective was to investigate social as well as cultural aspects that influence the reuse of goods and materials.
+The main goal of reuse.city was to co-design ways to expand the ability to reuse goods and materials in cities and regions, particularly with the aid of networked digital tecnologies. A secondary objective was to investigate social as well as cultural aspects that influence the reuse of goods and materials.
 
 The research objectives are to be accomplished by two complementary sets of activities conducted in parallel:
 
  - engaging with an international group of participants in a series of meetings and workshops;
- - prototyping technologies to help assess and realise the potential value of goods and materials.
+ - prototyping speculative technologies to help assess and realise the potential value of goods and materials.
 
+Building on [prior stages of research](#background), the reuse.city co-design lab aims at co-designing technologies, methods and communication to promote the reuse of second hand goods and materials in cities and regions through practices of repair, upcycling and re-circulation.
 
 ## Background
 
-Earlier in this PhD research, two studies were carried out: the [repair journey](/opendott/studies/repair-journey); and an [ecosystem mapping](/opendott/studies/ecosystem-mapping). Respectively, those studies identified participants’ behaviours towards broken objects; and how unwanted materials circulate in society before they are discarded.
+In earlier phases of this PhD research, two other studies were carried out: the [repair journey](/opendott/studies/repair-journey); and an [ecosystem mapping](/opendott/studies/ecosystem-mapping). Respectively, those studies identified participants’ behaviours towards broken objects; and how unwanted materials circulate in society before they are discarded.
 
-Building on such prior activities, reuse.city was created to co-designing technologies, methods and communication to promote the reuse of second hand goods and materials in cities and regions through practices of repair, upcycling and re-circulation.
-
+Building on such prior activities, reuse.city was created to co-design technologies, methods and communication that promote the reuse of second hand goods and materials in cities and regions through practices of repair, upcycling and re-circulation.
 
 ## Research questions
 
@@ -90,4 +90,4 @@ See [lab](/opendott/studies/reuse-city/lab) for a summarised report.
 
 ### Community building
 
-- Participants agreed to keep in touch after the study was finished
+- Participants agreed to keep in touch after the study was finished. An e-mail list and a group in Telegram were used for that.
