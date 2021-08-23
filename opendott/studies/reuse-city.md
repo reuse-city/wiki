@@ -36,7 +36,7 @@ It is expected to address the following research questions:
 
 ## Participants
 
-The reuse.city co-design lab recruited 29 participants from 10 different countries in four continents which signed up to the study and filled the [consent form](/opendott/studies/reuse-city-lab/ethics).
+The reuse.city co-design lab recruited 29 participants from 10 different countries in four continents which signed up to the study and filled the [consent form](/opendott/studies/reuse-city/ethics).
 
 ## Recruitment
 
@@ -54,7 +54,7 @@ As a whole, reuse.city approaches the [research questions](#research-questions) 
 
 ## Output
 
-See [lab](/opendott/studies/reuse-city-lab/lab) for a summarised report.
+See [lab](/opendott/studies/reuse-city/lab) for a summarised report.
 
 ### Process documentation
 

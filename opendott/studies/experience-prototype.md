@@ -3,18 +3,18 @@ title: Experience Prototype
 description: Putting my prototypes to the test.
 published: true
 date: 2021-06-23T06:57:39.321Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-06-21T09:19:25.434Z
 ---
 
 # Experience prototype
 
-> The text below is outdated. The experience prototype will be integrated with the [reuse.city lab](/opendott/studies/reuse-city-lab).
+> The text below is outdated. The experience prototype will be integrated with the [reuse.city lab](/opendott/studies/reuse-city).
 
 ## Objectives
 
-~~Through the workshops conducted during the [reuse city lab](/opendott/studies/reuse-city-lab) in April 2021, new co-design concepts based on the original [concept ideas](/opendott/concept-ideas) were developed. Two of them were turned into prototypes: [ThingWiki](/opendott/prototypes/thingwiki) (an experimental implementation of the Universal Registry of Things) and [E-I](/opendott/prototypes/e-i) (an evaluation interface based on two earlier [concept ideas](/opendott/concept-ideas)).~~
+~~Through the workshops conducted during the [reuse city lab](/opendott/studies/reuse-city) in April 2021, new co-design concepts based on the original [concept ideas](/opendott/concept-ideas) were developed. Two of them were turned into prototypes: [ThingWiki](/opendott/prototypes/thingwiki) (an experimental implementation of the Universal Registry of Things) and [E-I](/opendott/prototypes/e-i) (an evaluation interface based on two earlier [concept ideas](/opendott/concept-ideas)).~~
 
 ~~The experience prototype will wrap up the discussions by inviting participants to watch a demonstration of E-I and ThingWiki in use. The demonstration will be a video performance. Participants will then be asked to reply to a structured questionnaire on the internet.~~
 
@@ -24,7 +24,7 @@ dateCreated: 2021-06-21T09:19:25.434Z
 
 ## Participants
 
-~~The experience prototype will invite the same participants who signed up the consent form for the [reuse city co-design lab](/opendott/studies/reuse-city-lab). New participants will be able to join as long as they fill the consent form.~~
+~~The experience prototype will invite the same participants who signed up the consent form for the [reuse city co-design lab](/opendott/studies/reuse-city). New participants will be able to join as long as they fill the consent form.~~
 
 ## Recruitment
 

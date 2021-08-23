@@ -26,7 +26,7 @@ dateCreated: 2021-06-21T09:34:28.945Z
 
 ## Next tasks / backlog
 
- - Report on [reuse.city lab](/opendott/studies/reuse-city-lab) (D2.2)
+ - Report on [reuse.city lab](/opendott/studies/reuse-city) (D2.2)
    - Summarise reuse.city online discussions (mailing list / telegram / twitter)
    - Summarise miro boards / online documentation repository
    - Prepare presentation of co-designed concepts
