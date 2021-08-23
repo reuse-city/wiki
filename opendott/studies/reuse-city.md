@@ -2,7 +2,7 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2021-08-23T15:06:10.002Z
+date: 2021-08-23T15:09:12.373Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-23T09:05:08.367Z
@@ -60,8 +60,8 @@ The reuse.city lab approached the [research questions](#research-questions) from
    - The [Universal Registry of Things](/opendott/concept-ideas/universal-registry) as informational groundwork - a multi-layered database of objects and materials about things and their repairability, spare parts, authorised repair shops, and possibilities for reuse and recycling.
    - Hardware based on the concept of [Point and Reuse](/opendott/concept-ideas/point-reuse): a machine that identifies objects against the database and displays information.
  - Conducting meetings and workshops with [participants](#participants) interested in and/or engaged with the reuse of second-hand goods and materials. 
- - Prototyping and experimenting with digital technologies to promote the reuse of materials in tandem with a [training module on open hardware](/opendott/training/open-hardware).
- - an ethnographic exploration of reuse in the city of Berlin, and how the prototypes could impact on the reuse of materials.
+ - [Prototyping](/opendott/prototypes) and experimenting with digital technologies to promote the reuse of materials in tandem with a [training module on open hardware](/opendott/training/open-hardware).
+ - An auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials.
 
 
 ## Output
