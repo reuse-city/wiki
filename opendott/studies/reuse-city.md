@@ -2,26 +2,33 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2021-06-23T09:07:02.340Z
-tags:
+date: 2021-08-23T14:42:13.303Z
+tags: 
 editor: markdown
-dateCreated: 2021-06-21T11:49:54.363Z
+dateCreated: 2021-08-23T09:05:08.367Z
 ---
 
 # reuse.city
-## online co-design lab (March-August 2021)
+## Online co-design lab (March-August 2021)
 
-reuse.city is a research study exploring waste prevention in smart cities. In earlier phases of the [PhD research on waste prevention and smart cities](/opendott), two studies were carried out: the [repair journey](/opendott/studies/repair-journey) and an [ecosystem mapping](/opendott/studies/ecosystem-mapping). Respectively, the studies identified participants’ behaviours towards broken objects, and how unwanted materials circulate in society before they are discarded. Building on such prior activities, reuse.city aims at co-designing technologies, methods and communication to promote the reuse of second hand goods and materials in cities and regions through practices of repair, upcycling and re-circulation.
+reuse.city is a research study created to co-design speculative technologies, methodologies and systems to promote the reuse of goods and materials in cities and regions. It is part of a [PhD research on waste prevention and smart cities](/opendott). 
 
 ## Objectives
 
-The main goal of reuse.city is to co-design ways to expand the ability to reuse goods and materials in cities and regions, particularly with the aid of networked digital tecnologies. A secondary objective is to investigate social as well as cultural aspects that influence the reuse of goods and materials.
+The main goal of reuse.city has been to co-design ways to expand the ability to reuse goods and materials in cities and regions, particularly with the aid of networked digital tecnologies. A secondary objective was to investigate social as well as cultural aspects that influence the reuse of goods and materials.
 
-The research objectives are to be accomplished by three sets of activities conducted in parallel:
+The research objectives are to be accomplished by two complementary sets of activities conducted in parallel:
 
- - engaging with an international group of participants in an online co-design lab
- - building prototypes of technology to help assess the potential value of goods and materials
- - conducting ethnographic fieldwork in the city of Berlin
+ - engaging with an international group of participants in a series of meetings and workshops;
+ - prototyping technologies to help assess and realise the potential value of goods and materials.
+
+
+## Background
+
+Earlier in this PhD research, two studies were carried out: the [repair journey](/opendott/studies/repair-journey); and an [ecosystem mapping](/opendott/studies/ecosystem-mapping). Respectively, those studies identified participants’ behaviours towards broken objects; and how unwanted materials circulate in society before they are discarded.
+
+Building on such prior activities, reuse.city was created to co-designing technologies, methods and communication to promote the reuse of second hand goods and materials in cities and regions through practices of repair, upcycling and re-circulation.
+
 
 ## Research questions
 
