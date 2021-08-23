@@ -2,7 +2,7 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2021-08-23T14:42:13.303Z
+date: 2021-08-23T14:46:51.947Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-23T09:05:08.367Z
@@ -33,17 +33,20 @@ Building on such prior activities, reuse.city was created to co-designing techno
 ## Research questions
 
 reuse.city seeks to expand understanding of the diverse skills and abilities involved with
- - assessing the potential value of discarded materials
+ - assessing the potential value of discarded materials.
  - realising that value with the aid of digital technologies.
 
 It is expected to address the following research questions:
 
-- RQ1: what are the skills involved in the reuse of materials? Can they be augmented and replicated via digital systems? What kind of hardware and software is necessary for that?
-- RQ2: what kind of facility can help improve the amount of materials that are reused in cities and regions? Are there relevant experiences in place anywhere in the world that can inspire such systems?
+- RQ1: what are the skills involved in the reuse of materials? 
+  - Can those skills they be augmented and replicated via digital systems?
+  - What kind of hardware and software would be necessary for that?
+- RQ2: what kind of facility can help improve the amount of materials that are reused in cities and regions? 
+  - Are there relevant experiences in place anywhere in the world that can inspire such systems?
 
 ## Participants
 
-The reuse.city co-design lab recruited 29 participants from 10 different countries in four continents which signed up to the study and filled the [consent form](/opendott/studies/reuse-city/ethics).
+The reuse.city co-design lab recruited 29 participants from 10 different countries in four continents, all of which signed up to the study and filled the [consent form](/opendott/studies/reuse-city/ethics). 
 
 ## Recruitment
 
