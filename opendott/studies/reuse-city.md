@@ -2,7 +2,7 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2021-08-23T14:46:51.947Z
+date: 2021-08-23T15:06:10.002Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-23T09:05:08.367Z
@@ -46,7 +46,7 @@ It is expected to address the following research questions:
 
 ## Participants
 
-The reuse.city co-design lab recruited 29 participants from 10 different countries in four continents, all of which signed up to the study and filled the [consent form](/opendott/studies/reuse-city/ethics). 
+The reuse.city co-design lab recruited 29 participants from ten different countries in four continents, all of which signed up to the study and filled the [consent form](/opendott/studies/reuse-city/ethics). Not all of the people who signed up have engaged with the lab activities.
 
 ## Recruitment
 
@@ -54,11 +54,13 @@ The participants of reuse city lab were recruited via social media, invited pers
 
 ## Study methodology
 
-As a whole, reuse.city approaches the [research questions](#research-questions) from three complementary perspectives:
+The reuse.city lab approached the [research questions](#research-questions) from different perspectives.
 
- - the reuse.city co-design lab was created expand on the original [concept ideas](/opendott/concept-ideas) developed in the first year of research, by involving [participants](#participants) interested in and/or engaged with the reuse of second-hand goods and materials. It was based on a combination of two concept ideas: a multi‐layered database of objects and materials (“universal registry of things”); and a machine that identifies objects against the database and displays information about their repairability,
- spare parts, authorised repair shops, and possibilities for reuse and recycling.
- - prototyping and experimenting with digital technologies to promote the reuse of materials in tandem with a [training module on open hardware](/opendott/training/open-hardware).
+ - Expanding on original [concept ideas](/opendott/concept-ideas) developed in the first year of research:
+   - The [Universal Registry of Things](/opendott/concept-ideas/universal-registry) as informational groundwork - a multi-layered database of objects and materials about things and their repairability, spare parts, authorised repair shops, and possibilities for reuse and recycling.
+   - Hardware based on the concept of [Point and Reuse](/opendott/concept-ideas/point-reuse): a machine that identifies objects against the database and displays information.
+ - Conducting meetings and workshops with [participants](#participants) interested in and/or engaged with the reuse of second-hand goods and materials. 
+ - Prototyping and experimenting with digital technologies to promote the reuse of materials in tandem with a [training module on open hardware](/opendott/training/open-hardware).
  - an ethnographic exploration of reuse in the city of Berlin, and how the prototypes could impact on the reuse of materials.
 
 
