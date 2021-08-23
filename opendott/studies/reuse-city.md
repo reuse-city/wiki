@@ -2,7 +2,7 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2021-08-23T15:09:12.373Z
+date: 2021-08-23T15:10:19.082Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-23T09:05:08.367Z
@@ -66,6 +66,8 @@ The reuse.city lab approached the [research questions](#research-questions) from
 
 ## Output
 
+### Report
+
 See [lab](/opendott/studies/reuse-city/lab) for a summarised report.
 
 ### Process documentation
@@ -80,12 +82,11 @@ See [lab](/opendott/studies/reuse-city/lab) for a summarised report.
  - Updates on [Twitter](https://twitter.com/reuse_city).
  - Transcription of workshops (to be added soon to the repository)
 
-### Co-designed concepts
+### Co-designed updated concepts / prototypes
 
 - [E-I](/opendott/prototypes/e-i)
 - [ThingWiki](/opendott/prototypes/thingwiki)
 - [Transformation Labs](/opendott/prototypes/transformation-labs)
-
 
 ### Community building
 
