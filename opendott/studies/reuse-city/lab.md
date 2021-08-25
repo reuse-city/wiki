@@ -12,21 +12,20 @@ dateCreated: 2021-08-18T14:07:02.340Z
 
 ## Abstract
 
+LATER
+
 ## Introduction
 
-Waste is arguably one of the most explicit signs of the pervasiveness of global industrial production. A growing volume of manufactured goods is discarded every minute - from hyperconnected megacities in Asia to isolated rural villages in Latin America. That very fact can be interpreted as a systemic lack of balance. Approaches such as cradle-to-cradle [REF], circular economy [REF] and the doughnut economy [REF] point to how unsustainable production paradigms currently are. As an alternative to a linear mode of production, superficially described as "take / make / dispose", authors and organisations active in those fields propose moving towards cyclic and regenerative practices. These are to be pursued chiefly through better design, materials science and policy [REF]. Research on the environmental as well as financial impact of waste is used to back these predicaments [Footnote about reports from international agencies for environment and development]. Within that scenario, uncountable initiatives trying to promote regenerative practices organise themselves around themes such as zero waste, upcycling and the right to repair in all parts of the world.
+Waste is arguably one of the most explicit signs of the pervasiveness of global industrial production. A high - and growing - volume of manufactured goods is discarded every minute, in hyperconnected megacities as well as isolated rural villages and everything in between. That itself represents a systemic unbalance. Approaches such as cradle-to-cradle [REF], circular economy [REF] and the doughnut economy [REF] point to how unsustainable production paradigms currently are. Alternatively to a linear mode of production, superficially described as "take / make / dispose", authors and organisations active in those fields propose moving towards cyclic and regenerative practices. These are to be pursued chiefly through better design, materials science and policy [REF]. Data on the environmental as well as financial impact of waste is used to back these predicaments [Footnote about reports from international agencies for environment and development]. Within that scenario, uncountable initiatives trying to promote regenerative practices organise themselves around themes such as zero waste, upcycling and the right to repair in all parts of the world.
 
-With remarkable exceptions [FOOTNOTE? or mention later in the discussion section?], local and regional authorities seem largely blind to that kind of discussion. And it is precisely that the scale of public sector usually responsible for handling waste and materials discarded by local societies. Even when considerable investment is made into modernising public administration with the aid of technologies - notably on "smart city" initiatives -, little attention is paid to the importance of rethinking material flows. On the rare occasion that the subject is discussed, the perspective is usually one of increasing the efficiency of waste collection. In other words, making discarded materials go quickly and affordably from households, businesses and other organisations to waste management facilities - where they will be recycled, composted, incinerated or sent to landfills.
+With remarkable exceptions [FOOTNOTE? or mention later in the discussion section?] however, local and regional authorities seem largely blind to that kind of discussion. And that  - local and regional - is precisely the scale of public sector usually responsible for handling waste and materials discarded by local societies and businesses. Even when considerable investment is made into modernising public administration with the aid of technologies - notably on "smart city" initiatives -, little attention is paid to the importance of rethinking material flows. On the rare occasion that the subject is discussed, the perspective is usually one of increasing the efficiency of waste collection. In other words, making discarded materials be transported quickly and affordably from households, businesses and other organisations to waste management facilities - where said materials will be recycled, composted, incinerated or sent to landfills.
 
-Consultancies and IT corporations active in the smart city scenario will seldom go beyond complying with WEEE regulations for their own equipment. Gizmos such as "smart bins" are mentioned here and there, as if to justify public money being spent on hardware. The waste management industry is well established and developed: over the last decades, technical and managerial improvements were made on the collection, sorting, recycling, incineration and landfilling of materials [REF]. However, those improvements pose little challenge to the dominant linear production paradigm. Raising awareness about the volume of waste generated everyday and devising technologies that help society generate less waste - rather than cope with more of it - are nowhere to be seen.
+When it comes to waste, consultancies and IT corporations active in the smart city scenario will rarely go beyond complying with WEEE (Waste from Electrical and Electronic Equipment) regulations for their own products. Gizmos such as "smart bins" are mentioned here and there, as if to justify public money being spent on hardware. Granted, the waste management industry is well established and developed: over the last decades, technical and managerial improvements were made on the collection, sorting, recycling, incineration and landfilling of materials [REF]. However, those improvements pose little challenge to the dominant linear production paradigm. Raising awareness about the volume of waste generated everyday and devising technologies that help society generate less waste - rather than cope with more of it - are nowhere to be seen.
 
+My PhD research explores the overlapping points between systems-based sustainable alternatives for material flows (seeking circularity and other regenerative approaches); the technologic development applied to improve public administration at a local and regional level (through a critical take on smart cities, maker culture and directed public investment); and socially inclusive possibilities (proposing commons-based governance of materials looking at socio-economic inclusion).
 
+In order to expand on ideas developed on earlier stages of investigation whilst adapting to the conditions of performing participatory research under the uncertainty of pandemic times, an online co-design lab was devised. As a way to focus attention on the topic of waste prevention at a local level through collective practices of reuse, it was named reuse.city. Its goal was to invite participants involved with practices of reuse to refine earlier concept ideas and co-design improved concepts to be prototyped.
 
-
-TODO INTRO:
-
- - this study: co-design prototypes (tech + city presence)
- - community in the making
 
 ## Background
 
@@ -78,6 +77,9 @@ The reuse.city lab approached the [research questions](#research-questions) from
 ## Results
 
 In implementation, it became also an opportunity to start building an international community of stakeholders experienced in activities of reuse and repair.
+
+- community in the making
+
 
 Extensive documentation, all public
 
