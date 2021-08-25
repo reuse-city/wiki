@@ -14,15 +14,23 @@ dateCreated: 2021-08-18T14:07:02.340Z
 
 ## Introduction
 
-Waste is arguably one of the most explicit signs of how pervasive industrial production is. A growing volume of manufactured goods is discarded every minute in every part of the world - from hyperconnected megacities in Asia to isolated rural villages in Latin America. That very fact can be interpreted as a systemic lack of balance. Approaches such as cradle-to-cradle [REF], circular economy [REF] and the doughnut economy [REF] all point to the fact that most of contemporary industrial production is based on an unsustainable linear mode of production, superficially described as "take / make / dispose". Authors and organisations active in those fields propose moving towards cyclic and regenerative practices, to be pursued chiefly through better design, materials science and policy [REF]. Research on the environmental as well as financial impact of waste is used to back these predicaments. Initiatives that try to promote regenerative practices organise themselves around themes such as zero waste, upcycling and the right to repair.
+Waste is arguably one of the most explicit signs of the pervasiveness of global industrial production. A growing volume of manufactured goods is discarded every minute - from hyperconnected megacities in Asia to isolated rural villages in Latin America. That very fact can be interpreted as a systemic lack of balance. Approaches such as cradle-to-cradle [REF], circular economy [REF] and the doughnut economy [REF] point to how unsustainable production paradigms currently are. As an alternative to a linear mode of production, superficially described as "take / make / dispose", authors and organisations active in those fields propose moving towards cyclic and regenerative practices. These are to be pursued chiefly through better design, materials science and policy [REF]. Research on the environmental as well as financial impact of waste is used to back these predicaments [Footnote about reports from international agencies for environment and development]. Within that scenario, uncountable initiatives trying to promote regenerative practices organise themselves around themes such as zero waste, upcycling and the right to repair in all parts of the world.
 
-And yet, with remarkable exceptions [FOOTNOTE? or mention later in the discussion section?], local and regional authorities seem largely blind to that discussion. Public institutions on those scales are generally the ones responsible for handling waste and discarded materials. Even when considerable investment is made into modernising public administration with the aid of technologies, little attention is paid to the importance of rethinking material flows. On the rare occasion that the subject is discussed, the perspective is usually one of increasing the productivity of waste collection. In other words, making materials go quickly and affordably from households, businesses and other organisations to waste management facilities - where they will be recycled, composted, incinerated or sent to treated landfills.
+With remarkable exceptions [FOOTNOTE? or mention later in the discussion section?], local and regional authorities seem largely blind to that kind of discussion. And it is precisely that the scale of public sector usually responsible for handling waste and materials discarded by local societies. Even when considerable investment is made into modernising public administration with the aid of technologies - notably on "smart city" initiatives -, little attention is paid to the importance of rethinking material flows. On the rare occasion that the subject is discussed, the perspective is usually one of increasing the efficiency of waste collection. In other words, making discarded materials go quickly and affordably from households, businesses and other organisations to waste management facilities - where they will be recycled, composted, incinerated or sent to landfills.
 
-TODO:
+Consultancies and IT corporations active in the smart city scenario will seldom go beyond complying with WEEE regulations for their own equipment. Gizmos such as "smart bins" are mentioned here and there, as if to justify public money being spent on hardware. The waste management industry is well established and developed: over the last decades, technical and managerial improvements were made on the collection, sorting, recycling, incineration and landfilling of materials [REF]. However, those improvements pose little challenge to the dominant linear production paradigm. Raising awareness about the volume of waste generated everyday and devising technologies that help society generate less waste - rather than cope with more of it - are nowhere to be seen.
 
- -
+
+
+
+TODO INTRO:
+
+ - this study: co-design prototypes (tech + city presence)
+ - community in the making
 
 ## Background
+
+TODO Background:
 
  - repair journey
  - ecosystem mapping
@@ -71,7 +79,7 @@ The reuse.city lab approached the [research questions](#research-questions) from
 
 In implementation, it became also an opportunity to start building an international community of stakeholders experienced in activities of reuse and repair.
 
-### Process documentation
+Extensive documentation, all public
 
  - [GitHub repository](https://github.com/reuse-city/lab/)
  - [Video playlist on youtube](https://www.youtube.com/watch?v=v2pt18kbZis&list=PLSHdLCc8rAqvn9bf4-96V3M8k3jdctzz9)
@@ -83,18 +91,9 @@ In implementation, it became also an opportunity to start building an internatio
  - Updates on [Twitter](https://twitter.com/reuse_city).
  - Transcription of workshops (to be added soon to the repository)
 
-### Co-designed updated concepts / prototypes
-
-- [E-I](/opendott/prototypes/e-i)
-- [ThingWiki](/opendott/prototypes/thingwiki)
-- [Transformation Labs](/opendott/prototypes/transformation-labs)
-
-### Community building
-
-- Participants agreed to keep in touch after the study was finished. An e-mail list and a group in Telegram were used for that.
 
 
-## Activities
+## Activities performed
 
 The lab took place initially as a series of meetings and online discussions in April 2021. As well as refining the concept ideas and informing their prototyping, the reuse.city co-design lab became also an opportunity to put in practice community-building and open methodologies.
 
@@ -104,20 +103,22 @@ Through the workshops conducted in April, new co-design concepts based on the or
 
 The upcoming experience prototype phase will wrap up the discussions by inviting participants to watch a demonstration of E-I and ThingWiki in use. The demonstration will be an audiovisual performance. Participants will then be asked to reply to a structured online questionnaire.
 
-## Analysis
+Updated concepts / co-designed prototypes
 
+- [E-I](/opendott/prototypes/e-i)
+- [ThingWiki](/opendott/prototypes/thingwiki)
+- [Transformation Labs](/opendott/prototypes/transformation-labs)
 
-
-### Main takeaways
-
-(very early impressions of the meetings in april)
+## Discussion
 
  - Importance of physical space. Reuse centres. Participants brought examples. Tools, materials. Storage is very important. Leave materials idle for future use.
  - Mobility: there are few places to get materials fixed (example participant in the US). My response: miniature workshops on top of bikes?
  - Wikipedia-inspired approach for the URT. My take: individual/personal contribution as well as automatic and institutional. Best metaphor might be free/open source software instead of wikipedia. In any case, "wiki" is understandable nowadays.
 
-## Discussion
+Community in the making (spiral of openness)
 
 ## Conclusion
+
+- Participants agreed to keep in touch after the study was finished. An e-mail list and a group in Telegram were used for that.
 
 ## References
