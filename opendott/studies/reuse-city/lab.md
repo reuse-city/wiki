@@ -74,11 +74,71 @@ The reuse.city lab approached the [research questions](#research-questions) from
  - [Prototyping](/opendott/prototypes) and experimenting with digital technologies to promote the reuse of materials in tandem with a [training module on open hardware](/opendott/training/open-hardware).
  - An auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials.
 
-## Results
+## The lab
+
+Spiral of openness. Build as we go. Provide different means of interaction for different particpiants. Create triggers for conversations.
+
+1. Introduction: getting to know participants, deciding how to move forward. IoT day. Introducing my research. Video:
+
+https://www.youtube.com/watch?v=v2pt18kbZis
+
+Expectation:
+
+1.1. grow a community. Reuse materials in local contexts. People already interested. How to communicate? What is an open design lab? Let's build it together. Work with people who are already interested. How to start?
+
+1.2. Why reuse?
+
+1.3. IoT day. Tech won't solve, but can start conversations.
+
+2. Fragments.
+
+- Waste prevention and smart cities https://www.youtube.com/watch?v=mMFH11Sxi_M https://slides.com/efeefe/reuse-city-intro
+
+2nd week
+
+Before this week's sessions, or even in parallel if you are not able to join in, I would like you to tell the others and myself what kinds of structures or social/cultural practices for the reuse of materials you see in your own context.
+
+For instance, in the neighbourhood where I live in Berlin, people will often leave clothes, furniture and appliances to be donated practically everywhere. At the lobby of a residential building, in front of one's home, at a park or in the donation points present in many streets. Is this kind of practice common where you live? Or else, do you know of something similar in another city or town?
+
+As well as sharing and talking about those stories, I want also to learn more about what kind of selection takes place. Do people give away things to strangers, or only among friends and family? And particularly for the purposes of the lab: how decisions about where and how to treat materials are made? Who are the people making that call? What is their background? What are their challenges? Could they get more effective if something was different?
+
+As some of you already know, I want to explore the idea of expanding the ability to assess and decide whether objects and materials can be repaired or transformed, if it has value in second-hand markets, etc. Identifying that in action is very important.
+
+I'm looking forward to this week's meetings, and hope to talk to all of you.
+
+- Design research - https://www.youtube.com/watch?v=VjxS0yINdC8 https://slides.com/efeefe/reuse-city-design-research/
+
++ Call for presentations next week. And hint that towards the end of the month I want to go a little deeper into discussing my concept ideas to turn them into prototypes.
+
+3rd week
+
+Presentations: Mark, Hugo, Rhea, Fred
+
+- Concept ideas - https://www.youtube.com/watch?v=VpqqeYQtpIY https://docs.google.com/presentation/d/1FMfBfTyIMuQ9sn3CS4FnZEoYEzQyBkyR6fiRtfAWuU8
+
+
+4th Week
+
+Feedback on concepts.
+
+Later:
+
+- URT https://www.youtube.com/watch?v=E4wZrwRm3CU
+- E-I https://www.youtube.com/watch?v=FYFKYaUSCRA
+- Transformation Labs https://www.youtube.com/watch?v=uM--73q8Eq0
 
 In implementation, it became also an opportunity to start building an international community of stakeholders experienced in activities of reuse and repair.
 
-- community in the making
+- community in the making. poll about communication tool. - I prefer to communicate with the group in a discussion list via e-mail 5 votes
+- I prefer to communicate with the group via a Telegram group 4 votes
+- I prefer to communicate with the group via a Signal group 3 votes
+- I don’t have Signal or Telegram at the moment, but I do think a group chat would be better than an email list. I can create an account on either.  1 vote
+- Slack or Discord 1 vote
+
+Later:
+
+- Miro board
+- Poll
 
 
 Extensive documentation, all public
