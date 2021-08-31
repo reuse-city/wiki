@@ -3,7 +3,7 @@ title: reuse.city
 description: Online co-design lab
 published: true
 date: 2021-08-23T15:17:51.935Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-08-23T09:05:08.367Z
 ---
@@ -11,7 +11,7 @@ dateCreated: 2021-08-23T09:05:08.367Z
 # reuse.city
 ## Online co-design lab
 
-reuse.city is a research study created to co-design speculative technologies, methodologies and systems to promote the reuse of goods and materials in cities and regions. It was conducted between April and August 2021, as part of a [PhD research on waste prevention and smart cities](/opendott). 
+reuse.city is a research study created to co-design speculative technologies, methodologies and systems to promote the reuse of goods and materials in cities and regions. It was conducted between April and August 2021, as part of a [PhD research on waste prevention and smart cities](/opendott).
 
 ## Objectives
 
@@ -38,10 +38,10 @@ reuse.city seeks to expand understanding of the diverse skills and abilities inv
 
 It is expected to address the following research questions:
 
-- RQ1: what are the skills involved in the reuse of materials? 
+- RQ1: what are the skills involved in the reuse of materials?
   - Can those skills they be augmented and replicated via digital systems?
   - What kind of hardware and software would be necessary for that?
-- RQ2: what kind of facility can help improve the amount of materials that are reused in cities and regions? 
+- RQ2: what kind of facility can help improve the amount of materials that are reused in cities and regions?
   - Are there relevant experiences in place anywhere in the world that can inspire such systems?
 
 ## Participants
@@ -59,7 +59,7 @@ The reuse.city lab approached the [research questions](#research-questions) from
  - Expanding on original [concept ideas](/opendott/concept-ideas) developed in the first year of research:
    - The [Universal Registry of Things](/opendott/concept-ideas/universal-registry) as informational groundwork - a multi-layered database of objects and materials about things and their repairability, spare parts, authorised repair shops, and possibilities for reuse and recycling.
    - Hardware based on the concept of [Point and Reuse](/opendott/concept-ideas/point-reuse): a machine that identifies objects against the database and displays information.
- - Conducting meetings and workshops with [participants](#participants) interested in and/or engaged with the reuse of second-hand goods and materials. 
+ - Conducting meetings and workshops with [participants](#participants) interested in and/or engaged with the reuse of second-hand goods and materials.
  - [Prototyping](/opendott/prototypes) and experimenting with digital technologies to promote the reuse of materials in tandem with a [training module on open hardware](/opendott/training/open-hardware).
  - An auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials.
 
@@ -72,8 +72,8 @@ See [lab](/opendott/studies/reuse-city/lab) for a summarised report.
 
 ### Process documentation
 
- - [GitHub repository](https://github.com/reuse-city/lab/)
- - [Video playlist on youtube](https://www.youtube.com/watch?v=v2pt18kbZis&list=PLSHdLCc8rAqvn9bf4-96V3M8k3jdctzz9)
+  - [GitHub repository](https://github.com/reuse-city/lab/) with documentation about the activities performed during the lab.
+  - [Video playlist on youtube](https://www.youtube.com/watch?v=v2pt18kbZis&list=PLSHdLCc8rAqvn9bf4-96V3M8k3jdctzz9) consisting of videos about the context of the research and activities performed previously.
  - Miro boards:
    - [09.04.21 (IoT day)](https://miro.com/app/board/o9J_lKnMSCk=/)
    - [Week 2 (interviews / meetings)](https://miro.com/app/board/o9J_lKTIy3I=/)

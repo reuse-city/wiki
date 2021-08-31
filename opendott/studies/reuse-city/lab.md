@@ -74,7 +74,7 @@ The reuse.city lab approached the [research questions](#research-questions) from
  - [Prototyping](/opendott/prototypes) and experimenting with digital technologies to promote the reuse of materials in tandem with a [training module on open hardware](/opendott/training/open-hardware).
  - An auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials.
 
-## The lab
+## Activities performed
 
 Spiral of openness. Build as we go. Provide different means of interaction for different particpiants. Create triggers for conversations.
 
@@ -140,36 +140,19 @@ Later:
 - Miro board
 - Poll
 
+## Results
 
-Extensive documentation, all public
+The lab took place initially as a series of meetings and online discussions in April 2021, added of an online survey in the following month to collect additional feedback. As well as refining the concept ideas and informing their prototyping, the reuse.city co-design lab became also an opportunity to put in practice open methodologies for community building.
 
- - [GitHub repository](https://github.com/reuse-city/lab/)
- - [Video playlist on youtube](https://www.youtube.com/watch?v=v2pt18kbZis&list=PLSHdLCc8rAqvn9bf4-96V3M8k3jdctzz9)
- - Miro boards:
-   - [09.04.21 (IoT day)](https://miro.com/app/board/o9J_lKnMSCk=/)
-   - [Week 2 (interviews / meetings)](https://miro.com/app/board/o9J_lKTIy3I=/)
-   - [Week 3 (presentations)](https://miro.com/app/board/o9J_lI_HCnE=/)
-   - [Week 4 (final meeting)](https://miro.com/app/board/o9J_lHGsJyQ=/)
- - Updates on [Twitter](https://twitter.com/reuse_city).
- - Transcription of workshops (to be added soon to the repository)
+Initially, the lab focused on two of the original concept ideas. The first one, the universal registry of things, had been refined in a session at an online workshop during the Mozillfa Festival in March. The second was based on a concept idea designed previously called point-and-reuse - an app for mobile devices -, but was articulated in more abstract terms as "Evaluation Interface", or E-I. It could still be thought of as a mobile app, but as experiments with prototyping in open hardware were being developed simultaneously, other forms and shapes were discussed and experimented with.
 
+Through the online co-design lab, new concepts based on the original concept ideas were developed. Two of them were turned into prototypes: an experimental implementation of the Universal Registry of Things called ThingWiki, and a demonstration of E-I in the form of a workbench machine.
 
+Additionally, the conversations with participants suggested it was relevant to work also on a third concept idea not originally planned to be worked on at this stage of research: the transformation labs. As well as experimenting with technologies that would allow interested parties to assess the potential value of discarded materials, the online workshops brought forth also the discussion about what kind of urban facilities is needed to promote the reuse of materials, what were its precedents and relevant references, as well as main desirable characteristics.
 
-## Activities performed
+The online lab provided the groundwork for prototyping thingwiki [Footnote: a working version can be found on https://thingwiki.herokuapp.com/ (accessed on 31/08/2021), snapshot on https://web.archive.org/web/20210831042905/https://thingwiki.herokuapp.com/ , and the ongoing backup of its contents can be found on this repository https://github.com/reuse-city/thingwiki ], the workbench version of E-I, and a draft blueprint of what should be taken into account when planning for urban transformation labs.
 
-The lab took place initially as a series of meetings and online discussions in April 2021. As well as refining the concept ideas and informing their prototyping, the reuse.city co-design lab became also an opportunity to put in practice community-building and open methodologies.
-
-Initially, the lab focused on two of the original concept ideas. The first one, the universal registry of things, had already been refined in a session at Mozfest 2021. The second was based on point-and-reuse, but was articulated in more abstract terms as "Evaluation Interface", or E-I. For discussion purposes, E-I could still be thought of as an app for mobile devices, but in tandem with the open hardware training and expected tech demonstrations, it is being prototyped as a workbench machine with similar functionality.
-
-Through the workshops conducted in April, new co-design concepts based on the original concept ideas were developed. Two of them are currently being turned into prototypes: ThingWiki (an experimental implementation of the Universal Registry of Things) and E-I (an evaluation interface based on two earlier concept ideas).
-
-The upcoming experience prototype phase will wrap up the discussions by inviting participants to watch a demonstration of E-I and ThingWiki in use. The demonstration will be an audiovisual performance. Participants will then be asked to reply to a structured online questionnaire.
-
-Updated concepts / co-designed prototypes
-
-- [E-I](/opendott/prototypes/e-i)
-- [ThingWiki](/opendott/prototypes/thingwiki)
-- [Transformation Labs](/opendott/prototypes/transformation-labs)
+Finally, the period of planning, implementing and documenting the lab turned into a community building effort. Notes about insights and impressions about that aspect of reuse.city lab were also made. A great proportion of the participants have shown interested in maintaining the discussion for a longer period, which can be fruitful not only for coming phases of research but also to provide space for future impact on the world.
 
 ## Discussion
 
