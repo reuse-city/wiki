@@ -74,55 +74,50 @@ The reuse.city lab approached the [research questions](#research-questions) from
 
 ## Activities performed
 
-Part of the groundwork for designing reuse.city was a training module on open leadership and internet health undertaken in 2020 as part of the OpenDoTT project. Already then, insights about the nature of open projects made their way into a blog post titled "A spiral of openness" [Footnote: aviable https://web.archive.org/web/20210116201101/https://is.efeefe.me/opendott/spiral-of-openness]. One among the (many) themes of that text was the distinction between starting a project out of a particular idea and growing a community based on the desire to connect on multiple levels with a group of people.
+Part of the groundwork for designing reuse.city was a training module on open leadership and internet health undertaken in 2020 as part of the OpenDoTT project. Already then, insights about the nature of open projects made their way into a blog post titled "A spiral of openness" [Footnote: aviable https://web.archive.org/web/20210116201101/https://is.efeefe.me/opendott/spiral-of-openness]. One among the (many) themes of that text was the distinction between starting a project from a particular idea, and growing a community based on the desire to connect on multiple levels with a group of people.
 
-Of course, reuse.city is situated within a particular institutional context that requires it to generate outputs to be later incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration might extend well beyond this particular project timeline. So instead of framing the recruitment and contact with participants only on what was being planned for the four weeks of the lab, there was an intentional choice to make it sound as an invitation to an ongoin conversation that would not have started then nor would it need to be closed soon.
+Of course, reuse.city is situated within a particular institutional context that requires it to generate outputs to be later incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration may extend well beyond this particular project timeline. So instead of framing the recruitment and contact with participants only on what was being planned for the four weeks of the lab, there was an intentional choice to make it feel as an invitation to an ongoing conversation that would not have started only then nor would it need to be closed soon.
 
 ### Week 1
 
-First of all there was a need to explore what exactly would an online co-design lab be. Lacking the possibility to spend time together on the same locality, conversation triggers would be used for online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey on preferrable means of interaction and an invitation to meet online on April 9th. The day was chosen as part of the international programme of activities "IoT day" organised by the Internet of Things Council.
+For starters, there was a need to explore what exactly an online co-design lab would be. Lacking the possibility to spend time together on the same locality, content would then be used to trigger online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video introducing the study and posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey about their preferred means of interaction, and an invitation to meet online later in the week.
 
-A group of participants were present on a video call that day to introduce themselves and have an overview of the research leading to reuse.city. There were discussions about reusing materials in very diverse local contexts - from advanced reuse centres in Finland to community efforts in a refugee camp in Uganda, as well as the limits of technology to provide solutions.
+It was early noted that the participants would have diverse levels of familiarity with the research topics and with studies developed earlier on this project. In order not to use up time of the calls to provide context, smaller videos presenting different parts of the research - called "fragments" - would then be offered as conversation triggers. The first one was about the choice of research topic (waste prevention and smart cities [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-waste-prevention-in-smart-cities]).
 
-It was noted that the participants had diverse levels of familiarity with the research topics and with studies developed earlier on this project. In order not to use up time of the calls to provide contextualisation, smaller videos presenting different parts of the research - called "fragments" - would then be offered as conversation triggers. The first one was about the choice of research topic (waste prevention and smart cities [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-waste-prevention-in-smart-cities]).
+The date of April 9th was chosen for the first meeting to coincide with the international programme of activities "IoT day" organised by the Internet of Things Council. A group of participants were present on a video call that day to introduce themselves and were exposed to an overview of the research leading to reuse.city. There were discussions about reusing materials in very diverse local contexts - from advanced reuse centres in Finland to community workshops in a refugee camp in Uganda, as well as the limits of technology to provide solutions for waste materials.
 
 ### Week 2
 
-As the group comprised of people spanning a wide range of timezones (from India to California), different time slots were offered from the second week on. Another video fragment, about design research and the studies developed in the first year, [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-design-research], was sent to the participants. Participants were also offered a time slot on the following week to present their work or ideas about reuse and repair.
+As the group was composed of people spanning a wide range of timezones (from India to California), different time slots were offered from the second week on. Another video fragment, about design research and the studies developed in the first year, [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-design-research], was sent to the participants. They were also offered the opportunity to present their work or ideas about reuse and repair on the following week.
 
-One meeting had only one participant, and turned into an interview allowing for a deep immersion discussing particularities, tools and a systemic take on the reuse of materials. The other meeting discussed structures or social/cultural practices for the reuse of materials participants saw on their local contexts. The idea was to learn about the kind of selection that these structures and practices imply, and whether it could be improved with technologies.
+The first meeting had only one participant, and became more of an interview. It allowed for a deep immersion discussing particularities, tools and a systemic take on the reuse of materials. The second meeting had other three participants - two of which had joined the first session on week 1. They discussed structures or social/cultural practices for the reuse of materials participants saw on their local contexts. The idea was to learn about the kind of selection that these structures and practices imply, and whether it could be improved with technologies. Side conversations started to take place on the newly established communication spaces created following the survey sent out the previous week: an email-based discussion list, and a group on Telegram messaging platform.
 
 ### Week 3
 
-Presentations: Mark, Hugo, Rhea, Fred
+Another video fragment [Footnote: video available on https://archive.org/details/reuse-city-lab-fragment-concept-ideas] was shared with participants, this one about concept ideas created in a previous phase of research. It was a way to prepare the participants to discuss the prototypes towards the end of the lab.
 
-- Concept ideas - https://www.youtube.com/watch?v=VpqqeYQtpIY https://docs.google.com/presentation/d/1FMfBfTyIMuQ9sn3CS4FnZEoYEzQyBkyR6fiRtfAWuU8
+Following the call on the previous week, participants presented diverse projects, an interesting exposition of different whilst complimentary perspectives on reuse. Rhea Muthane shared her experience with a project called "100 ways of mending" and the Makeflix collective. Hugo Pilate has shown his experiments with speculative design of reused objects. Mark Philips reported on his long-term documentary photography covering repair cafes, reuse centres and other contexts in four continents. And finally, Fred Paulino has shown his work with the Gambiologia collective in Brazil exploring the aesthetics of improvisation and reuse. Tom Passmore presented Dsposal, a software solution to make waste compliance easier. A sixth presentation was cancelled due to health impediments.
 
+### Week 4
 
-4th Week
+In tandem with the calls with participants, prototyping was taking place with open hardware and software. As the programmed activities were reaching their end, the focus shifted to gather feedback on the way the concepts were evolving. A closing meeting was scheduled for April 30th, and attended by participants who had been to previous sessions. The group was introduced to updated versions of three prototypes:
 
-Feedback on concepts.
+- the universal registry of things, with the question whether it should be called "valudata";
+- the evaluation interface E-I, taking mainly the shape of a workbench machine that could also be ported to a mobile app or adopt a larger kiosk form factor;
+- transformation labs, a blueprint to establish reuse centres furnished with equipment and tools that at some points resembled those in community repair events, but also included others more common to fablabs and makerspaces.
 
-Later:
+The participants had the chance to discuss each of these prototypes and bring their insights and ideas, as well as contributing to an online collaborative graphic board using the Miro platform.
 
-- URT https://www.youtube.com/watch?v=E4wZrwRm3CU
-- E-I https://www.youtube.com/watch?v=FYFKYaUSCRA
-- Transformation Labs https://www.youtube.com/watch?v=uM--73q8Eq0
+### Further interactions
+
+Alternative ways to collect feedback from participants who didn't make it for the last meeting were also offered. Videos about each of the prototypes [Footnote: videos are available on web archive https://archive.org/details/reuse-city_prototypes] were shared as conversation triggers. The Miro board was kept open for a period of two weeks and received additional comments. In order to make collaboration easier to participants not familiar with Miro, a survey was also sent out and answered by other two participants.
+
+## Results
+
 
 In implementation, it became also an opportunity to start building an international community of stakeholders experienced in activities of reuse and repair.
 
-- community in the making. poll about communication tool. - I prefer to communicate with the group in a discussion list via e-mail 5 votes
-- I prefer to communicate with the group via a Telegram group 4 votes
-- I prefer to communicate with the group via a Signal group 3 votes
-- I don’t have Signal or Telegram at the moment, but I do think a group chat would be better than an email list. I can create an account on either.  1 vote
-- Slack or Discord 1 vote
 
-Later:
-
-- Miro board
-- Poll
-
-## Results
 
 The lab took place initially as a series of meetings and online discussions in April 2021, added of an online survey in the following month to collect additional feedback. As well as refining the concept ideas and informing their prototyping, the reuse.city co-design lab became also an opportunity to put in practice open methodologies for community building.
 
