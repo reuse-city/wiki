@@ -78,29 +78,21 @@ Part of the groundwork for designing reuse.city was a training module on open le
 
 Of course, reuse.city is situated within a particular institutional context that requires it to generate outputs to be later incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration might extend well beyond this particular project timeline. So instead of framing the recruitment and contact with participants only on what was being planned for the four weeks of the lab, there was an intentional choice to make it sound as an invitation to an ongoin conversation that would not have started then nor would it need to be closed soon.
 
-There was also a need to explore what exactly would an online co-design lab be. Lacking the possibility to spend time together on the same locality, conversation triggers would be used for online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey on preferrable means of interaction and an invitation to meet online on April 9th. The day was chosen as part of the international programme of activities "IoT day" organised by the Internet of Things Council. A group of participants were present that day to introduce themselves and have an overview of the research leading to reuse.city. There were discussions about reusing materials in very diverse local contexts - from advanced reuse centres in Finland to community efforts in a refugee camp in Uganda, as well as the limits of technology to provide solutions.
+### Week 1
 
-2. Fragments.
+First of all there was a need to explore what exactly would an online co-design lab be. Lacking the possibility to spend time together on the same locality, conversation triggers would be used for online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey on preferrable means of interaction and an invitation to meet online on April 9th. The day was chosen as part of the international programme of activities "IoT day" organised by the Internet of Things Council.
 
-- Waste prevention and smart cities https://www.youtube.com/watch?v=mMFH11Sxi_M https://slides.com/efeefe/reuse-city-intro
+A group of participants were present on a video call that day to introduce themselves and have an overview of the research leading to reuse.city. There were discussions about reusing materials in very diverse local contexts - from advanced reuse centres in Finland to community efforts in a refugee camp in Uganda, as well as the limits of technology to provide solutions.
 
-2nd week
+It was noted that the participants had diverse levels of familiarity with the research topics and with studies developed earlier on this project. In order not to use up time of the calls to provide contextualisation, smaller videos presenting different parts of the research - called "fragments" - would then be offered as conversation triggers. The first one was about the choice of research topic (waste prevention and smart cities [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-waste-prevention-in-smart-cities]).
 
-Before this week's sessions, or even in parallel if you are not able to join in, I would like you to tell the others and myself what kinds of structures or social/cultural practices for the reuse of materials you see in your own context.
+### Week 2
 
-For instance, in the neighbourhood where I live in Berlin, people will often leave clothes, furniture and appliances to be donated practically everywhere. At the lobby of a residential building, in front of one's home, at a park or in the donation points present in many streets. Is this kind of practice common where you live? Or else, do you know of something similar in another city or town?
+As the group comprised of people spanning a wide range of timezones (from India to California), different time slots were offered from the second week on. Another video fragment, about design research and the studies developed in the first year, [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-design-research], was sent to the participants. Participants were also offered a time slot on the following week to present their work or ideas about reuse and repair.
 
-As well as sharing and talking about those stories, I want also to learn more about what kind of selection takes place. Do people give away things to strangers, or only among friends and family? And particularly for the purposes of the lab: how decisions about where and how to treat materials are made? Who are the people making that call? What is their background? What are their challenges? Could they get more effective if something was different?
+One meeting had only one participant, and turned into an interview allowing for a deep immersion discussing particularities, tools and a systemic take on the reuse of materials. The other meeting discussed structures or social/cultural practices for the reuse of materials participants saw on their local contexts. The idea was to learn about the kind of selection that these structures and practices imply, and whether it could be improved with technologies.
 
-As some of you already know, I want to explore the idea of expanding the ability to assess and decide whether objects and materials can be repaired or transformed, if it has value in second-hand markets, etc. Identifying that in action is very important.
-
-I'm looking forward to this week's meetings, and hope to talk to all of you.
-
-- Design research - https://www.youtube.com/watch?v=VjxS0yINdC8 https://slides.com/efeefe/reuse-city-design-research/
-
-+ Call for presentations next week. And hint that towards the end of the month I want to go a little deeper into discussing my concept ideas to turn them into prototypes.
-
-3rd week
+### Week 3
 
 Presentations: Mark, Hugo, Rhea, Fred
 
