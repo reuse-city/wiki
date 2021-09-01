@@ -28,25 +28,31 @@ In order to expand on ideas developed at earlier stages of investigation whilst 
 
 ## Background
 
+Along the first months of this PhD investigation, to the idea of adopting a critical perspective on smart cities was added a particular focus on issues around waste and reuse. Contributing to that was previous experience on different projects:
 
+ - Leading a network of laboratories that promoted the reuse of discarded computers with a focus on social inclusion, called MetaReciclagem, active between 2003 and 2012 in Brazil. Within the same period, involvement with subprojects of MetaReciclagem such as the MutGamb editorial colletive and LixoEletrônico advocacy working group as well as collaboration with initiatives both in Brazil and abroad such as CulturaDigital.Br and the Bricolabs network.
+ - A design residency exploring repair and upcycling with design students of VCUQ in Doha, leading to a first text on repair and the brazilian culture of gambiarra.
+ - An open investigation exploring connections between maker cultures, repair and craft, taking place as a residency at Ping in Nantes (France), a short-term research fellowship at Leuphana University in Lüneburg, Germany, and further collaboration with organisations such as Instituto Procomum in Santos, Brazil.
 
-TODO Background:
+As a way to better define the research boundaries for the PhD, two design research studies were conducted in the first year.
 
- - repair journey
- - ecosystem mapping
- - past projects (residences in Doha and Nantes, visit to Lüneburg, course in Santos)
- - literature review. valoriste.
- - concept ideas
+ - Repair Journey - seven participants were invited to keep a journal as they spent some weeks trying to repair or repurpose broken objects. They were then interviewed to discuss what were their challenges and discoveries along the way. The goal with the repair journey was to understand decisions at a personal or household level.
+ - Ecosystem Mapping - five people whose work is related to the reuse or re-circulation of second-hand goods and materials were interviewed to compose an overview of the field. Here the focus was to understand at a city and regional scale how materials circulate.
+
+The outputs of those studies, together with a literature review on related fields of knowledge, provided the basis for the creation of eight concept ideas for design. They advanced the goal of focusing on waste prevention rather than waste management, particularly on the reuse of goods and materials through local practices of repair, upcycling and re-circulation.
 
 ## Methodology
+
+The reuse.city online co-design lab was created to further refine the concept ideas and build prototypes based on them, as well as discuss what the implications of such prototypes would be in diverse real-world scenarios.
 
 ### Research questions
 
 reuse.city seeks to expand understanding of the diverse skills and abilities involved with
+
  - assessing the potential value of discarded materials.
  - realising that value with the aid of digital technologies.
 
-It is expected to address the following research questions:
+It was designed to address the following research questions:
 
 - RQ1: what are the skills involved in the reuse of materials?
   - Can those skills they be augmented and replicated via digital systems?
@@ -66,7 +72,7 @@ The participants of reuse city lab were recruited via social media, invited pers
 
 The reuse.city lab approached the [research questions](#research-questions) from different perspectives.
 
- - Expanding on original [concept ideas](/opendott/concept-ideas) developed in the first year of research:
+ - Expanding on some of the original [concept ideas](/opendott/concept-ideas) developed in the first year of research:
    - The [Universal Registry of Things](/opendott/concept-ideas/universal-registry) as informational groundwork - a multi-layered database of objects and materials about things and their repairability, spare parts, authorised repair shops, and possibilities for reuse and recycling.
    - Hardware based on the concept of [Point and Reuse](/opendott/concept-ideas/point-reuse): a machine that identifies objects against the database and displays information.
  - Conducting meetings and workshops with [participants](#participants) interested in and/or engaged with the reuse of second-hand goods and materials.
@@ -115,6 +121,7 @@ Alternative ways to collect feedback from participants who didn't make it for th
 
 ## Results
 
+TODO: refactor this section (still only copypasted materials)
 
 In implementation, it became also an opportunity to start building an international community of stakeholders experienced in activities of reuse and repair.
 
