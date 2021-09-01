@@ -71,19 +71,19 @@ The reuse.city lab approached the research questions from different perspectives
  - Expanding on some of the original concept ideas developed in the first year of research:
    - The Universal Registry of Things as informational groundwork - a multi-layered database of objects and materials about things and their repairability, spare parts, authorised repair shops, and possibilities for reuse and recycling.
    - Hardware expanding on the original concept called Point and Reuse, taking shape as a machine that identifies objects against the database and displays information about their potential for reuse.
- - Conducting meetings and workshops with participants interested in and/or engaged with the reuse of second-hand goods and materials.
+ - Conducting meetings and workshops with participants interested in and/or engaged with the reuse of second-hand goods and materials. Documentation of the meetings was used to create updated concept ideas and to guide prototyping.
  - Prototyping and experimenting with digital technologies to promote the reuse of materials in tandem with a training module on open hardware.
- - An auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials.
+ - An auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials. Writing and notes from the exploration were part of the dialogue with participants as well as informed prototyping.
 
 ## Activities performed
 
 Part of the groundwork for designing reuse.city was a training module on open leadership and internet health undertaken in 2020 as part of the OpenDoTT project. Already then, insights about the nature of open projects made their way into a blog post titled "A spiral of openness" [Footnote: aviable https://web.archive.org/web/20210116201101/https://is.efeefe.me/opendott/spiral-of-openness]. One among the (many) themes of that text was the distinction between starting a project from a particular idea, and growing a community based on the desire to connect on multiple levels with a group of people.
 
-Of course, reuse.city is situated within a predefined institutional context that requires it to generate outputs to be later incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration may extend well beyond the timeline of this particular project. So instead of framing the recruitment and contact with participants only on what was being planned for estimated the four weeks of the lab, there was an intentional choice to make it feel as an invitation to an ongoing conversation that would not have started only then nor would it need to be closed soon.
+Of course, reuse.city is situated in a predefined institutional context that requires it to generate outputs to be later incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration may extend well beyond the timeline of this particular project. So instead of framing the recruitment and contact with participants only on what was being planned for estimated the four weeks of the lab, there was an intentional choice to make it feel as an invitation to an ongoing conversation that would not have started only then nor would it need to be closed soon.
 
 ### Week 1
 
-For starters, there was a need to explore what exactly an online co-design lab would be. Lacking the possibility to spend time together on the same locality, digital content would then be used to trigger online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video introducing the study and posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey about their preferred means of interaction, and an invitation to meet online later in the week.
+For starters, there was a need to explore what exactly an online co-design lab would be. Lacking the possibility to spend time together on the same locality, digital content would then be used to trigger online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video introducing the study and posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey about their preferred means of interaction, and an invitation to meet online later in the same week.
 
 It was early noted that the participants would have diverse levels of familiarity with the research topics and with studies developed earlier on this project. In order not to use up time of the calls to provide context, smaller videos presenting different parts of the research - called "fragments" - would then be offered as conversation triggers. The first one was about the choice of research topic (waste prevention and smart cities [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-waste-prevention-in-smart-cities]).
 
@@ -113,25 +113,19 @@ The participants had the chance to discuss each of these prototypes and bring th
 
 ### Further interactions
 
-Alternative ways to collect feedback from participants who didn't make it for the last meeting were also offered. Videos about each of the prototypes [Footnote: videos are available on web archive https://archive.org/details/reuse-city_prototypes] were shared as conversation triggers. The Miro board was kept open for a period of two weeks and received additional comments. In order to make collaboration easier to participants not familiar with Miro, a survey was also sent out and answered by other two participants.
+Alternative ways to collect feedback from participants who didn't make it to the last meeting were also offered. Videos about each of the prototypes [Footnote: videos are available on web archive https://archive.org/details/reuse-city_prototypes] were shared as conversation triggers. The Miro board was kept open for a period of two weeks and received additional comments. In order to make collaboration easier to participants not familiar with Miro, a survey was also sent out and answered by other two participants.
 
 ## Results
 
-TODO: refactor this section (still only copypasted materials)
+At the end of the four weeks of meetings and the short period of collecting further contributions thereafter, updated versions of the concept ideas had been developed and at least partially prototyped. Extensive notes of the meetings are publicly available on GitHub, as well as the contents created to trigger conversation. Video recordings and transcriptions of the meetings and participants' presentations are to be made available soon enough as well.
 
-In implementation, it became also an opportunity to start building an international community of stakeholders experienced in activities of reuse and repair.
+As described, initially the lab focused on two of the original concept ideas. The first one, the Universal Registry of Things, had been slightly refined already in a session at an online workshop during the Mozilla Festival in March. The second was based on a concept idea designed previously called Point and Reuse - an app for mobile devices -, but during the lab was articulated in more abstract terms as "Evaluation Interface", or E-I. It could still be thought of as a mobile app, but as experiments with prototyping in open hardware were being developed simultaneously, other forms and shapes were discussed and experimented with.
 
-
-
-The lab took place initially as a series of meetings and online discussions in April 2021, added of an online survey in the following month to collect additional feedback. As well as refining the concept ideas and informing their prototyping, the reuse.city co-design lab became also an opportunity to put in practice open methodologies for community building.
-
-Initially, the lab focused on two of the original concept ideas. The first one, the universal registry of things, had been refined in a session at an online workshop during the Mozillfa Festival in March. The second was based on a concept idea designed previously called point-and-reuse - an app for mobile devices -, but was articulated in more abstract terms as "Evaluation Interface", or E-I. It could still be thought of as a mobile app, but as experiments with prototyping in open hardware were being developed simultaneously, other forms and shapes were discussed and experimented with.
-
-Through the online co-design lab, new concepts based on the original concept ideas were developed. Two of them were turned into prototypes: an experimental implementation of the Universal Registry of Things called ThingWiki, and a demonstration of E-I in the form of a workbench machine.
+Through the online co-design lab, new concepts based on the original concept ideas were developed. Two of them were turned into prototypes: an experimental implementation of the Universal Registry of Things called ThingWiki, and a demonstration of technologies to enable E-I, in the form of a workbench machine.
 
 Additionally, the conversations with participants suggested it was relevant to work also on a third concept idea not originally planned to be worked on at this stage of research: the transformation labs. As well as experimenting with technologies that would allow interested parties to assess the potential value of discarded materials, the online workshops brought forth also the discussion about what kind of urban facilities is needed to promote the reuse of materials, what were its precedents and relevant references, as well as main desirable characteristics.
 
-The online lab provided the groundwork for prototyping thingwiki [Footnote: a working version can be found on https://thingwiki.herokuapp.com/ (accessed on 31/08/2021), snapshot on https://web.archive.org/web/20210831042905/https://thingwiki.herokuapp.com/ , and the ongoing backup of its contents can be found on this repository https://github.com/reuse-city/thingwiki ], the workbench version of E-I, and a draft blueprint of what should be taken into account when planning for urban transformation labs.
+The online lab provided the basis for prototyping thingwiki [Footnote: a working version can be found on https://thingwiki.herokuapp.com/ (accessed on 31/08/2021), snapshot on https://web.archive.org/web/20210831042905/https://thingwiki.herokuapp.com/ , and the ongoing backup of its contents can be found on this repository https://github.com/reuse-city/thingwiki ], the workbench version of E-I, and a draft blueprint of what should be taken into account when planning for urban transformation labs.
 
 Finally, the period of planning, implementing and documenting the lab turned into a community building effort. Notes about insights and impressions about that aspect of reuse.city lab were also made. A great proportion of the participants have shown interested in maintaining the discussion for a longer period, which can be fruitful not only for coming phases of research but also to provide space for future impact on the world.
 
@@ -149,6 +143,6 @@ Community in the making (spiral of openness)
 
 ## Footnotes
 
-[^1]: Reports from international agencies for environment and development]
+[^1]: Reports from international agencies for environment and development.
 
 ## References
