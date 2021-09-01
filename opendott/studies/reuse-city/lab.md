@@ -16,7 +16,7 @@ LATER
 
 ## Introduction
 
-Waste is arguably one of the most explicit signs of the pervasiveness of global industrial production. A high - and growing - volume of manufactured goods is discarded every minute, in hyperconnected megacities as well as in isolated rural villages, and everything in between. The fact that most of that material is not reincorporated into production represents itself a systemic unbalance. Approaches such as cradle-to-cradle [REF], circular economy [REF] and the doughnut economy [REF] point to how unsustainable production paradigms currently are. Alternatively to a linear mode of production, often described as based on a single-directional "take / make / dispose" paradigm, authors and organisations active in those fields propose moving towards cyclic and regenerative practices. These are to be pursued chiefly through better design, materials science and new policy [REF]. Data on the environmental as well as financial impact of waste is used to back these predicaments [Footnote about reports from international agencies for environment and development]. In that scenario, a boom of initiatives promoting regenerative practices organise themselves around themes such as zero waste, upcycling and the right to repair in all parts of the world.
+Waste is arguably one of the most explicit signs of the pervasiveness of global industrial production. A high - and growing - volume of manufactured goods is discarded every minute, in hyperconnected megacities as well as in isolated rural villages, and everything in between. The fact that most of that material is not reincorporated into production represents itself a systemic unbalance. Approaches such as cradle-to-cradle [REF], circular economy [REF] and the doughnut economy [REF] point to how unsustainable production paradigms currently are. Alternatively to a linear mode of production, often described as based on a single-directional "take / make / dispose" paradigm, authors and organisations active in those fields propose moving towards cyclic and regenerative practices. These are to be pursued chiefly through better design, materials science and new policy [REF]. Data on the environmental as well as financial impact of waste is used to back these predicaments [^1]. In that scenario, a boom of initiatives promoting regenerative practices organise themselves around themes such as zero waste, upcycling and the right to repair in all parts of the world.
 
 With a handful of remarkable exceptions [FOOTNOTE? or mention later in the discussion section?], however, local and regional authorities seem largely blind to this discussion. And that scale - local and regional - is precisely the scale of public sector that is usually responsible for handling waste and materials discarded by local societies and businesses. Even when considerable investment is made into modernising public administration with the aid of technologies - notably on "smart city" initiatives -, little attention is paid to the importance of rethinking material flows towards regenerative systems. On the rare occasion that the subject of waste is addressed by smart city initiatives, the perspective is usually one of merely increasing the efficiency of waste collection. In other words, making discarded materials be transported quickly and at a lesser cost from households, businesses and other organisations to waste management facilities - where said materials are to be recycled, composted, incinerated or sent to landfills. And that is not enough [Footnote to Zero Waste panel titled "Recycling is not enough"].
 
@@ -41,53 +41,49 @@ As a way to better define the research boundaries for the PhD, two design resear
 
 The outputs of those studies, together with a literature review on related fields of knowledge, provided the basis for the creation of eight concept ideas for design. They advanced the goal of focusing on waste prevention rather than waste management, particularly on the reuse of goods and materials through local practices of repair, upcycling and re-circulation.
 
-## Methodology
+## Designing the study
 
-The reuse.city online co-design lab was created to further refine the concept ideas and build prototypes based on them, as well as discuss what the implications of such prototypes would be in diverse real-world scenarios.
+The reuse.city online co-design lab was created to further refine the concept ideas and build prototypes based on them, as well as to discuss what the implications of such prototypes would be in diverse real-world scenarios.
 
 ### Research questions
 
-reuse.city seeks to expand understanding of the diverse skills and abilities involved with
+reuse.city seeks to expand the understanding of the diverse skills and abilities involved with:
 
  - assessing the potential value of discarded materials.
- - realising that value with the aid of digital technologies.
+ - realising that value with the aid of digital tools and technologies, to the benefit of local society.
 
-It was designed to address the following research questions:
+The study was designed to address the following research questions:
 
 - RQ1: what are the skills involved in the reuse of materials?
   - Can those skills they be augmented and replicated via digital systems?
   - What kind of hardware and software would be necessary for that?
 - RQ2: what kind of facility can help improve the amount of materials that are reused in cities and regions?
-  - Are there relevant experiences in place anywhere in the world that can inspire such systems?
-
-### Participants
-
-The reuse.city co-design lab recruited 29 participants from ten different countries in four continents, all of which signed up to the study and filled the [consent form](/opendott/studies/reuse-city/ethics). Not all of the people who signed up have engaged with the lab activities.
+  - Are there relevant experiences in place anywhere in the world that can inspire such systems? How can they be replicated and expanded?
 
 ### Recruitment
 
-The participants of reuse city lab were recruited via social media, invited personally by the researcher or suggested by colleagues and other participants.
+The participants of reuse city lab were recruited via social media, invited personally by the researcher or suggested by colleagues and other participants. A total of 29 persons from ten different countries in four continents, signed up to the study by filling the consent form. Not all of the people who signed up have ultimately engaged with the lab activities.
 
 ### Study methodology
 
-The reuse.city lab approached the [research questions](#research-questions) from different perspectives.
+The reuse.city lab approached the research questions from different perspectives.
 
- - Expanding on some of the original [concept ideas](/opendott/concept-ideas) developed in the first year of research:
-   - The [Universal Registry of Things](/opendott/concept-ideas/universal-registry) as informational groundwork - a multi-layered database of objects and materials about things and their repairability, spare parts, authorised repair shops, and possibilities for reuse and recycling.
-   - Hardware based on the concept of [Point and Reuse](/opendott/concept-ideas/point-reuse): a machine that identifies objects against the database and displays information.
- - Conducting meetings and workshops with [participants](#participants) interested in and/or engaged with the reuse of second-hand goods and materials.
- - [Prototyping](/opendott/prototypes) and experimenting with digital technologies to promote the reuse of materials in tandem with a [training module on open hardware](/opendott/training/open-hardware).
+ - Expanding on some of the original concept ideas developed in the first year of research:
+   - The Universal Registry of Things as informational groundwork - a multi-layered database of objects and materials about things and their repairability, spare parts, authorised repair shops, and possibilities for reuse and recycling.
+   - Hardware expanding on the original concept called Point and Reuse, taking shape as a machine that identifies objects against the database and displays information about their potential for reuse.
+ - Conducting meetings and workshops with participants interested in and/or engaged with the reuse of second-hand goods and materials.
+ - Prototyping and experimenting with digital technologies to promote the reuse of materials in tandem with a training module on open hardware.
  - An auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials.
 
 ## Activities performed
 
 Part of the groundwork for designing reuse.city was a training module on open leadership and internet health undertaken in 2020 as part of the OpenDoTT project. Already then, insights about the nature of open projects made their way into a blog post titled "A spiral of openness" [Footnote: aviable https://web.archive.org/web/20210116201101/https://is.efeefe.me/opendott/spiral-of-openness]. One among the (many) themes of that text was the distinction between starting a project from a particular idea, and growing a community based on the desire to connect on multiple levels with a group of people.
 
-Of course, reuse.city is situated within a particular institutional context that requires it to generate outputs to be later incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration may extend well beyond this particular project timeline. So instead of framing the recruitment and contact with participants only on what was being planned for the four weeks of the lab, there was an intentional choice to make it feel as an invitation to an ongoing conversation that would not have started only then nor would it need to be closed soon.
+Of course, reuse.city is situated within a predefined institutional context that requires it to generate outputs to be later incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration may extend well beyond the timeline of this particular project. So instead of framing the recruitment and contact with participants only on what was being planned for estimated the four weeks of the lab, there was an intentional choice to make it feel as an invitation to an ongoing conversation that would not have started only then nor would it need to be closed soon.
 
 ### Week 1
 
-For starters, there was a need to explore what exactly an online co-design lab would be. Lacking the possibility to spend time together on the same locality, content would then be used to trigger online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video introducing the study and posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey about their preferred means of interaction, and an invitation to meet online later in the week.
+For starters, there was a need to explore what exactly an online co-design lab would be. Lacking the possibility to spend time together on the same locality, digital content would then be used to trigger online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video introducing the study and posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey about their preferred means of interaction, and an invitation to meet online later in the week.
 
 It was early noted that the participants would have diverse levels of familiarity with the research topics and with studies developed earlier on this project. In order not to use up time of the calls to provide context, smaller videos presenting different parts of the research - called "fragments" - would then be offered as conversation triggers. The first one was about the choice of research topic (waste prevention and smart cities [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-waste-prevention-in-smart-cities]).
 
@@ -150,5 +146,9 @@ Community in the making (spiral of openness)
 ## Conclusion
 
 - Participants agreed to keep in touch after the study was finished. An e-mail list and a group in Telegram were used for that.
+
+## Footnotes
+
+[^1]: Reports from international agencies for environment and development]
 
 ## References
