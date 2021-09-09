@@ -28,7 +28,7 @@ In order to expand on ideas developed at earlier stages of investigation whilst 
 
 ## Background
 
-! Question: should the whole text be written in first person? This part feels as it tries to sound distanced, when in fact it is not (should it?).
+! Question: should the whole text be written in first person? This part feels as if trying to sound distanced, when in fact it is not (should it?).
 
 At the start of this PhD investigation, to the idea of adopting a critical perspective on smart cities a particular focus was added on issues around waste and reuse. Contributing to that was previous experience on different projects:
 
@@ -58,7 +58,7 @@ The study was designed to address the following research questions:
 
 - RQ1: what are the skills involved in the reuse of materials?
   - Can those skills they be augmented and replicated via digital systems?
-  - What kind of hardware and software would be necessary for that?
+  - What kind of hardware and software would contribute to make that happen?
 - RQ2: what kind of facility can help improve the amount of materials that are reused in cities and regions?
   - Are there relevant experiences in place anywhere in the world that can inspire such systems? How can they be replicated and expanded?
 
@@ -68,22 +68,23 @@ The participants of reuse city lab were recruited via social media, invited pers
 
 ### Study methodology
 
-The reuse.city lab approached the research questions from different perspectives.
+The reuse.city lab approached the research questions from different perspectives:
 
  - Expanding on some of the original concept ideas developed in the first year of research:
    - The Universal Registry of Things as informational groundwork - a multi-layered database of objects and materials about things and their repairability, spare parts, authorised repair shops, and possibilities for reuse and recycling.
    - Hardware expanding on the original concept called Point and Reuse, taking shape as a machine that identifies objects against the database and displays information about their potential for reuse.
  - Conducting meetings and workshops with participants interested in and/or engaged with the reuse of second-hand goods and materials. Documentation of the meetings was used to create updated concept ideas and to guide prototyping.
  - Prototyping and experimenting with digital technologies to promote the reuse of materials in tandem with a training module on open hardware.
- - An auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials. Writing and notes from the exploration were part of the dialogue with participants as well as informed prototyping.
+
+ It was also complemented by ongoing auto-ethnographic exploration of reuse in the city of Berlin, looking at how the prototypes could impact on the reuse of materials. Writing and notes from that exploration were part of the dialogue with participants as well as informed prototyping.
 
 ## Activities performed
 
-Part of the groundwork for designing reuse.city was a training module on open leadership and internet health undertaken in 2020 as part of the OpenDoTT project. Already then, insights about the nature of open projects made their way into a blog post titled "A spiral of openness" [Footnote: aviable https://web.archive.org/web/20210116201101/https://is.efeefe.me/opendott/spiral-of-openness]. One among the (many) themes of that text was the distinction between starting a project from a particular idea, and growing a community based on the desire to connect on multiple levels with a group of people.
+Part of the groundwork for designing reuse.city emerged after a training module on open leadership and internet health undertaken in 2020 as part of the OpenDoTT project. Already then, insights about the nature of open projects made their way into a blog post titled "A spiral of openness" [Footnote: aviable https://web.archive.org/web/20210116201101/https://is.efeefe.me/opendott/spiral-of-openness]. One among the (many) themes of that text was the distinction between starting a project from a particular idea, and growing a community based on the desire to connect on multiple levels with a group of people.
 
-Of course, reuse.city is situated in a predefined institutional context that requires it to generate outputs to be later incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration may extend well beyond the timeline of this particular project. So instead of framing the recruitment and contact with participants only on what was being planned for estimated the four weeks of the lab, there was an intentional choice to make it feel as an invitation to an ongoing conversation that would not have started only then nor would it need to be closed soon.
+Of course, reuse.city is situated in a predefined institutional context that requires the study to generate outputs that will later be incorporated in project deliverables. [Footnote: For the sake of clarity: the OpenDoTT project, a EU-funded collaboration between Northumbria University and the Mozilla Foundation, requires every one of its 5 PhD candidates to generate a dataset consisting of participatory research activities based on earlier phases, as well as prototypes exploring open hardware to address issues of trust and internet health in the internet of things.] On the other hand, the horizon of potential collaboration may extend well beyond the timeline of this particular project. So instead of framing the recruitment and contact with participants only on what was being planned for the estimated four weeks of the lab, there was an intentional choice to make it feel as an invitation to an ongoing conversation that would not have started only then nor would it need to be closed soon.
 
-### Week 1
+### Week 1: introductions, definitions
 
 For starters, there was a need to explore what exactly an online co-design lab would be. Lacking the possibility to spend time together on the same locality, digital content would then be used to trigger online interactions both simultaneous and asynchronous so as to fit different profiles of participants. A video introducing the study and posing the question "what a co-design lab should be" [Footnote video available on Web Archive: https://archive.org/details/reuse-welcome] was sent early on to the participants, together with a survey about their preferred means of interaction, and an invitation to meet online later in the same week.
 
@@ -91,19 +92,19 @@ It was early noted that the participants would have diverse levels of familiarit
 
 The date of April 9th was chosen for the first meeting to coincide with the international programme of activities "IoT day" organised by the Internet of Things Council. A group of participants were present on a video call that day to introduce themselves and were exposed to an overview of the research leading to reuse.city. There were discussions about reusing materials in very diverse local contexts - from advanced reuse centres in Finland to community workshops in a refugee camp in Uganda, as well as the limits of technology to provide solutions for waste materials.
 
-### Week 2
+### Week 2: in-depth conversations
 
 As the group was composed of people spanning a wide range of timezones (from India to California), different time slots were offered from the second week on. Another video fragment, about design research and the studies developed in the first year, [Footnote video available on web archive https://archive.org/details/reuse-city-lab-fragment-design-research], was sent to the participants. They were also offered the opportunity to present their work or ideas about reuse and repair on the following week.
 
 The first meeting had only one participant, and became more of an interview. It allowed for a deep immersion discussing particularities, tools and a systemic take on the reuse of materials. The second meeting had other three participants - two of which had joined the first session on week 1. They discussed structures or social/cultural practices for the reuse of materials participants saw on their local contexts. The idea was to learn about the kind of selection that these structures and practices imply, and whether it could be improved with technologies. Side conversations started to take place on the newly established communication spaces created following the survey sent out the previous week: an email-based discussion list, and a group on Telegram messaging platform.
 
-### Week 3
+### Week 3: presentations
 
 Another video fragment [Footnote: video available on https://archive.org/details/reuse-city-lab-fragment-concept-ideas] was shared with participants, this one about concept ideas created in a previous phase of research. It was a way to prepare the participants to discuss the prototypes towards the end of the lab.
 
 Following the call on the previous week, participants presented diverse projects, an interesting exposition of different whilst complimentary perspectives on reuse. Rhea Muthane shared her experience with a project called "100 ways of mending" and the Makeflix collective. Hugo Pilate has shown his experiments with speculative design of reused objects. Mark Philips reported on his long-term documentary photography covering repair cafes, reuse centres and other contexts in four continents. And finally, Fred Paulino has shown his work with the Gambiologia collective in Brazil exploring the aesthetics of improvisation and reuse. Tom Passmore presented Dsposal, a software solution to make waste compliance easier. A sixth presentation was cancelled due to health impediments.
 
-### Week 4
+### Week 4: concepts and prototypes
 
 In tandem with the calls with participants, prototyping was taking place with open hardware and software. As the programmed activities were reaching their end, the focus shifted to gather feedback on the way the concepts were evolving. A closing meeting was scheduled for April 30th, and attended by participants who had been to previous sessions. The group was introduced to updated versions of three prototypes:
 
@@ -115,13 +116,13 @@ The participants had the chance to discuss each of these prototypes and bring th
 
 ### Further interactions
 
-Alternative ways to collect feedback from participants who didn't make it to the last meeting were also offered. Videos about each of the prototypes [Footnote: videos are available on web archive https://archive.org/details/reuse-city_prototypes] were shared as conversation triggers. The Miro board was kept open for a period of two weeks and received additional comments. In order to make collaboration easier to participants not familiar with Miro, a survey was also sent out and answered by other two participants.
+Alternative ways to collect feedback from participants who didn't make it to the last meeting were offered right after. Videos about each of the prototypes [Footnote: videos are available on web archive https://archive.org/details/reuse-city_prototypes] were shared as conversation triggers. The Miro board was kept open for a period of two weeks and received additional comments. In order to make collaboration easier to participants not familiar with Miro, a survey was also sent out and answered by other two participants.
 
 ## Results
 
-At the end of the four weeks of meetings and the short period of collecting further contributions thereafter, updated versions of the concept ideas had been developed and at least partially prototyped. Extensive notes of the meetings are publicly available on GitHub, as well as the contents created to trigger conversation. Video recordings and transcriptions of the meetings and participants' presentations are to be made available soon enough as well.
+At the end of the four weeks of meetings and the short period of collecting further contributions thereafter, updated versions of the concept ideas had been developed and prototypes were started. Extensive notes of the meetings are publicly available on GitHub, as well as the contents created to trigger conversations. Video recordings and transcriptions of the meetings and participants' presentations are to be made available soon enough as well.
 
-As described, initially the lab focused on two of the original concept ideas. The first one, the Universal Registry of Things, had been slightly refined already in a session at an online workshop during the Mozilla Festival in March. The second was based on a concept idea designed previously called Point and Reuse - an app for mobile devices -, but during the lab was articulated in more abstract terms as "Evaluation Interface", or E-I. It could still be thought of as a mobile app, but as experiments with prototyping in open hardware were being developed simultaneously, other forms and shapes were discussed and experimented with.
+As described, initially the lab focused on two of the original concept ideas. The first one, the Universal Registry of Things, which had been slightly refined already in an online workshop during the Mozilla Festival in March. The second was based on a concept idea designed previously called Point and Reuse - an app for mobile devices -, but during the lab was articulated in more general terms as "Evaluation Interface", or E-I. It could still be thought of as a mobile app, but as experiments with prototyping in open hardware were being developed simultaneously, other forms and shapes were discussed and experimented with.
 
 Through the online co-design lab, new concepts based on the original concept ideas were developed. Two of them were turned into prototypes: an experimental implementation of the Universal Registry of Things called ThingWiki, and a demonstration of technologies to enable E-I, in the form of a workbench machine.
 
@@ -131,17 +132,27 @@ The online lab provided the basis for prototyping thingwiki [Footnote: a working
 
 Finally, the period of planning, implementing and documenting the lab turned into a community building effort. Notes about insights and impressions about that aspect of reuse.city lab were also made. A great proportion of the participants have shown interested in maintaining the discussion for a longer period, which can be fruitful not only for coming phases of research but also to provide space for future impact on the world.
 
-## Discussion
-
- - Importance of physical space. Reuse centres. Participants brought examples. Tools, materials. Storage is very important. Leave materials idle for future use.
- - Mobility: there are few places to get materials fixed (example participant in the US). My response: miniature workshops on top of bikes?
- - Wikipedia-inspired approach for the URT. My take: individual/personal contribution as well as automatic and institutional. Best metaphor might be free/open source software instead of wikipedia. In any case, "wiki" is understandable nowadays.
-
-Community in the making (spiral of openness)
-
 ## Conclusion
 
-- Participants agreed to keep in touch after the study was finished. An e-mail list and a group in Telegram were used for that.
+Whilst the reuse.city lab was focused on providing density and insight to the prototyping phase, the conversations with participants raised important points for its wider research context as well. When investigating how society can reuse a higher proportion of goods and materials in a local and regional scale, technology and individual behaviour will not be enough.
+
+A growing number of initiatives are stepping up to the challenge of substantially reducing the impact of industrial production. For instance, the cities from all around the world joining the Fabcity network whose aim is that by 2054 they produce everything they consume [REF]. The goal is laudable, but that narrative itself may lead to distortions. If it is only about the manufacturing of new products, important issues such as the demand for new raw materials and the treatment of waste remain outside the discussion boundaries. The ultimate goal of addressing climate change would be greatly improved if reuse was a structural part of such initiatives.
+
+With that context in mind, some conversations resulting of reuse.city lab were particularly relevant. A central point, the importance of physical spaces providing access to tools and equipment, was incorporated in a prototype: the blueprint for transformation labs. It derives from one of the concept ideas created in previous stages of research, which was originally intended to be worked on only on future phases of research. But it was perceived as central to help cities start working on such matters.
+
+The blueprint for the transformation labs was added of real-world references and insight. Even their composition in terms of equipment was part of the feedback gathered from participants. Projects such as the reuse centres in Finland, and how they accept virtually any kind of materials, were also acknowledged.
+
+Another side to the discussion about physical spaces for reuse is that storage is crucial. It is not rare that one unused object of today will be needed tomorrow. Or, conversely, that a broken product needs time to be worked on, to receive spare parts or new parts to be tailored. Storage for works-in-progress as well as to things that can become useful in the future could be understood as a reserve of potential uses, a resource in itself.
+
+The logistics of reuse, additionally, does not depend only on space to keep materials waiting to be reused. Transporting them is another challenge. In some cities, repair shops are not that common and end up being far from one's household or workplace. While that is already annoying with small items, it becomes impractical for larger objects. Some places have, for instance, pop-up and/or mobile repair shops. Other cities have publicly-funded schemes allowing people to borrow cargo bikes so they can move their own stuff around [Footnote: Berlin, for instance, has flotte-berlin (URL)].
+
+Another theme of reflection coming from the meetings with participants has to do with the governance of the Universal Registry of Things. Instead of creating (yet another) centralised database, the conversations suggested the adoption of a distributed approach. Wikipedia was mentioned as a reference of a data asset edited and curated by a diversity of collaborators. While that is obviously an important benchmark - which would afterwards even inspire the naming of the prototype as thingwiki -, there are some remarks to be made.
+
+Wikipedia draws inspiration - indeed it uses as an explicit metaphor - the encyclopaedic ideals. Such an analogy suggests that there is a certain body of knowledge relating to the world, things, beings, ideas and the like. However, that knowledge is encoded into the encyclopaedia by individual humans who must adhere to a particular method. On Wikipedia, the solution to conflicting opinions is always performed at an individual level: humans argumenting against each other. By the same token, content is normally added by individual humans who are ultimately held accountable for it as individuals.
+
+In the case of an Universal Registry of Things, however, the goal would not be generating and maintaining an overarching body of knowledge about everything. Rather, the main concern would be how to access and validate information that is largely spread out on the internet, and constantly changing. Its structure should then welcome alternative methods of validation and maintenance of data, be it through automation (AI, crawlers, bots) as well as via institutional bodies. In fact, the evolution of legislation on the right to repair being proposed and put in practice in different parts of the world could be a good opportunity to establish public bodies responsible for making corporations and other orgnaisations adhere to a hypothetical distributed protocol for data on how to reuse things.
+
+Finally, it must be said that the original intention of not only focusing on a discrete design research exercise but using also the opportunity to create a community has a good potential. Granted, most of the most active participants of the reuse.city lab have significant experience in the field and arguably have not learned much of new. Nonetheless, connecting on a more personal level with people who live in a different part of the world and being able to exchange has its value. In that sense, reuse.city has the potential to become an open network on its own right in the future. There are other collaborative environments in the field with which there is no need to compete, such as the restart network and the many forums dedicated to circular economy and doughnut economy. Precisely discussing wider practices of reuse (not only repair or upcycling) and connecting that to local and regional policymaking, however, seems to be an empty space still.
 
 ## Footnotes
 
