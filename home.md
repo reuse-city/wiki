@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2021-11-24T08:58:57.481Z
+date: 2021-11-24T09:03:51.782Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -21,7 +21,8 @@ The working title of my research is "waste prevention in generous cities". More 
 - [OpenDott](/opendott)
 	- Current [timeline](/opendott/timeline)
   - [Ethics](/opendott/ethics)
-  - [Public Engagement](/opendott/public-engagement)
+  - [Public Engagement](/opendott/dissemination)
+  - [Events](/opendott/events)
 
 **Thesis outline**
 
