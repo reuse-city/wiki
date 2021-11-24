@@ -1,24 +1,22 @@
 ---
 title: Reuse City Wiki
-description:
+description: 
 published: true
-date: 2021-06-21T09:21:31.609Z
-tags:
+date: 2021-11-24T08:58:16.599Z
+tags: 
 editor: markdown
-dateCreated: 2021-06-17T19:52:46.018Z
+dateCreated: 2021-11-12T10:50:45.063Z
 ---
 
 # Reuse City Wiki
 
-Hi. I am [Felipe](https://is.efeefe.me). This wiki starts as a way to document my [PhD research](/opendott) in an open and unstructured way.
+Hi. I am Felipe Schmidt Fonseca (more about me [here](https://is.efeefe.me)). This wiki starts as a way to document my ongoing [PhD research](/opendott) in an open and unstructured way.
 
-A live backup us synced to [this repository on GitHub](https://github.com/reuse-city/wiki/).
+## 1. OpenDoTT
 
-**1. OpenDoTT**
+OpenDoTT ("Open Design of Trusted Things") is "a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things". The [project](https://opendott.org) has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508. The doctoral training started in 2019 at the University of Dundee and later the whole project moved to Northumbria University in Newcastle-upon-Tyne. The industrial partner is the Mozilla Foundation, as well as other partners that compose the OpenDoTT consortium.
 
-OpenDoTT (Open Design of Trusted Things) "is a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things". The [project](https://opendott.org) has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508.
-
-My research topic is "waste prevention in smart cities". In the following links you can find more information about it.
+The working title of my research is "waste prevention in generous cities". More information can be found in the links below:
 
 - [OpenDott](/opendott)
 	- Current [timeline](/opendott/timeline)
@@ -44,3 +42,7 @@ My research topic is "waste prevention in smart cities". In the following links 
   - [Concept ideas](/opendott/concept-ideas)
   - [Prototypes](/opendott/prototypes)
   - [Policy](/opendott/policy)
+
+## Wiki.js and git backup
+
+The website was built using [wiki.js](https://js.wiki/). I am trying to use its ability to sync to a git repository ([this one](https://github.com/reuse-city/wiki/), in particular). At the present moment, this feature is not completely stable - I had to downgrade wiki.js in order to import a previous backup. I hope the developers improve it in the near future. This is important as a way to future-proof the contents of this website in the shape of markdown files stored under a folder structure that is as software-agnostic as possible without losing its human readability.
