@@ -13,6 +13,8 @@ My AP2 report will feature:
 
 ## 2. Thesis structure
 
+![Thesis](thesis.jpg)
+
 ### 2.1. A critique of smart cities
 
 I start by adopting a critical take on the meanings and implications of the smart city discourse.
