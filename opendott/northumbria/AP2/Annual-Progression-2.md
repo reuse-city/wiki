@@ -48,6 +48,7 @@ I will then explore literature and case studies related to different aspects of 
     - Important critical discussion found on "Circular Economy in Developing Countries". Plus my take already expressed in a section of a blog post, "beyond circularity"
  - The value of everything, Mariana Mazzucato - not 100% on-topic, but still important to raise the importance of public investment
  - Doughnut Economy, Kate Raworth
+ - Discussion on the commons (Elinor Ostrom and others)
 
 #### 2.2.2. Repair and Maintenance
 
@@ -65,7 +66,12 @@ I will then explore literature and case studies related to different aspects of 
 
 Attempting to frame my theoretical journey. Am I looking to build grounded theory? How and why?
 
-For now (22.12.2021) I am still to decide on one of the following (or something else still):
+For now (22.12.2021) I am still to decide on one or more of the following (or something else still):
+
+ - skills and abilities around reuse. can technology help?
+ - generous cities, on a conceptual take. how to promote them?
+ - transformation labs - building blocks of generous cities?
+ - spiral of openness - anticolonial take on open design (perhaps the most theoretical of these alternatives).
 
 ### 2.4. Methodology
 
@@ -79,10 +85,6 @@ The bases of my first research studies.
  - Post-colonial, decolonial, anticolonial
    - Krenak, Ideas to postpone the end of the world
    - Françoise Vergès, [Capitalocene, Waste, Race, and Gender](https://www.e-flux.com/journal/100/269165/capitalocene-waste-race-and-gender/)
-
-### 2.4.3. Constructivist Grounded Theory
-
- - Kathy Charmaz
 
 ### 2.5. Research studies
 
@@ -102,13 +104,15 @@ The bases of my first research studies.
 
 ### 2.6. Prototyping
 
-From studies to concept ideas, to prototyping.
+From studies to concept ideas, to prototyping. Eight original concept ideas, three derived concepts in the second year.
 
 Discussion about the relevance of prototyping and its limitations:
 
  - Gambiarra: the prototyping perspective, Gabriel Menotti.
 
-My prototypes
+Open hardware. Privacy by design.
+
+My prototypes: thingwiki, E-I,reuse.city, transformation labs
 
 #### 2.6.1. ThingWiki
 
@@ -122,14 +126,26 @@ Repair assistant
 
 Proto-community
 
+#### 2.6.4. Transformation Labs
+
+Will they even become a prototype? Not sure yet. Perhaps the idea of "blueprint". Not sure if this is relevant.
+
 ### 2.7. Analysing research outputs
 
-#### 2.7.1. Spiral of Openness
+Coding and presenting findings, insights, discussions.
 
-My anticolonial take on open design.
+### 2.8. Final discussion
 
-#### 2.7.2. Generous Cities
+#### 2.8.1. Spiral of Openness
+
+My anticolonial take on open design. Theorising from my own notes.
+
+ - Constructivist Grounded Theory, Kathy Charmaz
+
+#### 2.8.2. Generous Cities
 
 How to interpret excess material in cities and regions as a resource - potential value - to benefit local society? How to promote a shift from abundance (passively profiting from excess) to generosity (the intentional decision to care for others)?
 
-## Final discussion
+Ethnographic account of my experience while moving to different countries twice (and visiting others), facing significantly different cultures of re-use. How has that impacted my understandig and changed my research questions? What have I produced in terms of concepts and policy recommendations (expected outcome of OpenDoTT, is it)?
+
+**Note:** obviously, some parts are still missing. The next training module on policy and legislation will possibly reorient my goals.
