@@ -142,6 +142,7 @@ Coding and presenting findings, insights, discussions.
 
 My anticolonial take on open design. Theorising from my own notes.
 
+ - [Spiral](spiral.md)
  - Constructivist Grounded Theory, Kathy Charmaz
 
 #### 2.8.2. Generous Cities
