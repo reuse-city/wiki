@@ -1,8 +1,11 @@
+
+
 # Smart (sustainable, fair, kind, participatory, sovereign, pretty, carbon-positive, future-building, inclusive, resilient…) Cities
 
 Over the last thousands of years, humanity evolved - at least in part - by organising our lives in adaptive systems, some of which are called ‘cities’. It might be fair to say that **every city is already smart** in that sense. After all, we have applied our capacity to observe and learn, with creativity and ingenuity (along with selective blindness and a lot of luck, one could argue), in order to overcome the many challenges of sustaining life over generations.
 
 Every city manifests itself in multiple layers of flows and containments, commonalities and separation, collaboration and conflict. They are not static in time. In truth they are subject to dynamics of power, culture, global trends, environmental conditions, among other variables. Here again it might be unwise to claim that some cities are adopting “smart” strategies, unlike the others which remain… what? Dumb? Stupid?
+
 Going further on the metaphor, in fact, may provide some elements to discussion. Do we want our cities to be only smart? Shouldn’t we be aiming higher? How about intelligent cities? Or wise cities that beyond seeking only the immediate optimisation of their systems can envision ways for their population to thrive for centuries. Cities of conviviality, of shared abundance. Cities that can heal social division, whilst creating beauty and meaning.
 
 # Shared abundance
