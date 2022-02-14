@@ -2,7 +2,7 @@
 title: Annual Progression 2 - Report
 description: 
 published: true
-date: 2022-02-14T16:45:26.864Z
+date: 2022-02-14T17:18:19.124Z
 tags: annual progression, northumbria
 editor: markdown
 dateCreated: 2022-02-14T16:45:26.864Z
@@ -21,8 +21,8 @@ At this point, I have successfully completed the activities planned for the seco
 
 This document summarise the activities I have performed so far, my findings along the way and my plans towards completion. More detail can be found in the attached files:
 
- - [Year 2 Activities](AP2-activities)
- - [Year 3 Research Plan](AP2-plan)
+ - [Year 2 Activities](./AP2-activities)
+ - [Year 3 Research Plan](./AP2-plan)
 
 ### 1.1. From AP1 onwards
 
