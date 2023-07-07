@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2023-07-07T09:58:10.845Z
+date: 2023-07-07T10:00:30.383Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -10,9 +10,9 @@ dateCreated: 2021-11-12T10:50:45.063Z
 
 # Reuse City Wiki
 
-Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me)). This wiki is the open documentation of my PhD research, part of the OpenDoTT project (Northumbria University / University of Dundee / Mozilla Foundation). The title of my investigation is **Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts**. I have completed the submission of my thesis on 30/06/2023 and expect to defend it before the end of the year.
+Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me). This wiki hosts the open documentation of my PhD research, part of the OpenDoTT project (Northumbria University / University of Dundee / Mozilla Foundation). The title of my investigation is **Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts**. I have completed the submission of my thesis on 30/06/2023 and expect to defend it before the end of the year.
 
-The core point of my investigation is that society needs to create more appropriate alternatives to handle excess - objects and materials prematurely discarded or kept unused for diverse reasons. Instead of focusing on industrial recycling, my take is to prioritise community-based practices of reuse. Such initiatives are crucial not only to identify and act upon the potential economic value of goods and materials already present in virtually every locality, but also a way to promote social cohesion and inclusion while helping mitigate the effects of climate change.
+The core point of my research angle is that society needs to create more appropriate alternatives to handle excess - objects and materials prematurely discarded or kept unused for diverse reasons. Instead of focusing on industrial recycling, my take is to prioritise community-based practices of reuse. Such initiatives are crucial not only to identify and act upon the potential economic value of goods and materials immediately present in virtually every locality, but also to promote social cohesion and inclusion while helping mitigate the effects of climate change.
 
 During the four years of research I have conducted studies, made extensive notes, created design concepts and prototypes, and manufactured reports and contributions to workbooks. This website will host the most relevant parts of the materials produced during the investigation.
 
