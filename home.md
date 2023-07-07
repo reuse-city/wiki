@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2023-07-07T15:24:46.784Z
+date: 2023-07-07T15:31:34.573Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -20,7 +20,7 @@ The video below is an online presentation of my paper [Reuse Commons - a toolkit
 
 &nbsp;
 
-<video poster="/reuse-commons_placeholder.png"  controls>
+<video  align=center poster="/reuse-commons_placeholder.png"  controls>
   <source src="https://archive.org/download/reuse-commons_fab-city/Fonseca-Fab17.mp4" type="video/mp4">
   Your browser does not support embedded videos.
 </video>
