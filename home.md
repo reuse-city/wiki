@@ -2,13 +2,11 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2023-07-07T13:01:25.382Z
+date: 2023-07-07T15:24:46.784Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
 ---
-
-# Reuse City Wiki
 
 Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me). This wiki hosts the open documentation of my PhD research, part of the OpenDoTT project (Northumbria University / University of Dundee / Mozilla Foundation). The title of my investigation is **Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts**. I have completed the submission of my thesis on 30/06/2023 and expect to defend it before the end of the year. My main supervisor is Dr Nick Spencer (Northumbria University). My supervisory team is also composed of Professor Mel Woods (University of Dundee), Dr Nick Taylor (Newcastle University) and Solana Larsen (Mozilla Foundation). 
 
