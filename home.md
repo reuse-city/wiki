@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2023-07-07T10:08:41.660Z
+date: 2023-07-07T10:46:02.391Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -18,11 +18,14 @@ During the four years of research I have conducted studies, made extensive notes
 
 ## Introduction
 
-The video below is an online presentation of my paper Reuse Commons - Weaving generous cities for the 2022 edition of FabCity in Bali. It summarises my research up to that point, as well as providing context on how it was developed.
+The video below is an online presentation of my paper [Reuse Commons - a toolkit to weave generous cities](https://zenodo.org/record/7432153) for the 2022 edition of [Fab City Summit](https://bali.fabevent.org/). It summarises my research up to that point, as well as providing context on how it was developed.
 
+<video controls>
+  <source src="https://archive.org/download/reuse-commons_fab-city/Fonseca-Fab17.mp4" type="video/mp4">
+  Your browser does not support embedded videos.
+</video>
 
-
-
+The video can also be watched from the [Internet Archive](https://archive.org/details/reuse-commons_fab-city) or [Youtube](https://www.youtube.com/watch?v=9FffmnQeZCU&feature=youtu.be).
 
 ## OpenDoTT
 
