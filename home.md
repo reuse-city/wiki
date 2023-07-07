@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2023-07-07T12:50:02.094Z
+date: 2023-07-07T12:55:19.710Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -22,6 +22,7 @@ This website is a work in progress. I will be moving contents here shortly.
 
 The video below is an online presentation of my paper [Reuse Commons - a toolkit to weave generous cities](https://zenodo.org/record/7432153) for the 2022 edition of [Fab City Summit](https://bali.fabevent.org/). It summarises my research up to that point, as well as providing context on how it was developed.
 
+&nbsp;
 
 <video poster="/reuse-commons_placeholder.png"  controls>
   <source src="https://archive.org/download/reuse-commons_fab-city/Fonseca-Fab17.mp4" type="video/mp4">
