@@ -2,13 +2,13 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2023-07-07T15:32:20.017Z
+date: 2023-07-10T09:34:16.593Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
 ---
 
-Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me). This wiki hosts the open documentation of my PhD research, part of the OpenDoTT project (Northumbria University / University of Dundee / Mozilla Foundation). The title of my investigation is **Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts**. I have completed the submission of my thesis on 30/06/2023 and expect to defend it before the end of the year. My main supervisor is Dr Nick Spencer (Northumbria University). My supervisory team is also composed of Professor Mel Woods (University of Dundee), Dr Nick Taylor (Newcastle University) and Solana Larsen (Mozilla Foundation). 
+Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me). This wiki hosts the open documentation of my PhD research, part of the [OpenDoTT](#opendott) project (Northumbria University / University of Dundee / Mozilla Foundation). The title of my investigation is **Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts**. I have completed the submission of my thesis on 30/06/2023 and expect to defend it before the end of the year. My main supervisor is Dr Nick Spencer (Northumbria University). My supervisory team is also composed of Professor Mel Woods (University of Dundee), Dr Nick Taylor (Newcastle University) and Solana Larsen (Mozilla Foundation). 
 
 The core point of my research is that we need to create more appropriate alternatives to handle excess - understood here as the objects and materials prematurely discarded or kept unused for various reasons. Instead of focusing on industrial recycling, my take is to prioritise community-based practices of reuse. Such initiatives are crucial not only to identify and act upon the potential economic value of goods and materials immediately present in virtually every locality, but also to promote social cohesion, inclusion and regeneration while helping mitigate the effects of climate change.
 
