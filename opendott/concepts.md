@@ -2,7 +2,7 @@
 title: Design Concepts
 description: 
 published: true
-date: 2023-07-12T23:01:03.486Z
+date: 2023-07-12T23:01:26.388Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T23:01:03.486Z
@@ -14,4 +14,10 @@ The concept ideas shown here are my responses to issues and insights identified 
 
 These ideas are not meant to be radically new. Rather, the intention is contributing to build a systemic, commons-based approach that allows society as a whole to benefit from the potential value that can be generated through secondary flows of matter.
 
-- [Universal Registry of Things](universal-registry-things)
+- [Universal Registry of Things](concepts/universal-registry-things)
+- [Point and Reuse](concepts/point-reuse)
+- [Reuse this Thing](concepts/reuse-this-thing)
+- [Make Waste Visible](concepts/make-waste-visible)
+- [Reuse Dataset](concepts/reuse-dataset)
+- [Reuse Commons](concepts/reuse-commons)
+- [Reuse Bin](concepts/reuse-bin)
