@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2023-09-27T10:55:15.508Z
+date: 2023-09-27T10:56:07.741Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -14,7 +14,7 @@ My main doctoral supervisor is Dr Nick Spencer (Northumbria University). My supe
 
 The core argument of my research is that we need to reimagine and reshape how cities handle excess materials - understood here as the objects and materials prematurely discarded or kept unused for various reasons. Instead of focusing on industrial recycling, my take is to prioritise community-based practices of reuse. Such initiatives are crucial not only to identify and act upon the potential economic value of goods and materials immediately present in virtually every locality, but also to promote social cohesion, inclusion and regeneration while helping mitigate the effects of climate change.
 
-During the four years of research I have conducted studies, made extensive notes, created design concepts and prototypes, and manufactured reports and materials for workbooks. This website will host the most relevant parts of the materials produced during the investigation. It is currently a work in progress. I will be gradually moving more contents here.
+During the four years of research I have conducted studies, made extensive notes, created design concepts and prototypes, and manufactured reports and materials for workbooks. This website will host the most relevant parts of the materials produced during the investigation. It is currently a work in progress. I will be gradually moving more contents, publications, research notes and concept ideas here.
 
 ## Reuse Commons
 
