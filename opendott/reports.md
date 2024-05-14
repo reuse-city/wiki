@@ -2,7 +2,7 @@
 title: reports
 description: 
 published: true
-date: 2024-05-14T11:53:15.225Z
+date: 2024-05-14T14:45:42.495Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:56.606Z
@@ -23,8 +23,8 @@ As a cooperation programme between Northumbria University and a consortium of or
 ## Research Progress
 
 - [Midterm Review](reports/2020-Midterm-Review.pdf) (2020).
-- [Annual-Progression 1](/opendott/northumbria/AP1/Annual-Progression-1) (2020).
-- [Annual Progression 2](/opendott/northumbria/AP2/Annual-Progression-2) (2021).
+- [Annual-Progression 1](/opendott/northumbria/AP1/Annual-Progression-1) (2020-2021).
+- [Annual Progression 2](/opendott/northumbria/AP2/Annual-Progression-2) (2021-2022).
 - [Policy Implications Report](reports/2022-Policy-Implications.pdf) (2022).
 
 
