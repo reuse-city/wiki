@@ -1,6 +1,16 @@
+---
+title: reports
+description: 
+published: true
+date: 2024-05-14T11:19:48.443Z
+tags: 
+editor: markdown
+dateCreated: 2023-07-12T22:50:56.606Z
+---
+
 # Reports
 
-As a EU-funded cooperation programme between Northumbria University and a consortium of organisations, OpenDoTT required each fellow to submit documentation and reports on the ongoing research activities. The materials listed in this page were the reports I submitted during the research.
+As a cooperation programme between Northumbria University and a consortium of organisations, OpenDoTT required each fellow to submit documentation and reports on the ongoing research activities. The materials listed in this page were the reports I submitted during the research.
 
 ## Training Reports
 
@@ -13,8 +23,8 @@ As a EU-funded cooperation programme between Northumbria University and a consor
 ## Research Progress
 
 - [Midterm Review](reports/20202-Midterm-Review.pdf) (2020).
-- [Annual Progression 1](reports/AP1/Annual-Progression-1) (2020).
-- [Annual Progression 2](reports/AP2-Annual-Progression-2) (2021).
+- [Annual Progression 1](reports/AP1/Annual-Progression-1.md) (2020).
+- [Annual Progression 2](reports/AP2-Annual-Progression-2.md) (2021).
 - [Policy Implications Report](reports/2022-Policy-Implications.pdf) (2022).
 
 
