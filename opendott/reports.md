@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-14T15:20:08.264Z
+date: 2024-05-14T15:21:29.228Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:56.606Z
@@ -39,9 +39,9 @@ As a cooperation programme between Northumbria University and a consortium of or
 - [Design Concepts 2](reports/2021-Updated-Concepts-2.pdf) (PDF, 2021).
 - [Design Concepts 3](reports/2022-Updated-Concepts-3.pdf) (PDF, 2022).
 
-## Outreach
+## Dissemination
 
 - [Open Technology Workbook](reports/2021-Open-Technology-Workbook.pdf) (PDF, 2021).
 - [Policy Workbook](reports/2022-Policy-Workbook.pdf) (PDF, 2022).
-- [On Circularity](reports/2022-On-Circularity-Blog.pdf) (PDF, 2022).
-- [Tales of Policymaking](reports/2022-Tales-Policymaking-Blog.pdf) (PDF, 2022).
+- Blog Post: [On Circularity](reports/2022-On-Circularity-Blog.pdf) (PDF, 2022).
+- Blog Post: [Tales of Policymaking](reports/2022-Tales-Policymaking-Blog.pdf) (PDF, 2022).
