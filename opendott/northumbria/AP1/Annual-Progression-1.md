@@ -2,13 +2,16 @@
 title: Annual-Progression-1
 description: 
 published: true
-date: 2024-05-14T14:48:41.013Z
+date: 2024-05-14T14:50:54.654Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-29T14:16:52.336Z
 ---
 
 This section documents my first Annual Progression, performed by the Northumbria University in January 2021 as an interim evaluation towards the completion of my PhD.
+
+- Progression panel chair: Steve Gibson
+- Progression panel subject specialist: Angelika Strohmayer
 
 Documents (PDF):
 
