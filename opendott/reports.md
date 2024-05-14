@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-14T15:17:39.206Z
+date: 2024-05-14T15:20:08.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:56.606Z
@@ -26,6 +26,8 @@ As a cooperation programme between Northumbria University and a consortium of or
 - [Annual-Progression 1](/opendott/northumbria/AP1/Annual-Progression-1) (2020-2021).
 - [Annual Progression 2](/opendott/northumbria/AP2/Annual-Progression-2) (2021-2022).
 - [Policy Implications Report](reports/2022-Policy-Implications.pdf) (2022).
+- Mock Viva (2023).
+- Viva (2023).
 
 
 ## Concepts and Prototypes
@@ -33,7 +35,7 @@ As a cooperation programme between Northumbria University and a consortium of or
 - [Design Concepts](https://is.efeefe.me/opendott/concepts) (2020).
 - [Prototypes](reports/2021-Prototypes.pdf) (PDF, 2021).
 - [Technology Demonstrators](https://github.com/opendott-smartcities/II/tree/main/D10_technology-demonstrators) (git repository, 2021).
-- [Deployument Datasets](https://github.com/opendott-smartcities/II/tree/main/D13_deployment-datasets) (git repository, 2021).
+- [Deployment Datasets](https://github.com/opendott-smartcities/II/tree/main/D13_deployment-datasets) (git repository, 2021).
 - [Design Concepts 2](reports/2021-Updated-Concepts-2.pdf) (PDF, 2021).
 - [Design Concepts 3](reports/2022-Updated-Concepts-3.pdf) (PDF, 2022).
 
