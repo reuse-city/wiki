@@ -2,7 +2,7 @@
 title: reports
 description: 
 published: true
-date: 2024-05-14T11:19:48.443Z
+date: 2024-05-14T11:22:53.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:56.606Z
@@ -15,7 +15,7 @@ As a cooperation programme between Northumbria University and a consortium of or
 ## Training Reports
 
 - [Internet Health](reports/2020-Internet-Health.pdf) (2020).
-- [Communication and Public Engagement](2022-Communication-Engagement.pdf) (2022).
+- [Communication and Public Engagement](reports/2022-Communication-Engagement.pdf) (2022).
 - Digital Inclusion and Digital Literacy: [Blog Post](reports/2022-Digital-Inclusion-Literacy-Blog.pdf), [Slides](reports/2022-Digital-Inclusion-Literacy-Slides.pdf) (2022).
 - [Intellectual Property and Entrepreneurhsip](reports/2022-IP-Entrepreneurship.pdf) (2022).
 
