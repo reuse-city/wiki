@@ -2,7 +2,7 @@
 title: OpenDoTT
 description: Open Design of Trusted Things - EU funded joint research project (Northumbria University + Mozilla Foundation)
 published: true
-date: 2024-05-15T12:40:48.750Z
+date: 2024-05-15T13:55:01.652Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:26.082Z
@@ -18,12 +18,13 @@ Upon early exploration and reflection about my potential contribution to scholar
 
 More information about my investigation can be found in the following pages of this wiki:
 
-- [Reports](/opendott/reports/) and project documentation.
 - [Research Studies](/opendott/studies).
 - [Design Concepts](/opendott/concepts).
 - [Prototypes](/opendott/prototypes).
 - [Datasets](/opendott/datasets).
-- [Research Outputs](/opendott/outputs)
+- [Research Outputs](/opendott/outputs).
+- Project [Reports](/opendott/reports/).
+- Public [Workbooks](/opendott/workbooks).
 
 See also the [research blog](https://is.efeefe.me/opendott) I maintained during the project, and my (still ongoing) [links repository](https://links.efeefe.me/?searchtags=opendott).
 
