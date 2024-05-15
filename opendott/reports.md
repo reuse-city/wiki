@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-15T14:03:32.765Z
+date: 2024-05-15T14:18:29.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:56.606Z
@@ -10,7 +10,7 @@ dateCreated: 2023-07-12T22:50:56.606Z
 
 # Reports
 
-As a cooperation programme between Northumbria University and a consortium of organisations, OpenDoTT required each fellow to submit documentation and reports on the ongoing research activities. The materials listed in this page were the reports I submitted during the research.
+As a cooperation programme between Northumbria University and a consortium of organisations, OpenDoTT required each fellow to submit documentation and reports on the ongoing research activities. The materials listed in this page were the reports I submitted during the research. See also: [workbooks](/opendott/workbooks), [research outputs](/opendott/outputs).
 
 ## Training Reports
 
