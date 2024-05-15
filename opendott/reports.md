@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-15T16:11:45.900Z
+date: 2024-05-15T16:16:04.034Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:56.606Z
@@ -46,8 +46,16 @@ As a cooperation programme between Northumbria University and a consortium of or
 - Blog Post: [Reparatur Festival](https://is.efeefe.me/opendott/reparatur-festival-2019) (2019).
 - [Short text on Smart Cities](https://is.efeefe.me/opendott/smart-cities-mozfest), included in the OpenDoTT material distributed during the London edition of Mozilla Festival (2019).
 - Blog Post: [Things in the City](https://is.efeefe.me/opendott/things-in-the-city) (2019).
+- Blog Post: [Waste in my life](https://is.efeefe.me/opendott/waste-in-my-life) (2020).
 - Blog Post: [City Mattering](https://is.efeefe.me/opendott/city-mattering) (2020).
 - Blog Post: [Waste, Value and Reuse](https://is.efeefe.me/opendott/waste-value-and-reuse) (2020).
+- Blog Post: [Non essential](https://is.efeefe.me/opendott/non-essential) (2020).
+- Blog Post: [Regeneration](https://is.efeefe.me/opendott/regeneration) (2020).
+- Blog Post: [On Repair](https://is.efeefe.me/opendott/on-repair) (2020).
+- Blog Post: [Repair Journey - a personal diary](https://is.efeefe.me/opendott/repair-journey-a-personal-diary) (2020).
+- Blog Post: [Generous City](https://is.efeefe.me/opendott/generous-city) (2020).
+- Blog Post: [Homelab under lockdown](https://is.efeefe.me/opendott/homelab-under-lockdown) (2020).
+
 - Blog Post: [A spiral of openness](https://is.efeefe.me/opendott/spiral-of-openness) (2020).
 - Blog Post: [Reuse in the city](https://is.efeefe.me/opendott/reuse-in-the-city) (2021).
 - Blog Post: [Reuse 404](https://is.efeefe.me/opendott/reuse-404) (2021).
@@ -55,30 +63,3 @@ As a cooperation programme between Northumbria University and a consortium of or
 - Blog Post: [Technology, equality and appropriation](https://is.efeefe.me/opendott/technology-equality-appropriation) (2022).
 - Blog Post: [On Circularity](reports/2022-On-Circularity-Blog.pdf) (PDF, 2022).
 - Blog Post: [Tales of Policymaking](https://is.efeefe.me/opendott/tales-of-policy-making) (2022).
-
-
-<!-- Select -->
-
-https://is.efeefe.me/opendott/career-development-plan
-https://is.efeefe.me/opendott/materiality 
-https://is.efeefe.me/opendott/maker-city 
-https://is.efeefe.me/opendott/post-consumption 
-https://is.efeefe.me/opendott/reparatur-festival-2019
-https://is.efeefe.me/opendott/smart-cities-mozfest
-https://is.efeefe.me/opendott/asking-around-about-waste
-https://is.efeefe.me/opendott/things-in-the-city 
-https://is.efeefe.me/opendott/waste-in-my-life 
-https://is.efeefe.me/opendott/city-mattering 
-https://is.efeefe.me/opendott/waste-value-and-reuse 
-https://is.efeefe.me/opendott/non-essential 
-https://is.efeefe.me/opendott/regeneration
-https://is.efeefe.me/opendott/on-repair 
-https://is.efeefe.me/opendott/repair-journey-a-personal-diary 
-https://is.efeefe.me/opendott/repair-journey-preparation 
-https://is.efeefe.me/opendott/scavenging-theft-reclaiming-mining
-https://is.efeefe.me/opendott/repair-journey-a-personal-diary 
-https://is.efeefe.me/opendott/generous-city 
-https://is.efeefe.me/opendott/homelab-under-lockdown 
-https://is.efeefe.me/opendott/focus 
-https://is.efeefe.me/opendott/repair-journey
-https://is.efeefe.me/opendott/ecosystem-mapping 
