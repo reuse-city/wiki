@@ -2,7 +2,7 @@
 title: Workbooks
 description: 
 published: true
-date: 2024-05-15T13:45:24.471Z
+date: 2024-05-15T13:46:14.515Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:59.883Z
@@ -10,7 +10,7 @@ dateCreated: 2023-07-12T22:50:59.883Z
 
 As a way to document ongoing processes, OpenDoTT planned to publish workbooks themed on elements of its research structure. My sections in these workbooks are available in the PDFs below:
 
-- [Design Research Workbook]() (2020).
+- [Design Research Workbook](reports/2020-Design-Research-Workbook.pdf) (2020).
 - [Open Technology Workbook](reports/2021-Open-Technology-Workbook.pdf) (2020).
 - [Policy Workbook](reports/2022-Policy-Workbook.pdf) (2022).
 
