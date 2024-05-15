@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-15T14:19:21.496Z
+date: 2024-05-15T16:07:55.981Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:56.606Z
@@ -52,3 +52,30 @@ As a cooperation programme between Northumbria University and a consortium of or
 - Blog Post: [Technology, equality and appropriation](https://is.efeefe.me/opendott/technology-equality-appropriation) (2022).
 - Blog Post: [On Circularity](reports/2022-On-Circularity-Blog.pdf) (PDF, 2022).
 - Blog Post: [Tales of Policymaking](https://is.efeefe.me/opendott/tales-of-policy-making) (2022).
+
+
+<!-- Select -->
+
+https://is.efeefe.me/opendott/career-development-plan
+https://is.efeefe.me/opendott/materiality 
+https://is.efeefe.me/opendott/maker-city 
+https://is.efeefe.me/opendott/post-consumption 
+https://is.efeefe.me/opendott/reparatur-festival-2019
+https://is.efeefe.me/opendott/smart-cities-mozfest
+https://is.efeefe.me/opendott/asking-around-about-waste
+https://is.efeefe.me/opendott/things-in-the-city 
+https://is.efeefe.me/opendott/waste-in-my-life 
+https://is.efeefe.me/opendott/city-mattering 
+https://is.efeefe.me/opendott/waste-value-and-reuse 
+https://is.efeefe.me/opendott/non-essential 
+https://is.efeefe.me/opendott/regeneration
+https://is.efeefe.me/opendott/on-repair 
+https://is.efeefe.me/opendott/repair-journey-a-personal-diary 
+https://is.efeefe.me/opendott/repair-journey-preparation 
+https://is.efeefe.me/opendott/scavenging-theft-reclaiming-mining
+https://is.efeefe.me/opendott/repair-journey-a-personal-diary 
+https://is.efeefe.me/opendott/generous-city 
+https://is.efeefe.me/opendott/homelab-under-lockdown 
+https://is.efeefe.me/opendott/focus 
+https://is.efeefe.me/opendott/repair-journey
+https://is.efeefe.me/opendott/ecosystem-mapping 
