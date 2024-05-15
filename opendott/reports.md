@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-15T16:07:55.981Z
+date: 2024-05-15T16:11:45.900Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:56.606Z
@@ -43,6 +43,9 @@ As a cooperation programme between Northumbria University and a consortium of or
 
 - [Open Technology Workbook](reports/2021-Open-Technology-Workbook.pdf) (PDF, 2021).
 - [Policy Workbook](reports/2022-Policy-Workbook.pdf) (PDF, 2022).
+- Blog Post: [Reparatur Festival](https://is.efeefe.me/opendott/reparatur-festival-2019) (2019).
+- [Short text on Smart Cities](https://is.efeefe.me/opendott/smart-cities-mozfest), included in the OpenDoTT material distributed during the London edition of Mozilla Festival (2019).
+- Blog Post: [Things in the City](https://is.efeefe.me/opendott/things-in-the-city) (2019).
 - Blog Post: [City Mattering](https://is.efeefe.me/opendott/city-mattering) (2020).
 - Blog Post: [Waste, Value and Reuse](https://is.efeefe.me/opendott/waste-value-and-reuse) (2020).
 - Blog Post: [A spiral of openness](https://is.efeefe.me/opendott/spiral-of-openness) (2020).
