@@ -2,7 +2,7 @@
 title: Research Outputs
 description: 
 published: true
-date: 2024-05-16T10:50:29.948Z
+date: 2024-05-16T11:08:36.794Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T12:42:05.841Z
@@ -23,6 +23,13 @@ DOI: [10.5281/zenodo.7432152](https://doi.org/10.5281/zenodo.7432152)
 - Recording of presentation available on [Youtube](https://www.youtube.com/watch?v=9FffmnQeZCU) / [Archive](https://archive.org/details/reuse-commons_fab-city)
 
 ## Presentations
+
+### Generous Cities (2022)
+
+Keynote for the *2022 CRDM Symposium Infrastructures and/as Anticolonialism* (North Carolina State University).
+
+- Recording available on [Google Drive](https://drive.google.com/file/d/1_EJDTp5uxhQ9L1h_e9mG3HWmyBjL7nYq/view).
+
 
 ### reuse.city (2021)
 
