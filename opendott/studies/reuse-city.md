@@ -2,14 +2,17 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2024-05-16T10:57:07.824Z
+date: 2024-05-16T11:02:25.936Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:57.112Z
 ---
 
 # reuse.city
-## Online co-design lab
+
+*(part of my research [studies](/opendott/studies)).*
+
+---
 
 reuse.city was a [research study](../studies) created to co-design speculative technologies, methodologies and systems to promote the reuse of goods and materials in cities and regions. It was conducted between April and August 2021.
 
