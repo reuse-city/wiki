@@ -19,6 +19,11 @@ As a cooperation programme between Northumbria University and a consortium of or
 - Digital Inclusion and Digital Literacy: [Blog Post](reports/2022-Digital-Inclusion-Literacy-Blog.pdf), [Slides](reports/2022-Digital-Inclusion-Literacy-Slides.pdf) (2022).
 - [Intellectual Property and Entrepreneurhsip](reports/2022-IP-Entrepreneurship.pdf) (2022).
 
+## Datasets
+
+- [Smart Cities](../datasets/#esr4-smart-cities)
+- [Deployment Dataset](../datasets/#deployment-datasets)
+
 ## Research Progress
 
 - [Midterm Review](reports/2020-Midterm-Review.pdf) (2020).
