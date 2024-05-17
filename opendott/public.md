@@ -2,13 +2,23 @@
 title: Publications, Engagement and Outreach
 description: Talks, appearances, cooperation, writing
 published: true
-date: 2024-05-17T18:40:29.142Z
+date: 2024-05-17T18:51:31.618Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:32.469Z
 ---
 
 ## Presentations
+
+## Learning Circle / Circular Berlin
+### Reuse datasets for alternative circularities of products and materials
+
+**Description:**
+
+Despite recent advancements in terms of legislation and industrial practices, a fully closed-loop economy is not yet feasible in the foreseeable future. In such a scenario, recycling won’t be enough to cope with the growing volume of goods being manufactured every day, in the whole world. 
+Felipe Schmidt Fonseca's PhD research (Northumbria University / Mozilla Foundation) explored convivial approaches to create socially inclusive local systems of waste prevention that help divert potentially reusable materials from the waste stream. This presentation will focus on “reuse datasets”, a design concept developed during Felipe´s investigation to help seek alternative circularities through commons-based governance of data relevant for the reuse of products and materials.
+
+- [Slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) / Video on [YouTube](https://www.youtube.com/watch?v=tUn0bJl5wAE)
 
 ### Generous Cities (2022)
 
@@ -40,9 +50,6 @@ Participation on Fixfest UK 2020.
 
 - Recording available on [YouTube](https://www.youtube.com/watch?v=cU5R2MzPGjw)
 
-
-[plugin:youtube](https://www.youtube.com/watch?v=cU5R2MzPGjw)
-
 **Description:**
 
 > The treatment of solid waste is often seen as an engineering problem whose solution is to be entirely outsourced to private corporations that will either recycle stuff (in its industrial meaning – transform them back into raw materials) or dispose of them in landfills or incinerators. However, a significant proportion of the typical municipal waste could be reused and repurposed before such final and environmentally intensive measures. 
@@ -54,8 +61,6 @@ Researcher Felipe Schmidt Fonseca starts with his experiences in Brazil in compu
 ### The wheres and whens of networks
 
 [Video](https://youtu.be/9mvGHa0J6MQ?t=5445) of the [session I was in during Transmediale 2020](https://2020.transmediale.de/content/exchange-1-the-wheres-and-whens-of-networks). I start talking at 1:30:00.
-
-[plugin:youtube](https://www.youtube.com/watch?v=9mvGHa0J6MQ)
 
 ### Reparatur Festival 2019
 
