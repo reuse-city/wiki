@@ -61,6 +61,7 @@ As a cooperation programme between Northumbria University and a consortium of or
 - Blog Post: [A spiral of openness](https://is.efeefe.me/opendott/spiral-of-openness) (2020).
 - Blog Post: [Reuse in the city](https://is.efeefe.me/opendott/reuse-in-the-city) (2021).
 - Blog Post: [Reuse 404](https://is.efeefe.me/opendott/reuse-404) (2021).
+- Blog Post: [Disciplines](https://is.efeefe.me/opendott/disciplines) (2021).
 - Blog Post: [Year 2](https://is.efeefe.me/opendott/year-2) (2021).
 - Blog Post: [Technology, equality and appropriation](https://is.efeefe.me/opendott/technology-equality-appropriation) (2022).
 - Blog Post: [On Circularity](reports/2022-On-Circularity-Blog.pdf) (PDF, 2022).
