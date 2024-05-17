@@ -1,13 +1,12 @@
 ---
-title: Public Engagement
+title: Publications, Engagement and Outreach
 description: Talks, appearances, cooperation, writing
 published: true
-date: 2021-06-21T09:52:40.517Z
+date: 2024-05-17T18:40:29.142Z
 tags: 
 editor: markdown
-dateCreated: 2021-06-21T09:48:29.407Z
+dateCreated: 2021-11-23T18:52:32.469Z
 ---
-
 
 ## Presentations
 
