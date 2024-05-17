@@ -2,7 +2,7 @@
 title: Publications, Engagement and Outreach
 description: Talks, appearances, cooperation, writing
 published: true
-date: 2024-05-17T18:59:55.961Z
+date: 2024-05-17T19:48:03.972Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:32.469Z
@@ -23,7 +23,6 @@ Felipe Schmidt Fonseca's PhD research (Northumbria University / Mozilla Foundati
 
 - Recording available on [YouTube](https://www.youtube.com/watch?v=tUn0bJl5wAE).
 - Slides on [Google Drive](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view).
-
 
 ### Reuse Datasets
 **Scottish Universities Innovation Institute**
