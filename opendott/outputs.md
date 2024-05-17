@@ -22,35 +22,17 @@ Publisher: Rotterdam University of Applied Sciences
 DOI: [10.5281/zenodo.7432152](https://doi.org/10.5281/zenodo.7432152)
 - Recording of presentation available on [Youtube](https://www.youtube.com/watch?v=9FffmnQeZCU) / [Archive](https://archive.org/details/reuse-commons_fab-city)
 
-## Presentations
+## Workbooks
 
-### Generous Cities (2022)
+As a way to document ongoing processes, OpenDoTT planned to publish workbooks themed on elements of its research structure. My sections in these workbooks are available in the PDFs below:
 
-Keynote for the *2022 CRDM Symposium Infrastructures and/as Anticolonialism* (North Carolina State University).
+- [Design Research Workbook](reports/2020-Design-Research-Workbook.pdf) (2020).
+- [Open Technology Workbook](reports/2021-Open-Technology-Workbook.pdf) (2020).
+- [Policy Workbook](reports/2022-Policy-Workbook.pdf) (2022).
 
-- Recording available on [Google Drive](https://drive.google.com/file/d/1_EJDTp5uxhQ9L1h_e9mG3HWmyBjL7nYq/view).
+Additionally, my reports from two training modules were also structured as workbooks:
 
+- [Internet Health](/opendott/reports/2020-Internet-Health.pdf) (2020).
+- [Digital Inclusion and Digital Literacy](/opendott/reports/2022-Digital-Inclusion-Literacy-Slides.pdf) (2022).
 
-### reuse.city (2021)
-
-Presentation and discussion (in Portuguese) hosted by Lab404 (UFBA) in May 2021. 
-
-- Recording available on [YouTube](https://www.youtube.com/watch?v=s8vjxRc47NI).
-
-**Description in Portuguese**:
-
->Encontros do Lab404 com Felipe Fonseca, que busca entender as cidades como entidades generosas, que podem promover em suas comunidades os consertos, o upcycling e a recirculação de objetos e materiais para gerar benefícios sociais, econômicos e ambientais.
-
-
-### Reuse and Repair in Urban Environments (2020)
-
-Participation on Fixfest UK 2020.
-
-- Recording available on [YouTube](https://www.youtube.com/watch?v=cU5R2MzPGjw)
-
-**Description:**
-
-> The treatment of solid waste is often seen as an engineering problem whose solution is to be entirely outsourced to private corporations that will either recycle stuff (in its industrial meaning – transform them back into raw materials) or dispose of them in landfills or incinerators. However, a significant proportion of the typical municipal waste could be reused and repurposed before such final and environmentally intensive measures. 
-The purpose of this session is to discuss what sort of policies, infrastructure and governance schemes could help society reuse more of the materials it currently discards.
-Researcher Felipe Schmidt Fonseca starts with his experiences in Brazil in computer reuse, but takes us on a critical journey through concepts of the "smart city" and "internet of things". 
-[Slides](https://drive.google.com/file/d/1DD_I0OzlbNl64cSX-9f9MZFG3wGswO0Y/view?usp=drive_link).
+The project has also composed an overall [Research Skills Workbook](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5f91b1035&appId=PPGMS). And instead of proceedings of a final conference that did not take place, the OpenDoTT consortium published a book titled ["Reboot IoT"](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5fbfeffa7&appId=PPGMS).
