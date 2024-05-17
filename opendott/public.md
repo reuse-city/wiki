@@ -2,7 +2,7 @@
 title: Publications, Engagement and Outreach
 description: Talks, appearances, cooperation, writing
 published: true
-date: 2024-05-17T18:51:31.618Z
+date: 2024-05-17T18:59:55.961Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:32.469Z
@@ -10,19 +10,33 @@ dateCreated: 2021-11-23T18:52:32.469Z
 
 ## Presentations
 
-## Learning Circle / Circular Berlin
 ### Reuse datasets for alternative circularities of products and materials
+
+**Circular Berlin**
+
+*Berlin / Online, 2024*
 
 **Description:**
 
 Despite recent advancements in terms of legislation and industrial practices, a fully closed-loop economy is not yet feasible in the foreseeable future. In such a scenario, recycling won’t be enough to cope with the growing volume of goods being manufactured every day, in the whole world. 
 Felipe Schmidt Fonseca's PhD research (Northumbria University / Mozilla Foundation) explored convivial approaches to create socially inclusive local systems of waste prevention that help divert potentially reusable materials from the waste stream. This presentation will focus on “reuse datasets”, a design concept developed during Felipe´s investigation to help seek alternative circularities through commons-based governance of data relevant for the reuse of products and materials.
 
-- [Slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) / Video on [YouTube](https://www.youtube.com/watch?v=tUn0bJl5wAE)
+- Recording available on [YouTube](https://www.youtube.com/watch?v=tUn0bJl5wAE).
+- Slides on [Google Drive](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view).
 
-### Generous Cities (2022)
 
-Keynote for the *2022 CRDM Symposium Infrastructures and/as Anticolonialism* (North Carolina State University).
+### Reuse Datasets
+**Scottish Universities Innovation Institute**
+*Glasgow, 2024*
+
+Presentation at the Valuing Public Data Conference.
+
+### Generous Cities
+
+**North Carolina State University**
+*Raleigh / Online, 2022*
+
+Keynote for the *2022 CRDM Symposium Infrastructures and/as Anticolonialism*.
 
 - Recording available on [Google Drive](https://drive.google.com/file/d/1_EJDTp5uxhQ9L1h_e9mG3HWmyBjL7nYq/view).
 
