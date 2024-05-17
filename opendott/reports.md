@@ -57,9 +57,10 @@ As a cooperation programme between Northumbria University and a consortium of or
 - Blog Post: [Repair Journey - a personal diary](https://is.efeefe.me/opendott/repair-journey-a-personal-diary) (2020).
 - Blog Post: [Generous City](https://is.efeefe.me/opendott/generous-city) (2020).
 - Blog Post: [Homelab under lockdown](https://is.efeefe.me/opendott/homelab-under-lockdown) (2020).
-
 - Blog Post: [A spiral of openness](https://is.efeefe.me/opendott/spiral-of-openness) (2020).
 - Blog Post: [Reuse in the city](https://is.efeefe.me/opendott/reuse-in-the-city) (2021).
+- Blog Post: [Halfway](https://is.efeefe.me/opendott/halfway) (2021).
+- Blog Post: [Interim](https://is.efeefe.me/opendott/interim) (2021).
 - Blog Post: [Reuse 404](https://is.efeefe.me/opendott/reuse-404) (2021).
 - Blog Post: [Disciplines](https://is.efeefe.me/opendott/disciplines) (2021).
 - Blog Post: [Year 2](https://is.efeefe.me/opendott/year-2) (2021).
