@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-05-22T22:22:35.194Z
+date: 2024-05-22T22:23:13.308Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -18,9 +18,11 @@ During the four years of research I have conducted [studies](/opendott/studies),
 
 My main doctoral supervisor was Dr Nick Spencer (Northumbria University). My supervisory team was also composed of Professor Mel Woods (University of Dundee), Dr Nick Taylor (Newcastle University) and Solana Larsen (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. My Annual Progressions were examined by Dr Angelika Strohmayer (Northumbria University). My Viva Voce examiners were Professor Joyce Yee (Northumbria University) and Gordon Hush (Glasgow School of Art).
 
-## Reuse Commons
+## Highlight: Reuse Commons
 
 The video below is an online presentation of my paper [Reuse Commons - a toolkit to weave generous cities](https://zenodo.org/record/7432153) for the 2022 edition of [Fab City Summit](https://bali.fabevent.org/). It summarises my research up to that point, as well as providing context on how it was developed.
+
+See also other [research outputs](/opendott/outputs).
 
 &nbsp;
 
