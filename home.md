@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-05-08T11:21:40.913Z
+date: 2024-05-22T22:22:35.194Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -10,11 +10,13 @@ dateCreated: 2021-11-12T10:50:45.063Z
 
 Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me). This wiki hosts the open documentation of my PhD research, which was part of the [OpenDoTT](#opendott) project (Northumbria University / University of Dundee / Mozilla Foundation). The title of my thesis is **Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts**. I have submitted on 30/06/2023 and successfully [defended it on 21/09/2023](https://is.efeefe.me/opendott/phd-success). A final version was submitted in March 2024 and my degree was confirmed in April 2024.
 
-My main doctoral supervisor was Dr Nick Spencer (Northumbria University). My supervisory team was also composed of Professor Mel Woods (University of Dundee), Dr Nick Taylor (Newcastle University) and Solana Larsen (Mozilla Foundation). Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator.
+The core argument of my research is that we need to reimagine and reshape how cities handle excess materials - understood here as the objects and materials prematurely discarded or kept unused for various reasons. Instead of focusing on increasing the efficienty of industrial recycling, my take is to prioritise conviviality through community-based practices of reuse. Such initiatives are crucial not only to identify and act upon the potential economic value of goods and materials immediately present in virtually every locality, but also to promote social cohesion, inclusion and regeneration while helping mitigate the effects of climate change.
 
-The core argument of my research is that we need to reimagine and reshape how cities handle excess materials - understood here as the objects and materials prematurely discarded or kept unused for various reasons. Instead of focusing on industrial recycling, my take is to prioritise community-based practices of reuse. Such initiatives are crucial not only to identify and act upon the potential economic value of goods and materials immediately present in virtually every locality, but also to promote social cohesion, inclusion and regeneration while helping mitigate the effects of climate change.
+During the four years of research I have conducted [studies](/opendott/studies), made extensive notes, created [design concepts](/opendott/concepts) and [prototypes](/opendott/prototypes), and manufactured [reports](/opendott/reports) and materials for [workbooks](/opendott/workbooks). This website hosts the most relevant parts of the [materials produced during the investigation](/opendott). It is currently a work in progress. I will be gradually moving more contents, publications, research notes and concept ideas here.
 
-During the four years of research I have conducted studies, made extensive notes, created design concepts and prototypes, and manufactured reports and materials for workbooks. This website will host the most relevant parts of the materials produced during the investigation. It is currently a work in progress. I will be gradually moving more contents, publications, research notes and concept ideas here.
+## Academic context
+
+My main doctoral supervisor was Dr Nick Spencer (Northumbria University). My supervisory team was also composed of Professor Mel Woods (University of Dundee), Dr Nick Taylor (Newcastle University) and Solana Larsen (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. My Annual Progressions were examined by Dr Angelika Strohmayer (Northumbria University). My Viva Voce examiners were Professor Joyce Yee (Northumbria University) and Gordon Hush (Glasgow School of Art).
 
 ## Reuse Commons
 
