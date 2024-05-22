@@ -2,11 +2,13 @@
 title: Workbooks
 description: 
 published: true
-date: 2024-05-15T13:50:07.808Z
+date: 2024-05-22T23:09:51.999Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T22:50:59.883Z
 ---
+
+# Workbooks
 
 As a way to document ongoing processes, OpenDoTT planned to publish workbooks themed on elements of its research structure. My sections in these workbooks are available in the PDFs below:
 
