@@ -2,10 +2,10 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-15T16:16:38.170Z
+date: 2024-05-22T23:11:19.744Z
 tags: 
 editor: markdown
-dateCreated: 2023-07-12T22:50:56.606Z
+dateCreated: 2024-05-17T19:58:53.709Z
 ---
 
 # Reports
@@ -21,8 +21,8 @@ As a cooperation programme between Northumbria University and a consortium of or
 
 ## Datasets
 
-- [Smart Cities](../datasets/#esr4-smart-cities)
-- [Deployment Dataset](../datasets/#deployment-datasets)
+- [Smart Cities](../opendott/datasets/#esr4-smart-cities)
+- [Deployment Dataset](../opendott/datasets/#deployment-datasets)
 
 ## Research Progress
 
