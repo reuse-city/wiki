@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-22T23:11:19.744Z
+date: 2024-05-22T23:12:50.153Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-17T19:58:53.709Z
@@ -35,7 +35,7 @@ As a cooperation programme between Northumbria University and a consortium of or
 
 ## Concepts and Prototypes
 
-- [Design Concepts](reports/2020-Concepts-1.pdf) (also [online](https://is.efeefe.me/opendott/concepts)) (2020).
+- [Design Concepts](reports/2020-Concepts-1.pdf) (also tentative [online version](https://is.efeefe.me/opendott/concepts)) (2020) and updated [here](/opendott/concepts). 
 - [Prototypes](reports/2021-Prototypes.pdf) (PDF, 2021).
 - [Technology Demonstrators](https://github.com/opendott-smartcities/II/tree/main/D10_technology-demonstrators) (git repository, 2021).
 - [Deployment Datasets](https://github.com/opendott-smartcities/II/tree/main/D13_deployment-datasets) (git repository, 2021).
