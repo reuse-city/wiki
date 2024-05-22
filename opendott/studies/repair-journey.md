@@ -2,7 +2,7 @@
 title: Repair Journey
 description: 
 published: true
-date: 2024-05-22T23:02:50.503Z
+date: 2024-05-22T23:03:26.321Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:59:20.197Z
@@ -24,7 +24,7 @@ By the end of the period of exploration, the participants met for a closing work
 
 #### Broken Probes
 
-The Repair Journey was inspired by [design research studies](../design-research) using probes: objects that invite participants to interact materially with them by completing, adding information or interventions, wearing or changing them. In February 2020 we (the OpenDoTT fellows) had a workshop with Jayne Wallace and Justin Marshall at Northumbria University to explore possibilities to use probes for our research. My interest in understanding the way citizens interacted with materials that were somehow inappropriate - broken, ill-fitted, obsolete or otherwise - led me to design what I originally named "broken probes". Here's a description I used to submit it to a conference (my proposal was approved, but the conference was unfortunately postponed until 2021):
+The Repair Journey was inspired by [design research studies](/opendott/studies) using probes: objects that invite participants to interact materially with them by completing, adding information or interventions, wearing or changing them. In February 2020 we (the OpenDoTT fellows) had a workshop with Jayne Wallace and Justin Marshall at Northumbria University to explore possibilities to use probes for our research. My interest in understanding the way citizens interacted with materials that were somehow inappropriate - broken, ill-fitted, obsolete or otherwise - led me to design what I originally named "broken probes". Here's a description I used to submit it to a conference (my proposal was approved, but the conference was unfortunately postponed until 2021):
 
 > Design Probes are often used in Design Research as means to provide open-ended interaction with a number of people, all the while keeping focus on a particular theme or issue. Probes are objects intentionally kept incomplete, so that the people targeted in the exercise can bring their own contributions to the fore. Examples of probes used in design research are cameras, portable diaries and other artifices that are given to the research subject for a period of time, and with/through which they are asked to interact.
 > This presentation will share the results of an experiment done as part of a PhD research on waste management within the context of smart city projects. In the experiment, people from different backgrounds will receive objects that are either broken, obsolete or unwanted for any other reason, and be asked to go around in the city trying to make such objects usable or/and valuable. The process of trying to make sense of those, so to say, inadequate objects in the city will inform a mapping of the ecosystem around waste, reuse and discard in the city of Dundee.
