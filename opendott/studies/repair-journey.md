@@ -2,7 +2,7 @@
 title: Repair Journey
 description: 
 published: true
-date: 2024-05-22T23:06:18.853Z
+date: 2024-05-22T23:08:02.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:59:20.197Z
@@ -29,7 +29,7 @@ The Repair Journey was inspired by [design research studies](/opendott/studies) 
 > Design Probes are often used in Design Research as means to provide open-ended interaction with a number of people, all the while keeping focus on a particular theme or issue. Probes are objects intentionally kept incomplete, so that the people targeted in the exercise can bring their own contributions to the fore. Examples of probes used in design research are cameras, portable diaries and other artifices that are given to the research subject for a period of time, and with/through which they are asked to interact.
 > This presentation will share the results of an experiment done as part of a PhD research on waste management within the context of smart city projects. In the experiment, people from different backgrounds will receive objects that are either broken, obsolete or unwanted for any other reason, and be asked to go around in the city trying to make such objects usable or/and valuable. The process of trying to make sense of those, so to say, inadequate objects in the city will inform a mapping of the ecosystem around waste, reuse and discard in the city of Dundee.
 
-As the UK was hit by the impacts of COVID-19 and lockdown measures were imposed, I had to refactor the study (and decided to rename it for clarity). Instead of having a public event in Dundee to present it and physically hand broken objects to participants, I ended up recruiting people that would [conduct their own repair journeys](../repair-journey-preparation) and keep a repair diary along the way. The geographic reach was expanded to allow participants from the whole of the UK to sign up. I wish I could have involved participants from abroad as well, but that would entail a whole new submission to the University's ethics committee, which would take months to complete and disrupt the project's schedule.
+As the UK was hit by the impacts of COVID-19 and lockdown measures were imposed, I had to refactor the study (and decided to rename it for clarity). Instead of having a public event in Dundee to present it and physically hand broken objects to participants, I ended up recruiting people that would [conduct their own repair journeys](https://is.efeefe.me/opendott/repair-journey-preparation) and keep a repair diary along the way. The geographic reach was expanded to allow participants from the whole of the UK to sign up. I wish I could have involved participants from abroad as well, but that would entail a whole new submission to the University's ethics committee, which would take months to complete and disrupt the project's schedule.
 
 ### Participation
 
@@ -37,7 +37,7 @@ I have recruited participants over social media - my own and the project's - as 
 
 ### Cues
 
-During the weeks of the study, I would send emails to all participants nudging them to pay attention to one or other aspect of repairing and reusing things. I was interweaving those cues with the [diary I was myself creating](../repair-journey-a-personal-diary) during those weeks - about a bicycle I had gotten for free after moving to Dundee. Here are some excerpts from those emails.
+During the weeks of the study, I would send emails to all participants nudging them to pay attention to one or other aspect of repairing and reusing things. I was interweaving those cues with the [diary I was myself creating](https://is.efeefe.me/opendott/repair-journey-a-personal-diary) during those weeks - about a bicycle I had gotten for free after moving to Dundee. Here are some excerpts from those emails.
 
 > Today I want to ask you to pay attention to one characteristic of what we're trying to accomplish here. The idea is to bring in particular stories related to broken objects, thinking of them as individual entities. Some years ago whilst spending some weeks as a resident designer working on reuse and circular economy in France, I attended a series of community repair events organised by a local nonprofit. Everyone was invited to bring things to be repaired, and a mixed group of volunteers and interns was there to help. Then I noticed that almost every object was brought with a story. "I've got this sewing machine from my mother", or "I found this vase just outside my place".
 > It would be great to incorporate a similar take in your diaries. You can frame this intention, for instance, by exploring the story of the object itself. Do you have any idea where it was designed or created, and where it was manufactured and distributed? How did it end up in your hands? In the case of an object previously owned by someone else, what brought it to you? Alternatively, you may want to tell more about the motivation you had to acquire this object in the first place. Or why you have decided to choose it for the Repair Journey. Are you trying to save it from a premature death? Did anything remarkable happen to it to cause its current state? Tell me more about it or, better yet, make it visible in your diary.
