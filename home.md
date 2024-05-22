@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-05-22T22:29:18.339Z
+date: 2024-05-22T22:46:08.048Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -18,9 +18,9 @@ During the four years of research I have conducted [studies](/opendott/studies),
 
 OpenDoTT ("Open Design of Trusted Things") was "a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things". The project received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508. The doctoral training started in 2019 at the University of Dundee and later the project moved to Northumbria University in Newcastle-upon-Tyne. The leading industrial partner was the Mozilla Foundation, together with a group of other organisations that composed the OpenDoTT consortium.
 
-### Academic context
+### Institutional context
 
-My main doctoral supervisor was Dr Nick Spencer (Northumbria University). My supervisory team was also composed of Professor Mel Woods (University of Dundee), Dr Nick Taylor (Newcastle University) and Solana Larsen (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. My Annual Progressions were examined by Dr Angelika Strohmayer (Northumbria University). My Viva Voce examiners were Professor Joyce Yee (Northumbria University) and Gordon Hush (Glasgow School of Art).
+My main doctoral supervisor was Dr Nick Spencer (Northumbria University). My academic supervisory team was also composed of Professor Mel Woods (University of Dundee) and Dr Nick Taylor (Newcastle University). My industry supervisors during the project were Solana Larsen and Brandi Geurkink (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. Michelle Thorne coordinated OpenDoTT at the Mozilla Foundation. My Annual Progressions were examined by Dr Angelika Strohmayer (Northumbria University). My Viva Voce examiners were Professor Joyce Yee (Northumbria University) and Professor Gordon Hush (Glasgow School of Art).
 
 ### Highlight: Reuse Commons
 
