@@ -2,7 +2,7 @@
 title: Repair Journey
 description: 
 published: true
-date: 2024-05-22T23:03:26.321Z
+date: 2024-05-22T23:06:18.853Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:59:20.197Z
@@ -106,17 +106,19 @@ Below is a set of questions I was left with after analysing the diaries, worksho
 
 ### See also:
 
-* [Repair Journey - preparation](../repair-journey-preparation).
-* [Repair Journey - a personal diary](../repair-journey-a-personal-diary).
-* [Ecosystem Mapping](../ecosystem-mapping), the other research study I have conducted in the first semester of 2020.
-* [Concept Ideas](../../concepts) based on both studies.
+* [Repair Journey - preparation](https://is.efeefe.me/opendott/repair-journey-preparation).
+* [Repair Journey - a personal diary](https://is.efeefe.me/opendott/repair-journey-a-personal-diary).
+* [Ecosystem Mapping](/opendott/studies/ecosystem-mapping), the other research study I have conducted in the first semester of 2020.
+* [Concept Ideas](/opendott/concepts) based on both studies.
 
 <a id="todo"></a>
 
-### To do
+<!--
 
 Still to add to this post:
 
 * interview excerpts
 * methodology: more about diary studies
 * expand on notes from participation (value, joy of repair, private /community...)
+
+-->
