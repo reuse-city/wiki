@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-05-22T22:23:13.308Z
+date: 2024-05-22T22:29:18.339Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -14,15 +14,17 @@ The core argument of my research is that we need to reimagine and reshape how ci
 
 During the four years of research I have conducted [studies](/opendott/studies), made extensive notes, created [design concepts](/opendott/concepts) and [prototypes](/opendott/prototypes), and manufactured [reports](/opendott/reports) and materials for [workbooks](/opendott/workbooks). This website hosts the most relevant parts of the [materials produced during the investigation](/opendott). It is currently a work in progress. I will be gradually moving more contents, publications, research notes and concept ideas here.
 
-## Academic context
+## OpenDoTT
+
+OpenDoTT ("Open Design of Trusted Things") was "a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things". The project received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508. The doctoral training started in 2019 at the University of Dundee and later the project moved to Northumbria University in Newcastle-upon-Tyne. The leading industrial partner was the Mozilla Foundation, together with a group of other organisations that composed the OpenDoTT consortium.
+
+### Academic context
 
 My main doctoral supervisor was Dr Nick Spencer (Northumbria University). My supervisory team was also composed of Professor Mel Woods (University of Dundee), Dr Nick Taylor (Newcastle University) and Solana Larsen (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. My Annual Progressions were examined by Dr Angelika Strohmayer (Northumbria University). My Viva Voce examiners were Professor Joyce Yee (Northumbria University) and Gordon Hush (Glasgow School of Art).
 
-## Highlight: Reuse Commons
+### Highlight: Reuse Commons
 
 The video below is an online presentation of my paper [Reuse Commons - a toolkit to weave generous cities](https://zenodo.org/record/7432153) for the 2022 edition of [Fab City Summit](https://bali.fabevent.org/). It summarises my research up to that point, as well as providing context on how it was developed.
-
-See also other [research outputs](/opendott/outputs).
 
 &nbsp;
 
@@ -35,9 +37,14 @@ See also other [research outputs](/opendott/outputs).
 
 The presentation can also be watched from the [Internet Archive](https://archive.org/details/reuse-commons_fab-city) or [Youtube](https://www.youtube.com/watch?v=9FffmnQeZCU&feature=youtu.be).
 
-## OpenDoTT
+See also other [research outputs](/opendott/outputs).
 
-OpenDoTT ("Open Design of Trusted Things") was "a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things". The project received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508. The doctoral training started in 2019 at the University of Dundee and later the project moved to Northumbria University in Newcastle-upon-Tyne. The leading industrial partner was the Mozilla Foundation, together with a group of other organisations that composed the OpenDoTT consortium.
+### Highlight: Research Datasets
+
+After confirming my degree, I presented my research at one of [Circular Berlin](https://circular.berlin/)'s "Learning Circles". The presentation is available here: [slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) (google drive) / [video](https://www.youtube.com/watch?v=tUn0bJl5wAE&feature=youtu.be) (youtube).
+
+See also more actions of [public engagement and outreach](/opendott/public).
+
 
 ---
 
