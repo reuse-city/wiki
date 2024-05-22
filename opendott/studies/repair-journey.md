@@ -2,7 +2,7 @@
 title: Repair Journey
 description: 
 published: true
-date: 2024-05-16T12:49:30.176Z
+date: 2024-05-22T23:02:24.832Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-16T10:59:20.197Z
@@ -12,7 +12,7 @@ dateCreated: 2024-05-16T10:59:20.197Z
 
 *(part of my research [studies](/opendott/studies)).*
 
-In the [Repair Journey](https://opendott.org/repair-diaries/), I have asked a group of participants to choose an object they would like to repair or repurpose, and spend some weeks keeping a diary of how the repair (or attempt to repair) went.
+In the [Repair Journey](https://opendott.org/repair-diaries/), I have recruited a group of participants and asked to to choose an object they would like to repair or repurpose, and spend some weeks keeping a diary of how the repair (or attempt to repair) went.
 
 ### Design of the research study
 
