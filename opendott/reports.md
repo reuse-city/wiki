@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-05-22T23:12:50.153Z
+date: 2024-05-22T23:13:50.870Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-17T19:58:53.709Z
@@ -30,8 +30,8 @@ As a cooperation programme between Northumbria University and a consortium of or
 - [Annual-Progression 1](/opendott/northumbria/AP1/Annual-Progression-1) (2020-2021).
 - [Annual Progression 2](/opendott/northumbria/AP2/Annual-Progression-2) (2021-2022).
 - [Policy Implications Report](reports/2022-Policy-Implications.pdf) (2022).
-- Mock Viva (2023).
-- Viva (2023).
+- [Mock Viva](/opendott/mock-viva) (2023).
+- [Viva](/opendott-viva) (2023).
 
 ## Concepts and Prototypes
 
