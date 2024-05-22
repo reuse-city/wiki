@@ -2,7 +2,7 @@
 title: OpenDoTT
 description: Open Design of Trusted Things - EU funded joint research project (Northumbria University + Mozilla Foundation)
 published: true
-date: 2024-05-15T13:57:25.311Z
+date: 2024-05-22T22:11:55.520Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:26.082Z
@@ -10,13 +10,13 @@ dateCreated: 2021-11-23T18:52:26.082Z
 
 Between July 2019 and June 2022, I was a Marie Curie Early Stage Research fellow and PhD Candidate at [OpenDoTT](#opendott). The project was at first situated at the Duncan of Jordanstone College of Art and Design (University of Dundee), and from June 2020 on at the School of Arts, Design and Social Sciences of Northumbria University in Newcastle upon Tyne.
 
-The research topic assigned to me in the project was "smart cities", under the following description:
+The research topic assigned to me in the project was "smart cities", described as follows in the call for candidates:
 
 > Technology is fundamentally changing how cities work, but these smart cities are most often determined in a top-down fashion, with little transparency or accountability in how data influences the workings of the city. Can we create cities that are not just smarter, but kinder, fairer and more citizen-centred?
 
-Upon early exploration and reflection about my potential contribution to scholarship, the research focus I adopted was waste prevention through community-based practices of reuse. The final title of my thesis was *"Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts"*. It was successfully defended in 2023.
+Over the years of research, the focus I adopted was, to put it briefly, waste prevention through community-based practices of reuse. The final title of my investigation was *"Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts"*. My thesis was successfully defended in September 2023.
 
-More information about my investigation can be found in the following pages of this wiki:
+More information about my investigation can be found in the following sections of this wiki:
 
 - [Research Studies](/opendott/studies).
 - [Design Concepts](/opendott/concepts).
@@ -26,7 +26,7 @@ More information about my investigation can be found in the following pages of t
 - Project [Reports](/opendott/reports/).
 - Public [Workbooks](/opendott/workbooks).
 
-See also the [research blog](https://is.efeefe.me/opendott) I maintained during the project, and my (still ongoing) [links repository](https://links.efeefe.me/?searchtags=opendott).
+See also the [research blog](https://is.efeefe.me/opendott) I maintained during the project, and my (still growing) [links collection](https://links.efeefe.me/?searchtags=opendott).
 
 ## OpenDoTT
 
