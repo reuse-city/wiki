@@ -8,22 +8,20 @@ editor: markdown
 dateCreated: 2023-07-07T10:10:34.988Z
 ---
 
-# Structure
+# Structure of [this wiki](home)
 
 - [OpenDott](/opendott)
-	- [Outputs]
-  - [Reports]
-  - [Studies]
-  - [Workbooks]
-  - [Thesis] <!-- add more subsections here, perhaps>
-   - [Research Questions]
-   - [Literature]
-   - [Methodology]
-   - [Discussion]
-   - [Ethics]
+	- [Outputs](/opendott/outputs)
+  - [Reports](/opendott/reports)
+  - [Studies](/opendott/studies)
+  - [Workbooks](/opendott/workbooks)
+  - [Thesis](/opendott/thesis.md)
+   - [Research Questions](/opendott/thesis/research-questions)
+   - [Literature](/opendott/thesis/literature)
+   - [Methodology](/opendott/thesis/methodology)
+<!--   - [Discussion](/opendott/thesis/discussion) -->
+   - [Ethics](/opendott/thesis/ethics)
   - [Design Concepts](/opendott/concepts)
-  - [Prototypes]
-  - [Datasets]
+  - [Prototypes](/opendott/prototypes)
+  - [Datasets](/opendott/datasets)
   - [Public Engagement and Outreach](/opendott/public)
-
-**Thesis outline**
