@@ -1,11 +1,11 @@
 ---
 title: Ethics
-description: Ethics of my PhD Research.
+description: Ethics approval of my PhD research studies.
 published: true
-date: 2021-06-21T09:39:20.786Z
+date: 2024-05-24T13:00:18.439Z
 tags: 
 editor: markdown
-dateCreated: 2021-06-21T09:39:20.786Z
+dateCreated: 2021-11-23T18:52:29.326Z
 ---
 
 # Studies
