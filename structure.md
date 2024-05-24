@@ -29,3 +29,19 @@ dateCreated: 2023-07-07T10:10:34.988Z
     - [Ethics](/opendott/thesis/ethics)
   - [Datasets](/opendott/datasets)
   - [Public Engagement and Outreach](/opendott/public)
+
+# TODO
+
+ - Remove page timeline
+ - [ ] check pages on folder opendott (depth 1)
+ - [ ] add contents to page thesis and subpages
+ - [ ] update and post summary text
+ - [ ]check subfolders: 
+   - [ ]dissemination 
+   - [ ]events 
+   - [ ]literature 
+   - [ ]methodology 
+   - [ ]northumbria (move APs somewhere else? thesis maybe)
+   - [ ]prototypes
+   - [ ]reports
+   - [ ]studies
