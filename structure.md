@@ -2,7 +2,7 @@
 title: Structure
 description: Structure of this website
 published: true
-date: 2024-05-24T12:58:13.747Z
+date: 2024-05-24T12:58:53.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-07T10:10:34.988Z
@@ -21,7 +21,7 @@ dateCreated: 2023-07-07T10:10:34.988Z
     - [On Generosity](/opendott/studies/on-generosity)
   - [Design Concepts](/opendott/concepts)
   - [Prototypes](/opendott/prototypes)
- - [Workbooks](/opendott/workbooks)
+  - [Workbooks](/opendott/workbooks)
   - [Thesis](/opendott/thesis)
     - [Research Questions](/opendott/thesis/research-questions)
     - [Literature](/opendott/thesis/literature)
