@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-05-22T23:08:48.395Z
+date: 2024-05-24T12:51:12.943Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -37,7 +37,7 @@ See also other [research outputs](/opendott/outputs).
 
 Shortly after obtaining my degree, I presented my research at a "Learning Circles" organised by [Circular Berlin](https://circular.berlin/). The presentation is focused in some of the concepts, and is available here: [slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) (google drive) / [video](https://www.youtube.com/watch?v=tUn0bJl5wAE&feature=youtu.be) (youtube).
 
-![Learning Circle](/opendott/images/learning-circle.png?lightbox=1000)
+![Learning Circle](/opendott/images/learning-circle.png?lightbox=800)
 
 See also more actions of [public engagement and outreach](/opendott/public).
 
