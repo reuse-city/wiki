@@ -2,7 +2,7 @@
 title: Structure
 description: Structure of this website
 published: true
-date: 2023-07-07T10:10:34.988Z
+date: 2024-05-24T12:53:29.463Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-07T10:10:34.988Z
@@ -14,11 +14,11 @@ dateCreated: 2023-07-07T10:10:34.988Z
 	- [Outputs](/opendott/outputs)
   - [Reports](/opendott/reports)
   - [Studies](/opendott/studies)
-   - [Design Research](/opendott/studies/design-research)
+    - [Design Research](/opendott/studies/design-research)
       - [Ecosystem Mapping](/opendott/studies/ecosystem-mapping)
       - [Repair Journey](/opendott/studies/repair-journey)
-   - [reuse.city](/opendott/studies/reuse-city)
-   - [On Generosity](/opendott/studies/on-generosity)
+    - [reuse.city](/opendott/studies/reuse-city)
+    - [On Generosity](/opendott/studies/on-generosity)
   - [Workbooks](/opendott/workbooks)
   - [Thesis](/opendott/thesis)
    - [Research Questions](/opendott/thesis/research-questions)
