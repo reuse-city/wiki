@@ -2,13 +2,13 @@
 title: Structure
 description: Structure of this website
 published: true
-date: 2024-05-24T12:53:29.463Z
+date: 2024-05-24T12:57:08.053Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-07T10:10:34.988Z
 ---
 
-# Structure of [this wiki](home)
+# Structure of [this wiki](/home)
 
 - [OpenDott](/opendott)
 	- [Outputs](/opendott/outputs)
