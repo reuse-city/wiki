@@ -17,4 +17,4 @@ My research was developed through critical reflection of literature and context,
   - [Ecosystem Mapping](/opendott/studies/ecosystem-mapping);
 - An international online co-design lab called [reuse.city](/opendott/studies/reuse-city).
 
-During the final stretch of research, I have not conducted any research study with participants, but engaged in activities of auto-ethnography, participant observation and critical experimentation.
+During the final stretch of research, I have not conducted any new research study with participants. I have however engaged with the fields related to my research, the outputs of my previous studies and my life experience prior to the PhD inspired by auto-ethnography and reflective practice. Loose notes and other materials about that stage can be found in the page [on generosity](/opendott/studies/on-generosity).

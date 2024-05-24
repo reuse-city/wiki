@@ -8,19 +8,13 @@ editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
 ---
 
-Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me). This wiki hosts the open documentation of my PhD research, which was part of the [OpenDoTT](#opendott) project (Northumbria University / University of Dundee / Mozilla Foundation). The title of my thesis is **Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts**. I have submitted on 30/06/2023 and successfully [defended it on 21/09/2023](https://is.efeefe.me/opendott/phd-success). A final version was submitted in March 2024 and my degree was confirmed in April 2024.
+Hi. I am [Felipe Schmidt Fonseca](https://is.efeefe.me). This wiki hosts the open documentation of my PhD research that was part of the [OpenDoTT](#opendott) project (Northumbria University / University of Dundee / Mozilla Foundation). The title of my [thesis](/opendott/thesis) is **Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts**. It was submitted for examination on 30/06/2023 and successfully [defended on 21/09/2023](https://is.efeefe.me/opendott/phd-success). A final version was submitted in March 2024 and my doctoral degree was confirmed in April of the same year.
 
 The core argument of my research is that we need to reimagine and reshape how cities handle excess materials - understood here as the objects and materials prematurely discarded or kept unused for various reasons. Instead of focusing on increasing the efficienty of industrial recycling, my take is to prioritise conviviality through community-based practices of reuse. Such initiatives are crucial not only to identify and act upon the potential economic value of goods and materials immediately present in virtually every locality, but also to promote social cohesion, inclusion and regeneration while helping mitigate the effects of climate change.
 
-During the four years of research I have conducted [studies](/opendott/studies), made extensive notes, created [design concepts](/opendott/concepts) and [prototypes](/opendott/prototypes), and manufactured [reports](/opendott/reports) and materials for [workbooks](/opendott/workbooks). This website hosts the most relevant parts of the [materials produced during the investigation](/opendott). It is currently a work in progress. I will be gradually moving more contents, publications, research notes and concept ideas here.
+During the four years of research I have conducted [studies](/opendott/studies), made extensive notes, created [design concepts](/opendott/concepts) and [prototypes](/opendott/prototypes), and produced [reports](/opendott/reports) and content for [workbooks](/opendott/workbooks).
 
-## OpenDoTT
-
-OpenDoTT ("Open Design of Trusted Things") was "a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things". The project received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508. The doctoral training started in 2019 at the University of Dundee and later the project moved to Northumbria University in Newcastle-upon-Tyne. The leading industrial partner was the Mozilla Foundation, together with a group of other organisations that composed the OpenDoTT consortium.
-
-### Institutional context
-
-My main doctoral supervisor was Dr Nick Spencer (Northumbria University). My academic supervisory team was also composed of Professor Mel Woods (University of Dundee) and Dr Nick Taylor (Newcastle University). My industry supervisors during the project were Solana Larsen and Brandi Geurkink (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. Michelle Thorne coordinated OpenDoTT at the Mozilla Foundation. My Annual Progressions were examined by Dr Angelika Strohmayer (Northumbria University). My Viva Voce examiners were Professor Joyce Yee (Northumbria University) and Professor Gordon Hush (Glasgow School of Art).
+This website is a work in progress destined to host the most relevant materials generated during the investigation. An overview of its contents can be seen [here](structure).
 
 ### Highlight: Reuse Commons
 
@@ -41,15 +35,24 @@ See also other [research outputs](/opendott/outputs).
 
 ### Highlight: Research Datasets
 
-Shortly after confirming my degree, I presented my research at a "Learning Circles" organised by [Circular Berlin](https://circular.berlin/). The presentation is available here: [slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) (google drive) / [video](https://www.youtube.com/watch?v=tUn0bJl5wAE&feature=youtu.be) (youtube).
+Shortly after obtaining my degree, I presented my research at a "Learning Circles" organised by [Circular Berlin](https://circular.berlin/). The presentation is focused in some of the concepts, and is available here: [slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) (google drive) / [video](https://www.youtube.com/watch?v=tUn0bJl5wAE&feature=youtu.be) (youtube).
 
 ![Learning Circle](/opendott/images/learning-circle.png?lightbox=1000)
 
 See also more actions of [public engagement and outreach](/opendott/public).
 
+## OpenDoTT
+
+OpenDoTT ("Open Design of Trusted Things") was "a PhD programme to explore how to build a more open, secure, and trustworthy Internet of Things". The project received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 813508. The doctoral training started in 2019 at the University of Dundee and later the project moved to Northumbria University in Newcastle-upon-Tyne. The leading industrial partner was the Mozilla Foundation, together with a group of other organisations that composed the OpenDoTT consortium.
+
+### Institutional context
+
+My main doctoral supervisor was Dr Nick Spencer (Northumbria University). My academic supervisory team was also composed of Professor Mel Woods (University of Dundee) and Dr Nick Taylor (Newcastle University). My industry supervisors during the project were Solana Larsen and Brandi Geurkink (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. Michelle Thorne coordinated OpenDoTT at the Mozilla Foundation. My Annual Progressions were examined by Dr Angelika Strohmayer (Northumbria University). My Viva Voce examiners were Professor Joyce Yee (Northumbria University) and Professor Gordon Hush (Glasgow School of Art).
 
 ---
 
 ## This website
+
+An overview of the structure of this wiki is available [here](structure).
 
 The website was built using [wiki.js](https://js.wiki/). I am experimenting with its ability to sync to a git repository ([this one](https://github.com/reuse-city/wiki/), to be specific). At the present moment, this feature is not completely stable - I had to downgrade wiki.js in order to import a previous backup. I hope the developers improve it in the near future. This is important as a way to future-proof the contents of this website - as markdown files stored under a folder structure that is as software-agnostic as possible without losing its human readability. I also expect future versions of wiki.js to enable other forms of backing up contents permanently.
