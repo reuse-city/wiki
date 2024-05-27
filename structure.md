@@ -44,4 +44,12 @@ dateCreated: 2023-07-07T10:10:34.988Z
    - [ ]northumbria (move APs somewhere else? thesis maybe)
    - [ ]prototypes
    - [ ]reports
+   - [ ] página subvercity (onde?)
    - [ ]studies
+
+
+# Notes
+
+- Noved contents of folder living knowledge from dissemination to video. Removed the former folders.
+- Removed other folders that used to be blog posts under dissemination.
+- Renamed folder events to slides.

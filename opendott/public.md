@@ -39,6 +39,12 @@ Keynote for the *2022 CRDM Symposium Infrastructures and/as Anticolonialism*.
 
 - Recording available on [Google Drive](https://drive.google.com/file/d/1_EJDTp5uxhQ9L1h_e9mG3HWmyBjL7nYq/view).
 
+### reuse.city - Subvercity (2021)
+
+Participation in workshop **Subversive City Manual**  during [Media Architecture Biennale](https://mab20.mediaarchitecture.org/) (2020).
+
+- Abstract [here](/opendott/subvercity).
+- Slides available [here](/opendott/slides/Subvercity-Slides.pdf).
 
 ### reuse.city (2021)
 
@@ -50,21 +56,23 @@ Presentation and discussion (in Portuguese) hosted by Lab404 (UFBA) in May 2021.
 
 > Encontros do Lab404 com Felipe Fonseca, que busca entender as cidades como entidades generosas, que podem promover em suas comunidades os consertos, o upcycling e a recirculação de objetos e materiais para gerar benefícios sociais, econômicos e ambientais.
 
-### Mozfest 2021
+### Universal Registry of Things - Mozfest 2021
 
-- [Mozfest 2021](https://is.efeefe.me/opendott/mozfest-2021).
+Workshop *Universal Registry of Things - promoting the reuse of materials and objects in smart cities* during the 2021 edition of Mozfest. 
 
-### Hacking waste management for the smart city
+- [Blog post](https://is.efeefe.me/opendott/mozfest-2021) in preparation for the session.
+
+### Hacking waste management for the smart city (2020)
 
 Workshop during the [Data Cities Conference](https://www.disruptionlab.org/data-cities) (Berlin).
 
 - [Blog post](https://is.efeefe.me/opendott/hacking).
 
-
 ### Reuse and Repair in Urban Environments (2020)
 
 Participation on Fixfest UK 2020.
 
+- Slides of the presentation available [here](/opendott/slides/2020-Fixfest.pdf).
 - Recording available on [YouTube](https://www.youtube.com/watch?v=cU5R2MzPGjw).
 - [Blog post](https://is.efeefe.me/opendott/fixfest-uk-2020) about the session.
 
@@ -73,8 +81,6 @@ Participation on Fixfest UK 2020.
 > The treatment of solid waste is often seen as an engineering problem whose solution is to be entirely outsourced to private corporations that will either recycle stuff (in its industrial meaning – transform them back into raw materials) or dispose of them in landfills or incinerators. However, a significant proportion of the typical municipal waste could be reused and repurposed before such final and environmentally intensive measures. 
 The purpose of this session is to discuss what sort of policies, infrastructure and governance schemes could help society reuse more of the materials it currently discards.
 Researcher Felipe Schmidt Fonseca starts with his experiences in Brazil in computer reuse, but takes us on a critical journey through concepts of the "smart city" and "internet of things". 
-
-[Slides](https://drive.google.com/file/d/1DD_I0OzlbNl64cSX-9f9MZFG3wGswO0Y/view?usp=drive_link).
 
 ### The wheres and whens of networks
 
