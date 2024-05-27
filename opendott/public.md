@@ -46,22 +46,27 @@ Presentation and discussion (in Portuguese) hosted by Lab404 (UFBA) in May 2021.
 
 - Recording available on [YouTube](https://www.youtube.com/watch?v=s8vjxRc47NI).
 
-[plugin:youtube](https://www.youtube.com/watch?v=s8vjxRc47NI)
-
 **Description in Portuguese**:
 
->Encontros do Lab404 com Felipe Fonseca, que busca entender as cidades como entidades generosas, que podem promover em suas comunidades os consertos, o upcycling e a recirculação de objetos e materiais para gerar benefícios sociais, econômicos e ambientais.
+> Encontros do Lab404 com Felipe Fonseca, que busca entender as cidades como entidades generosas, que podem promover em suas comunidades os consertos, o upcycling e a recirculação de objetos e materiais para gerar benefícios sociais, econômicos e ambientais.
 
 ### Mozfest 2021
 
-- [Mozfest 2021](https://is.efeefe.me/opendott/mozfest-2021) 
+- [Mozfest 2021](https://is.efeefe.me/opendott/mozfest-2021).
+
+### Hacking waste management for the smart city
+
+Workshop during the [Data Cities Conference](https://www.disruptionlab.org/data-cities) (Berlin).
+
+- [Blog post](https://is.efeefe.me/opendott/hacking).
 
 
 ### Reuse and Repair in Urban Environments (2020)
 
 Participation on Fixfest UK 2020.
 
-- Recording available on [YouTube](https://www.youtube.com/watch?v=cU5R2MzPGjw)
+- Recording available on [YouTube](https://www.youtube.com/watch?v=cU5R2MzPGjw).
+- [Blog post](https://is.efeefe.me/opendott/fixfest-uk-2020) about the session.
 
 **Description:**
 
