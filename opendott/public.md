@@ -43,7 +43,7 @@ Keynote for the *2022 CRDM Symposium Infrastructures and/as Anticolonialism*.
 
 Participation in workshop **Subversive City Manual**  during [Media Architecture Biennale](https://mab20.mediaarchitecture.org/) (2020).
 
-- Abstract [here](/opendott/subvercity).
+- Abstract [here](/opendott/slides/Subvercity-Waste-Smart-Cities.pdf.
 - Slides available [here](/opendott/slides/Subvercity-Slides.pdf).
 
 ### reuse.city (2021)

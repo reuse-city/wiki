@@ -37,8 +37,8 @@ dateCreated: 2023-07-07T10:10:34.988Z
  - [ ] add contents to page thesis and subpages
  - [ ] update and post summary text
  - [ ]check subfolders: 
-   - [ ]dissemination 
-   - [ ]events 
+   - [x]dissemination 
+   - [x]events 
    - [ ]literature 
    - [ ]methodology 
    - [ ]northumbria (move APs somewhere else? thesis maybe)
@@ -53,3 +53,14 @@ dateCreated: 2023-07-07T10:10:34.988Z
 - Noved contents of folder living knowledge from dissemination to video. Removed the former folders.
 - Removed other folders that used to be blog posts under dissemination.
 - Renamed folder events to slides.
+
+# Leftovers
+
+
+### Ethnography
+
+ - ["Interview with Things": A First-thing Perspective to Understand the Scooter's Everyday Socio-material Network in Taiwan](https://dl.acm.org/doi/10.1145/3064663.3064717)
+ - [Everything is Alive](https://www.everythingisalive.com/)
+ - [Thing-centered narratives: A study of object personas](https://www.researchgate.net/publication/305781838_Thing-centered_narratives_A_study_of_object_personas)
+ - [Consumer Fetish: Commercial Ethnography and the Sovereign Consumer](https://journals.sagepub.com/doi/10.1177/0170840615580012)
+ 
