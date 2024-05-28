@@ -11,7 +11,7 @@ dateCreated: 2023-07-07T10:10:34.988Z
 # Structure of [this wiki](/home)
 
 - [OpenDott](/opendott)
-	- [Outputs](/opendott/outputs)
+	- [Research Outputs](/opendott/outputs)
   - [Reports](/opendott/reports)
   - [Studies](/opendott/studies)
     - [Design Research](/opendott/studies/design-research)
@@ -27,24 +27,26 @@ dateCreated: 2023-07-07T10:10:34.988Z
     - [Literature](/opendott/thesis/literature)
     - [Methodology](/opendott/thesis/methodology)
     - [Ethics](/opendott/thesis/ethics)
-  - [Datasets](/opendott/datasets)
   - [Public Engagement and Outreach](/opendott/public)
+  - [Datasets](/opendott/datasets)
 
 # TODO
 
  - Remove page timeline
  - [ ] check pages on folder opendott (depth 1)
- - [ ] add contents to page thesis and subpages
+ - [ ] add contents to level 2 pages under
+    - [ ] thesis
+    - [ ] prototypes
  - [ ] update and post summary text
  - [ ]check subfolders: 
    - [x]dissemination 
    - [x]events 
-   - [ ]literature 
-   - [ ]methodology 
-   - [ ]northumbria (move APs somewhere else? thesis maybe)
-   - [ ]prototypes
-   - [ ]reports
-   - [ ] página subvercity (onde?)
+   - [x] ~~literature~~ 
+   - [x] ~~methodology ~~
+   - [ ] northumbria (move APs somewhere else? thesis maybe)
+   - [x] prototypes
+   - [ ] reports
+   - [x] página subvercity (onde?)
    - [ ]studies
 
 
