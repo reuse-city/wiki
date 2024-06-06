@@ -23,3 +23,5 @@ These ideas are not meant to be radically new. Rather, the intention is contribu
 - [Reuse Dataset](concepts/reuse-dataset)
 - [Reuse Commons](concepts/reuse-commons)
 - [Reuse Bin](concepts/reuse-bin)
+
+In August 2020 I prepared a [slide deck](slides/2020-08_Concepts.pdf) summarising the concepts. They were also featured in a [section of my research blog](https://is.efeefe.me/opendott/concepts).

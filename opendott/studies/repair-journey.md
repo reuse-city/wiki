@@ -12,7 +12,13 @@ dateCreated: 2024-05-16T10:59:20.197Z
 
 *(part of my research [studies](/opendott/studies)).*
 
+
 In the [Repair Journey](https://opendott.org/repair-diaries/), I have recruited a group of participants whom I asked to choose an object they would like to repair or repurpose, and spend some weeks keeping a diary of how the repair (or attempt to repair) went.
+
+## Additional material
+
+ - Slides for the [Intro / Recruitment event](/opendott/slides/2020_Repair-Diaries-Intro.pdf)
+ - PDF [summary of data collected in the study](/opendott/slides/2020_Repair-Journey-Data.pdf)
 
 ### Design of the research study
 

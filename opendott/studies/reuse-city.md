@@ -94,3 +94,6 @@ See [lab](/opendott/studies/reuse-city/lab) for a summarised report.
 ### Community building
 
 - Participants agreed to keep in touch after the study was finished. An e-mail list and a group in Telegram were used for that.
+
+
+<!--add video fragments>
