@@ -31,3 +31,11 @@ In any case, my experience as a foreigner looking to settle in a city I had neve
 ![Materials in the city](/opendott/images/dundee-discard.jpg)
 
 I didn't find much about waste on smart city literature, and the little I was able to find was off the mark for the kind of reflection I wanted to conduct. Those references were excessively focused on improvements to the efficiency of waste collection and recycling. By that time there was an interesting investigation by NPR on how [plastics recycling can be interpreted as an industry-led scam](https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled?t=1613119529041&t=1656239015723). Meanwhile, I walked the streets of Dundee observing the materiality of refuse, took more notes, made photos. Some of those images are collected [here](/opendott/slides/2020_street-matter.pdf) (PDF) and were instrumental when I started designing my first [research studies](/opendott/studies). I expect to return to those photos at some point to organise a publication or exhibition based on them.
+
+As waste, waste prevention, repairs and reuse of materials took a prominent spot in my research, I kept writing about the topic. As a sort of public-facing reflection. Here are some examples of blog posts I made during that initial period:
+
+- Blog Post: [Reparatur Festival](https://is.efeefe.me/opendott/reparatur-festival-2019) (2019).
+- Blog Post: [Things in the City](https://is.efeefe.me/opendott/things-in-the-city) (2019).
+- Blog Post: [Waste in my life](https://is.efeefe.me/opendott/waste-in-my-life) (2020).
+- Blog Post: [City Mattering](https://is.efeefe.me/opendott/city-mattering) (2020) (Also on [Makery](https://www.makery.info/en/2020/03/13/city-mattering/)).
+- Blog Post: [Waste, Value and Reuse](https://is.efeefe.me/opendott/waste-value-and-reuse) (2020). (Also on [Makery](https://www.makery.info/en/2020/03/17/english-smart-cities-and-the-internet-of-things-waste-value-and-reuse/)).
