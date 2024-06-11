@@ -40,8 +40,9 @@ As waste, waste prevention, repairs and reuse of materials took a prominent spot
 - Blog Post: [City Mattering](https://is.efeefe.me/opendott/city-mattering) (2020) (Also on [Makery](https://www.makery.info/en/2020/03/13/city-mattering/)).
 - Blog Post: [Waste, Value and Reuse](https://is.efeefe.me/opendott/waste-value-and-reuse) (2020). (Also on [Makery](https://www.makery.info/en/2020/03/17/english-smart-cities-and-the-internet-of-things-waste-value-and-reuse/)).
 
-## 11/06/2024 - Excess and the city
+
+<!-- ## 11/06/2024 - Excess and the city
 
 *Text in progress*
 
-![Excess in Berlin](/opendott/images/berlin-excess.png)
+![Excess in Berlin](/opendott/images/berlin-excess.png) -->
