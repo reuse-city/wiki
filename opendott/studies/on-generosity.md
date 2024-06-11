@@ -16,7 +16,7 @@ Notes and reflections about my personal journey during the PhD investigation.
 
 > Page under construction. More contents to be added soon.
 
-## 09/11/2024 - scoping my research
+## 09/06/2024 - scoping my research
 
 *Felipe Schmidt Fonseca*
 
@@ -39,3 +39,9 @@ As waste, waste prevention, repairs and reuse of materials took a prominent spot
 - Blog Post: [Waste in my life](https://is.efeefe.me/opendott/waste-in-my-life) (2020).
 - Blog Post: [City Mattering](https://is.efeefe.me/opendott/city-mattering) (2020) (Also on [Makery](https://www.makery.info/en/2020/03/13/city-mattering/)).
 - Blog Post: [Waste, Value and Reuse](https://is.efeefe.me/opendott/waste-value-and-reuse) (2020). (Also on [Makery](https://www.makery.info/en/2020/03/17/english-smart-cities-and-the-internet-of-things-waste-value-and-reuse/)).
+
+## 11/06/2024 - Excess and the city
+
+*Text in progress*
+
+![Excess in Berlin](/opendott/images/berlin-excess.png)
