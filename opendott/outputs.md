@@ -31,7 +31,7 @@ Presentation during the Living Knowledge 9 Conference.
 This presentation will share the results of an experiment done as part of a PhD research on waste avoidance and smart cities. In the experiment, participants were asked to pick an object that was either broken, obsolete or inadequate, and try to make such object usable and/or valuable by any means. For research purposes, those objects were treated as ‘broken probes’ in order to elicit discussions about value, ownership and agency in contemporary society.
 
 - Slides of the presentation available [here](/opendott/slides/2021-Repair-Journey-LK9.pdf) (PDF).
-- Video recording available [here](/opendott/video/lk9-f045.mkv).
+- Video recording available [here](https://archive.org/details/lk9-f045).
 
 
 ## Workbooks
