@@ -2,7 +2,7 @@
 title: Research Outputs
 description: 
 published: true
-date: 2024-07-24T12:03:11.990Z
+date: 2024-07-24T12:26:12.451Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T12:42:05.841Z
@@ -14,7 +14,7 @@ dateCreated: 2024-05-15T12:42:05.841Z
 
 ### An online co-design lab: reuse.city
 
-Published in: caderno de resumos [ESOCITE LA 2024](https://esocite2024.com.br/) (PDF version [here](https://nomeqqeivau0lieh.public.blob.vercel-storage.com/Resumos%20curtos_EsociteLA_2024%20v3.docx-fVQStolTlBxdtLN9t79HNzJDFW9FTR.pdf?download=1)).
+Short abstract published in: Caderno de Resumos [ESOCITE LA 2024](https://esocite2024.com.br/) (PDF version [here](https://nomeqqeivau0lieh.public.blob.vercel-storage.com/Resumos%20curtos_EsociteLA_2024%20v3.docx-fVQStolTlBxdtLN9t79HNzJDFW9FTR.pdf?download=1)).
 
 Full text available [here](/opendott/public/online-codesign-lab-reuse-city).
 
