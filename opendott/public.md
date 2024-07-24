@@ -2,7 +2,7 @@
 title: Publications, Engagement and Outreach
 description: Talks, appearances, cooperation, writing
 published: true
-date: 2024-07-24T12:33:41.891Z
+date: 2024-07-24T12:34:21.755Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:32.469Z
@@ -17,7 +17,7 @@ dateCreated: 2021-11-23T18:52:32.469Z
 Presentation at [ESOCITE LA 2024](https://www.esocite2024.com.br/) (Latin American Journey of Social Studies of Science and Technology).
 
 - Abstracts Book available [here](https://nomeqqeivau0lieh.public.blob.vercel-storage.com/Resumos%20curtos_EsociteLA_2024%20v3.docx-fVQStolTlBxdtLN9t79HNzJDFW9FTR.pdf?download=1).
-- Full text available [here](/opendott/public/online/codesign-lab-reuse-city).
+- Full text available [here](/opendott/public/online-codesign-lab-reuse-city).
 
 ### Reuse datasets for alternative circularities of products and materials
 
