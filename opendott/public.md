@@ -2,7 +2,7 @@
 title: Publications, Engagement and Outreach
 description: Talks, appearances, cooperation, writing
 published: true
-date: 2024-05-22T22:58:46.215Z
+date: 2024-07-24T12:33:41.891Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:32.469Z
@@ -10,14 +10,21 @@ dateCreated: 2021-11-23T18:52:32.469Z
 
 ## Presentations
 
+### An online co-design lab: reuse.city
+**UNICAMP**
+*Campinas, 2024*
+
+Presentation at [ESOCITE LA 2024](https://www.esocite2024.com.br/) (Latin American Journey of Social Studies of Science and Technology).
+
+- Abstracts Book available [here](https://nomeqqeivau0lieh.public.blob.vercel-storage.com/Resumos%20curtos_EsociteLA_2024%20v3.docx-fVQStolTlBxdtLN9t79HNzJDFW9FTR.pdf?download=1).
+- Full text available [here](/opendott/public/online/codesign-lab-reuse-city).
+
 ### Reuse datasets for alternative circularities of products and materials
 
 **Circular Berlin**
-
 *Berlin / Online, 2024*
 
 **Description:**
-
 Despite recent advancements in terms of legislation and industrial practices, a fully closed-loop economy is not yet feasible in the foreseeable future. In such a scenario, recycling won’t be enough to cope with the growing volume of goods being manufactured every day, in the whole world. 
 Felipe Schmidt Fonseca's PhD research (Northumbria University / Mozilla Foundation) explored convivial approaches to create socially inclusive local systems of waste prevention that help divert potentially reusable materials from the waste stream. This presentation will focus on “reuse datasets”, a design concept developed during Felipe´s investigation to help seek alternative circularities through commons-based governance of data relevant for the reuse of products and materials.
 
