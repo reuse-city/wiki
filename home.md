@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-07-29T15:19:25.992Z
+date: 2024-07-29T15:22:17.752Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -49,7 +49,7 @@ OpenDoTT ("Open Design of Trusted Things") was "a PhD programme to explore how t
 
 ### Institutional context
 
-Felipe's main doctoral supervisor was Dr Nick Spencer (Northumbria University). The academic supervisory team was also composed of Professor Mel Woods (University of Dundee) and Dr Nick Taylor (Newcastle University). The industry supervisors during the project were Solana Larsen and Brandi Geurkink (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. Michelle Thorne coordinated OpenDoTT at the Mozilla Foundation. The Annual Progression meetings were examined by Dr Angelika Strohmayer (Northumbria University). Finally, the Viva Voce examiners were Professor Joyce Yee (Northumbria University) and Professor Gordon Hush (Glasgow School of Art).
+Felipe's main doctoral supervisor was Dr Nick Spencer (Northumbria University). The academic supervisory team was also composed of Professor Mel Woods (University of Dundee) and Dr Nick Taylor (Newcastle University). The industry supervisors during the project were Solana Larsen and Brandi Geurkink (Mozilla Foundation). Professor Jon Rogers (Northumbria University) was OpenDoTT's Principal Investigator. Michelle Thorne coordinated OpenDoTT at the Mozilla Foundation. The Annual Progression meetings were examined by Dr Angelika Strohmayer (Northumbria University). The "mock" Viva Voce board was composed by Professor Justin Marshall and Professor Anne Peirson-Smith (Northumbria University). Finally, the effective Viva Voce presentation had for examiners Professor Joyce Yee (Northumbria University) and Professor Gordon Hush (Glasgow School of Art).
 
 ---
 
