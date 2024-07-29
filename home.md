@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-07-29T15:27:15.155Z
+date: 2024-07-29T15:27:42.820Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -65,4 +65,4 @@ Felipe's main doctoral supervisor was Dr Nick Spencer (Northumbria University). 
 
 An overview of the structure of this wiki is available [here](structure).
 
-The website was built using [wiki.js](https://js.wiki/). I am experimenting with its ability to sync to a git repository ([this one](https://github.com/reuse-city/wiki/), to be specific). At the present moment, this feature is not completely stable - I had to downgrade wiki.js in order to import a previous backup. I hope the developers improve it in the near future. This is important as a way to future-proof the contents of this website - as markdown files stored under a folder structure that is as software-agnostic as possible without losing its human readability. I also expect future versions of wiki.js to enable other forms of backing up contents permanently.
+Note from the author: The website was built using [wiki.js](https://js.wiki/). I am experimenting with its ability to sync to a git repository ([this one](https://github.com/reuse-city/wiki/), to be specific). At the present moment, this feature is not completely stable - I had to downgrade wiki.js in order to import a previous backup. I hope the developers improve it in the near future. This is important as a way to future-proof the contents of this website - as markdown files stored under a folder structure that is as software-agnostic as possible without losing its human readability. I also expect future versions of wiki.js to enable other forms of backing up contents permanently.
