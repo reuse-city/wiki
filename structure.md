@@ -2,7 +2,7 @@
 title: Structure
 description: Structure of this website
 published: true
-date: 2024-05-24T12:58:53.487Z
+date: 2024-07-29T15:29:03.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-07T10:10:34.988Z
@@ -10,6 +10,8 @@ dateCreated: 2023-07-07T10:10:34.988Z
 
 # Structure of [this wiki](/home)
 
+- [Design Concepts](/concepts)
+- [Projects](/projects)
 - [OpenDott](/opendott)
 	- [Research Outputs](/opendott/outputs)
   - [Reports](/opendott/reports)
@@ -19,7 +21,7 @@ dateCreated: 2023-07-07T10:10:34.988Z
       - [Repair Journey](/opendott/studies/repair-journey)
     - [reuse.city](/opendott/studies/reuse-city)
     - [On Generosity](/opendott/studies/on-generosity)
-  - [Design Concepts](/opendott/concepts)
+  - [Design Concepts](/opendott/concepts) (for the doctoral investigation)
   - [Prototypes](/opendott/prototypes)
   - [Workbooks](/opendott/workbooks)
   - [Thesis](/opendott/thesis)
