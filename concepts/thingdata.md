@@ -2,13 +2,15 @@
 title: ThingData
 description: 
 published: true
-date: 2024-07-30T10:50:11.499Z
+date: 2024-07-30T10:54:46.874Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
 ---
 
 # ThingData
+
+[Concepts](/concepts) > ThingData
 
 ## Summary
 
@@ -53,6 +55,20 @@ I have been involved with social-environmental innovation, open-source technolog
 My PhD builds on design research and participatory action research to promote a fundamental, but seldom supported, approach to waste management strategies. After finishing my thesis in March 2024, I decided to use my hands-on experience as a technologist, community organizer and activist to implement my findings.
 
 I am partnering with [GIG](https://globalinnovationgathering.org) to leverage their network of innovation hubs in 40+ countries in the global south and benefit from their expertise and partnerships. GIG members include many designers and technologists with a strong focus on open source, social innovation and environmental issues.
+
+## Research background
+
+ThingData is based on the following studies conducted during my doctoral investigation: 
+
+- [Repair Journey](/opendott/studies/repair-journey).
+- [Ecosystem Mapping](/opendott/studies/ecosystem-mapping).
+- [reuse.city](/opendott/studies/reuse-city) co-design lab.
+
+It is connected with the following concept ideas and prototypes:
+
+- [Reuse Datasets](/opendott/concepts/concepts/reuse-datasets)
+- [Universal Registry of Things](/opendott/concepts/concepts/universal-registry-things)
+- [ThingWiki](/opendott/prototypes/thingwiki)
 
 ## Benchmarks and reference projects
 
