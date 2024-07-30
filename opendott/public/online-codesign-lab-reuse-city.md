@@ -2,7 +2,7 @@
 title: An online co-design lab: reuse.city
 description: This piece describes the research study reuse.city, part of my doctoral investigation on waste prevention through community-based practices of repair, reuse and upcycling.
 published: true
-date: 2024-07-24T12:20:00.283Z
+date: 2024-07-30T10:45:08.649Z
 tags: publication, paper, abstract
 editor: markdown
 dateCreated: 2024-07-24T12:20:00.283Z
@@ -107,4 +107,4 @@ Another theme of reflection from the meetings with participants is the governanc
 
 In addition to such data infrastructure and applications, it’s interesting to address the capacity of evaluating the potential reuse of unused materials. The capacity to sustain the work of professionals exclusively dedicated to that kind of activity is highly contingent on local conditions. Not every location has enough demand, or an appropriate economic configuration to enable it. On the other hand, assessing the potential value of reusing excess materials is arguably an ordinary practice in diverse contexts, albeit often fragmented or inconsistent. That role can potentially be performed in a networked way.
 
-The questions that emerged from reuse.city were then how to organise social systems to promote convivial forms of evaluating and acting on available excess materials. Additionally, what could be the incentives in terms of regulations and legislation, and how to influence culture and the public opinion to promote reuse prior to waste management. I started addressing them in following phases of my doctoral research.
+The questions that emerged from reuse.city were then how to organise social systems to promote convivial forms of evaluating and acting on available excess materials. Additionally, what could be the incentives in terms of regulations and legislation, and how to influence culture and the public opinion to promote reuse prior to waste management. I started addressing them in following phases of my [doctoral research](/opendott).
