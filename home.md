@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-07-29T15:27:51.792Z
+date: 2024-07-30T10:46:57.172Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -13,7 +13,7 @@ This wiki hosts documentation of the projects developed by the [Reuse City](http
 The main areas of this website are:
 
 - [Design Concepts](/concepts)
-- [Projects](/projects)
+<!-- - [Projects](/projects) -->
 - [OpenDoTT](/opendott)
 
 A more detailed view of the website structure can be found [here](structure). 
