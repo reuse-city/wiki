@@ -2,7 +2,7 @@
 title: ThingData
 description: 
 published: true
-date: 2024-07-31T01:12:09.567Z
+date: 2024-07-31T01:12:47.124Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
@@ -12,7 +12,7 @@ dateCreated: 2024-07-30T10:50:11.499Z
 
 [Solutions](/solutions) > ThingData
 
-Berlin, April 2024.
+This version was created on April/2024 and updated in July/2024.
 
 ## Summary
 
