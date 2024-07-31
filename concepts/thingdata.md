@@ -2,7 +2,7 @@
 title: ThingData
 description: 
 published: true
-date: 2024-07-31T01:11:02.330Z
+date: 2024-07-31T01:11:39.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
@@ -79,14 +79,14 @@ It is connected with the following concept ideas and prototypes:
 - Right to Repair Campaign  https://repair.eu/ 
 - Reddit search on “repair” https://www.reddit.com/search/?q=repair 
 - fixfirst.io https://www.fixfirst.io/ 
-- thingiverse https://www.thingiverse.com/ 
+- Thingiverse https://www.thingiverse.com/ 
 - Persistent Things https://www.climate-kic.org/opinion/persistent-things/ 
 - Open Know-How https://www.internetofproduction.org/openknowhow 
 - Open Know-Where https://www.internetofproduction.org/openknowwhere 
 - Open Repair Data Standard https://standard.openrepair.org/ 
 - KnoWaste https://github.com/Dsposal/KnoWaste 
 - WasteNet https://recycleye.com/wastenet/ 
-- recicla.ai https://www.recicla.ai/ 
+- Recicla Aí https://www.recicla.ai/ 
 - Make Works https://make.works/ 
 - London Repairs https://londonrepairs.org/ 
 - Dsposl https://dsposal.uk/
