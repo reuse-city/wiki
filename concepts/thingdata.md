@@ -2,7 +2,7 @@
 title: ThingData
 description: 
 published: true
-date: 2024-07-30T10:54:46.874Z
+date: 2024-07-31T01:10:05.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
@@ -10,11 +10,11 @@ dateCreated: 2024-07-30T10:50:11.499Z
 
 # ThingData
 
-[Concepts](/concepts) > ThingData
+[Solutions](/solutions) > ThingData
 
 ## Summary
 
-ThingData is an open and collectively governed data solution to help achieve a longer lifetime for goods and materials. Recycling alone cannot cope with the escalating volume of waste produced every day. ThingData allies with diverse stakeholders to generate, evaluate, maintain, and publicly offer data about material products and objects and how to maintain, transform and revalue them. Relevant data are, for instance, entries on how to reuse different kinds of products through repairs, adaptations, replacements and substitutions, as well as the appropriate measures for properly recycling and disposing of them. ThingData helps boost policies and initiatives of waste prevention in line with principles of a more circular economy, right to repair and other related fields. It is open-source and collectively governed technology, providing benefits for diverse stakeholders and creating economic opportunities.
+ThingData is the design concept of an open and collectively governed database to help achieve a longer lifetime for goods and materials. Recycling alone cannot cope with the escalating volume of waste produced every day. ThingData enables alliances between diverse stakeholders to generate, evaluate, maintain, and publicly offer data about material products and objects and how to maintain, transform and revalue them. Relevant data are, for instance, entries on how to reuse different kinds of products through repairs, adaptations, replacements and substitutions, as well as the appropriate measures for properly recycling and disposing of them. ThingData helps boost policies and initiatives of waste prevention in line with principles of a more circular economy, right to repair and other related fields. It is open-source and collectively governed technology, providing benefits for diverse stakeholders and creating economic opportunities.
 
 ## Motivation
 
