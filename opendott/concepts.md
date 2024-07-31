@@ -2,7 +2,7 @@
 title: Design Concepts
 description: 
 published: true
-date: 2024-05-28T09:38:48.632Z
+date: 2024-07-31T01:36:30.875Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-12T23:01:03.486Z
@@ -16,12 +16,12 @@ These ideas are not meant to be radically new. Rather, the intention is contribu
 
 > Page under construction. Sections below to be added soon.
 
-- [Universal Registry of Things](concepts/universal-registry-things)
-- [Point and Reuse](concepts/point-reuse)
-- [Reuse this Thing](concepts/reuse-this-thing)
-- [Make Waste Visible](concepts/make-waste-visible)
-- [Reuse Dataset](concepts/reuse-dataset)
-- [Reuse Commons](concepts/reuse-commons)
-- [Reuse Bin](concepts/reuse-bin)
+- [Universal Registry of Things](universal-registry-things)
+- [Point and Reuse](point-reuse)
+- [Reuse this Thing](reuse-this-thing)
+- [Make Waste Visible](make-waste-visible)
+- [Reuse Dataset](reuse-dataset)
+- [Reuse Commons](reuse-commons)
+- [Reuse Bin](reuse-bin)
 
 In August 2020 I prepared a [slide deck](slides/2020-08_Concepts.pdf) summarising the concepts. They were also featured in a [section of my research blog](https://is.efeefe.me/opendott/concepts).
