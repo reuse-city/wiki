@@ -2,15 +2,13 @@
 title: ThingData
 description: 
 published: true
-date: 2024-07-31T01:21:46.489Z
+date: 2024-07-31T01:49:40.325Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
 ---
 
 # ThingData
-
-[Solutions](/solutions) > ThingData
 
 *April 2024 // Last updated July 2024.*
 
