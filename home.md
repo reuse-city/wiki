@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-07-30T10:46:57.172Z
+date: 2024-07-31T01:03:14.519Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -10,11 +10,11 @@ dateCreated: 2021-11-12T10:50:45.063Z
 
 This wiki hosts documentation of the projects developed by the [Reuse City](https://reuse.city) studio. It was initially created by [Dr Felipe Schmidt Fonseca](https://is.efeefe.me) as open documentation of his investigation for the  [OpenDoTT](#opendott) project. It was later expanded to document subsequent projects.
 
-The main areas of this website are:
+Start browsing here:
 
-- [Design Concepts](/concepts)
+- [Solutions](/solutions).
+- [OpenDoTT](/opendott) doctoral investigation.
 <!-- - [Projects](/projects) -->
-- [OpenDoTT](/opendott)
 
 A more detailed view of the website structure can be found [here](structure). 
 
