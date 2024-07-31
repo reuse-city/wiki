@@ -2,7 +2,7 @@
 title: Structure
 description: Structure of this website
 published: true
-date: 2024-07-29T15:29:03.182Z
+date: 2024-07-31T01:04:07.133Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-07T10:10:34.988Z
@@ -10,8 +10,7 @@ dateCreated: 2023-07-07T10:10:34.988Z
 
 # Structure of [this wiki](/home)
 
-- [Design Concepts](/concepts)
-- [Projects](/projects)
+- [Solutions](/solutions)
 - [OpenDott](/opendott)
 	- [Research Outputs](/opendott/outputs)
   - [Reports](/opendott/reports)
@@ -31,6 +30,7 @@ dateCreated: 2023-07-07T10:10:34.988Z
     - [Ethics](/opendott/thesis/ethics)
   - [Public Engagement and Outreach](/opendott/public)
   - [Datasets](/opendott/datasets)
+ <!-- - [Projects](/projects) -->
 
 # TODO
 
