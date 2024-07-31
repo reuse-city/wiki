@@ -2,7 +2,7 @@
 title: ThingData
 description: 
 published: true
-date: 2024-07-31T01:10:05.713Z
+date: 2024-07-31T01:11:02.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
@@ -66,8 +66,8 @@ ThingData is based on the following studies conducted during my doctoral investi
 
 It is connected with the following concept ideas and prototypes:
 
-- [Reuse Datasets](/opendott/concepts/concepts/reuse-datasets)
-- [Universal Registry of Things](/opendott/concepts/concepts/universal-registry-things)
+- [Reuse Datasets](/opendott/concepts/reuse-datasets)
+- [Universal Registry of Things](/opendott/concepts/universal-registry-things)
 - [ThingWiki](/opendott/prototypes/thingwiki)
 
 ## Benchmarks and reference projects
