@@ -2,7 +2,7 @@
 title: ThingData
 description: 
 published: true
-date: 2024-07-31T01:11:39.883Z
+date: 2024-07-31T01:12:09.567Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
@@ -11,6 +11,8 @@ dateCreated: 2024-07-30T10:50:11.499Z
 # ThingData
 
 [Solutions](/solutions) > ThingData
+
+Berlin, April 2024.
 
 ## Summary
 
