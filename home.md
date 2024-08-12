@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-07-31T01:03:14.519Z
+date: 2024-08-12T11:17:58.556Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -17,6 +17,18 @@ Start browsing here:
 <!-- - [Projects](/projects) -->
 
 A more detailed view of the website structure can be found [here](structure). 
+
+### Highlight: Reuse City studio
+
+In September 2024, Dr. Schmidt Fonseca launches the Reuse City, a studio dedicated to applied research, service design and technology development in the fields of circular economy, right to repair, and zero waste policy. Read more about it in the website https://reuse.city.
+
+### Highlight: Research Datasets
+
+Shortly after obtaining the degree, Felipe presented the research at a "Learning Circles" organised by [Circular Berlin](https://circular.berlin/). The presentation is focused in some of the design concepts, and is available here: [slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) (google drive) / [video](https://www.youtube.com/watch?v=tUn0bJl5wAE&feature=youtu.be) (youtube).
+
+![Learning Circle](/opendott/images/learning-circle.png)
+
+See also more actions of [public engagement and outreach](/opendott/public) during the research.
 
 ### Highlight: Reuse Commons
 
@@ -35,13 +47,6 @@ The presentation can also be watched from the [Internet Archive](https://archive
 
 See also other [research outputs](/opendott/outputs).
 
-### Highlight: Research Datasets
-
-Shortly after obtaining the degree, Felipe presented the research at a "Learning Circles" organised by [Circular Berlin](https://circular.berlin/). The presentation is focused in some of the design concepts, and is available here: [slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) (google drive) / [video](https://www.youtube.com/watch?v=tUn0bJl5wAE&feature=youtu.be) (youtube).
-
-![Learning Circle](/opendott/images/learning-circle.png)
-
-See also more actions of [public engagement and outreach](/opendott/public) during the research.
 
 ## OpenDoTT
 
@@ -53,7 +58,7 @@ OpenDoTT ("Open Design of Trusted Things") was "a PhD programme to explore how t
 >
 > The core argument of my research is that we need to reimagine and reshape how cities handle excess materials - understood here as the objects and materials prematurely discarded or kept unused for various reasons. Instead of focusing on increasing the efficienty of industrial recycling, my take is to prioritise conviviality through community-based practices of reuse. Such initiatives are crucial not only to identify and act upon the potential economic value of goods and materials immediately present in virtually every locality, but also to promote social cohesion, inclusion and regeneration while helping mitigate the effects of climate change.
 >
-> During the four years of research I have conducted [studies](/opendott/studies), made extensive notes, created [design concepts](/opendott/concepts) and [prototypes](/opendott/prototypes), and produced [reports](/opendott/reports) and content for [workbooks](/opendott/workbooks).
+> During the four years of research I have conducted [studies](/opendott/studies), made extensive notes, created [design concepts](/opendott/concepts) and [prototypes](/opendott/prototypes), and produced [reports](/opendott/reports) and content for [workbooks](/opendott/workbooks). A summary of the thesis was published in the [research blog](https://is.efeefe.me/opendott/generous-cities-summary) (also available as a [PDF from the Internet Archive](https://archive.org/details/generous-cities-summary)).
 
 ### Institutional context
 
