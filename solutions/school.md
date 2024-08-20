@@ -2,7 +2,7 @@
 title: School of Reuse
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-08-20T15:35:58.864Z
+date: 2024-08-20T15:42:07.054Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T02:10:34.378Z
@@ -19,6 +19,8 @@ Preventing waste is more effective than managing it. The School of Reuse focuses
 Research indicates that the best way to reduce the impact of unwanted and unused materials is intervening before they are considered waste. In other words, waste prevention with the goal of reducing and reusing is generally more effective than collecting materials for recycling, incineration or landfilling. The School of Reuse will contribute with professional educational and data resources to support the reuse of materials.
 
 Its emphasis on material reuse comes from the fact that most educational approaches to the circular economy focus chiefly on both ends of the supply chain: design and manufacturing; waste collection and recycling. There is a fundamental part missing in between consumption and waste treatment, and that is precisely the systemic reuse of goods and materials.
+
+![objets.jpg](/objets.jpg)
 
 ## What and Why?
 
