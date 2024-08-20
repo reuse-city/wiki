@@ -2,7 +2,7 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2024-08-20T15:31:30.055Z
+date: 2024-08-20T15:33:04.253Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:57.112Z
@@ -10,7 +10,7 @@ dateCreated: 2021-11-23T18:52:57.112Z
 
 # reuse.city lab
 
-*The name reuse.city was originally used to name of my research [studies](/opendott/studies). In August 2024, I started using the name Reuse City for my studio.*
+*The name reuse.city was originally used to name of my research [studies](/opendott/studies). In August 2024, I started using the name Reuse City for my [studio](https://reuse.city).*
 
 ---
 
