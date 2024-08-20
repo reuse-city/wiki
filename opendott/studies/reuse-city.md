@@ -2,13 +2,13 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2024-05-16T11:02:25.936Z
+date: 2024-08-20T15:29:35.330Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:57.112Z
 ---
 
-# reuse.city
+# reuse.city lab
 
 *(part of my research [studies](/opendott/studies)).*
 
