@@ -2,7 +2,7 @@
 title: School of Reuse
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-08-19T21:51:04.354Z
+date: 2024-08-20T15:27:04.564Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T02:10:34.378Z
@@ -12,15 +12,21 @@ dateCreated: 2024-07-31T02:10:34.378Z
 
 ## TL;DR
 
+Preventing waste is more effective than managing it. The School of Reuse focuses on reuse education to bridge a critical gap in the circular economy.
+
+## Introduction
+
 Research indicates that the best way to reduce the impact of unwanted and unused materials is intervening before they are considered waste. In other words, waste prevention with the goal of reducing and reusing is generally more effective than collecting materials for recycling, incineration or landfilling. The School of Reuse will contribute with professional educational and data resources to support the reuse of materials.
 
 Its emphasis on material reuse comes from the fact that most educational approaches to the circular economy focus chiefly on both ends of the supply chain: design and manufacturing; waste collection and recycling. There is a fundamental part missing in between consumption and waste treatment, and that is precisely the systemic reuse of goods and materials.
 
-## Motivation
+## What and Why?
 
-There are growing technical and legal recommendations that cities and regions must put more effort into the reuse of materials than in recycling, incineration and landfilling. However, the skills necessary for that kind of work are not being taught systematically anywhere. Successful initiatives depend on the experience and knowledge acquired by its employees on identifying what objects can or cannot be reused.
+Led by [Reuse City Studio](https://reuse.city), the School of Reuse is a collaborative initiative dedicated to filling critical gaps in resource management. By prioritizing reuse alongside recycling, the initiative addresses an often-overlooked aspect of the circular economy. While many efforts concentrate on the product lifecycle's beginning and end, the School of Reuse emphasizes the middle ground: extending a product's life through repair, repurposing, and redistribution. 
 
-Organisations in every European country will need to adapt to and invest in that sector, and there will be a need to create knowledge and train employees for the ensuing emerging roles. The School of Reuse is well positioned to offer that kind of training, based on research and prior experience.
+The School of Reuse provides tools and resources for teams to develop innovative reuse projects. By cultivating a skilled workforce, Reuse City Studio and its partners contribute to building a more sustainable and resource-efficient future. 
+
+The School of Reuse fosters a collaborative atmosphere where participants learn from one another and develop innovative solutions through practical training, knowledge sharing, and community building. The initiative brings together individuals, organizations, and communities to achieve a shared objective: a world where resources are maximized and waste is minimized. 
 
 ## References
 
