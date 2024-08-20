@@ -2,7 +2,7 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2024-08-20T15:29:35.330Z
+date: 2024-08-20T15:31:30.055Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:57.112Z
@@ -10,11 +10,11 @@ dateCreated: 2021-11-23T18:52:57.112Z
 
 # reuse.city lab
 
-*(part of my research [studies](/opendott/studies)).*
+*The name reuse.city was originally used to name of my research [studies](/opendott/studies). In August 2024, I started using the name Reuse City for my studio.*
 
 ---
 
-reuse.city was a [research study](../studies) created to co-design speculative technologies, methodologies and systems to promote the reuse of goods and materials in cities and regions. It was conducted between April and August 2021.
+reuse.city lab was a [research study](../studies) created to co-design speculative technologies, methodologies, and systems to promote the reuse of goods and materials in cities and regions. It was conducted between April and August 2021.
 
 ## Objectives
 
