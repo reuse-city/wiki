@@ -2,7 +2,7 @@
 title: School of Reuse
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-08-20T15:27:17.620Z
+date: 2024-08-20T15:35:58.864Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T02:10:34.378Z
@@ -27,6 +27,10 @@ Led by [Reuse City Studio](https://reuse.city), the School of Reuse is a collabo
 The School of Reuse provides tools and resources for teams to develop innovative reuse projects. By cultivating a skilled workforce, Reuse City Studio and its partners contribute to building a more sustainable and resource-efficient future. 
 
 The School of Reuse fosters a collaborative atmosphere where participants learn from one another and develop innovative solutions through practical training, knowledge sharing, and community building. The initiative brings together individuals, organizations, and communities to achieve a shared objective: a world where resources are maximized and waste is minimized. 
+
+## Collaborate
+
+Contact [Felipe Schmidt Fonseca](https://reuse.city/#Felipe) (felipe at reuse.city) to find ways to collaborate as an individual or an organisation.
 
 ## References
 
