@@ -2,7 +2,7 @@
 title: reuse.city
 description: Online co-design lab
 published: true
-date: 2024-08-20T15:33:04.253Z
+date: 2024-08-20T15:33:27.156Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:57.112Z
@@ -69,9 +69,13 @@ The reuse.city lab approached the [research questions](#research-questions) from
 
 ## Output
 
+<!--
+
 ### Report
 
 See [lab](/opendott/studies/reuse-city/lab) for a summarised report.
+
+-->
 
 ### Process documentation
 
