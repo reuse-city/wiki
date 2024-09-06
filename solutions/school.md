@@ -2,7 +2,7 @@
 title: School of Reuse
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-08-20T15:42:07.054Z
+date: 2024-09-06T07:35:46.461Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T02:10:34.378Z
@@ -13,6 +13,10 @@ dateCreated: 2024-07-31T02:10:34.378Z
 ## TL;DR
 
 Preventing waste is more effective than managing it. The School of Reuse focuses on reuse education to bridge critical gaps in the circular economy.
+
+### Quick links
+
+- Text about  the role of [circular material valuer](https://is.efeefe.me/stuff/circular-material-valuers).
 
 ## Introduction
 
