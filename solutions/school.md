@@ -2,7 +2,7 @@
 title: School of Reuse
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-09-06T07:35:46.461Z
+date: 2024-09-10T06:54:52.518Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T02:10:34.378Z
@@ -51,3 +51,7 @@ Contact [Felipe Schmidt Fonseca](https://reuse.city/#Felipe) (felipe at reuse.ci
 ### Reuse
 
 - [Link collection - efeefe](https://links.efeefe.me/?searchtags=reuse)
+
+### Making and repair
+
+- Tim Hunkin's [website](https://timhunkin.com/) and the [Secret Life of Components](https://www.youtube.com/watch?v=6JAgXz6xO0s&list=PLtaR0lZhSyANYB0Xxb9OSp47pHuQmj3Ol) (video playlist)
