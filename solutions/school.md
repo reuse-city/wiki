@@ -2,7 +2,7 @@
 title: School of Reuse
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-09-10T06:55:06.563Z
+date: 2024-09-10T07:02:34.827Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T02:10:34.378Z
@@ -54,4 +54,7 @@ Contact [Felipe Schmidt Fonseca](https://reuse.city/#Felipe) (felipe at reuse.ci
 
 ### Making and repair
 
-- Tim Hunkin's [website](https://timhunkin.com/) and the [Secret Life of Components](https://www.youtube.com/watch?v=6JAgXz6xO0s&list=PLtaR0lZhSyANYB0Xxb9OSp47pHuQmj3Ol) (video playlist).
+ - Tim Hunkin's [website](https://timhunkin.com/) and the [Secret Life of Components](https://www.youtube.com/watch?v=6JAgXz6xO0s&list=PLtaR0lZhSyANYB0Xxb9OSp47pHuQmj3Ol) (video playlist).
+ - Resources on home repairs such as [Hometalk](https://www.hometalk.com/diy/repair), this [list of books](https://bookauthority.org/books/best-selling-home-repair-books), 
+ - Resources focused on particular topics such as [hiking gear](https://www.backpacker.com/skills/gear-repair/fix-it-how-to-repair-hiking-gear/), [eletronics](https://www.ifixit.com/Guide), [bikes](https://www.bikeride.com/guide/).
+ - Instructables tutorials on [repairs](https://www.instructables.com/search/?q=repair&projects=all).
