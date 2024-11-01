@@ -2,7 +2,7 @@
 title: Thesis
 description: 
 published: true
-date: 2024-10-28T14:56:20.929Z
+date: 2024-11-01T17:26:06.756Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T12:56:35.495Z
@@ -17,7 +17,7 @@ dateCreated: 2024-05-24T12:56:35.495Z
 - Final version submitted to Northumbria University's Graduate School in March 2024.
 - Degree awarded in May 2024.
 
-The thesis was made available on 24/10/24 from [Northumbria Research Link](https://nrl.northumbria.ac.uk/id/eprint/51731/).
+The thesis was made available on 24/10/24 from [Northumbria Research Link](https://nrl.northumbria.ac.uk/id/eprint/51731/). A copy is also stored [here](/opendott/thesis/Schmidt-Fonseca_Generous-Citie_Thesis_Final-Version.pdf).
 
 Under this section:
 
