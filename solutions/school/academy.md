@@ -2,7 +2,7 @@
 title: Reuse Academy
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-11-04T21:09:13.135Z
+date: 2024-11-04T21:14:25.079Z
 tags: solutions
 editor: markdown
 dateCreated: 2024-11-04T21:09:13.135Z
@@ -13,6 +13,9 @@ dateCreated: 2024-11-04T21:09:13.135Z
 ## TL;DR
 
 Preventing waste is more effective than managing it. The Reuse Academy focuses on education to bridge critical gaps in the circular economy, with a particular focus on valuing, repairing, upcycling and recirculating goods and materials before recycling.
+
+
+![academy-transparent.png](/academy-transparent.png){.align-center}
 
 ### Quick links
 
