@@ -2,7 +2,7 @@
 title: School of Reuse
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-10-23T09:26:25.242Z
+date: 2024-11-04T21:03:47.575Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T02:10:34.378Z
@@ -13,6 +13,8 @@ dateCreated: 2024-07-31T02:10:34.378Z
 ## TL;DR
 
 Preventing waste is more effective than managing it. The School of Reuse focuses on reuse education to bridge critical gaps in the circular economy.
+
+**Update on 04.11.2024:** *this project was renamed and the content copied to the page [Reuse Academy](academy). Please follow new developments there.*
 
 ### Quick links
 
