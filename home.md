@@ -2,13 +2,13 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-11-05T00:06:25.832Z
+date: 2024-11-05T00:06:46.246Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
 ---
 
-![reuse-city-logo-branco.png](/reuse-city-logo-branco.png){.align-left}This wiki hosts documentation of the projects developed by the [Reuse City](https://reuse.city) studio. It was initially created by [Dr Felipe Schmidt Fonseca](https://is.efeefe.me) as open documentation of his investigation for the  [OpenDoTT](#opendott) project. It was later expanded to document subsequent projects.
+![reuse-city-logo-branco.png](/reuse-city-logo-branco.png){.align-right}This wiki hosts documentation of the projects developed by the [Reuse City](https://reuse.city) studio. It was initially created by [Dr Felipe Schmidt Fonseca](https://is.efeefe.me) as open documentation of his investigation for the  [OpenDoTT](#opendott) project. It was later expanded to document subsequent projects.
 
 Start browsing here:
 
