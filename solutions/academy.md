@@ -2,7 +2,7 @@
 title: Reuse Academy
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-11-06T19:03:07.671Z
+date: 2024-11-06T19:04:48.730Z
 tags: solutions
 editor: markdown
 dateCreated: 2024-11-04T21:09:13.135Z
