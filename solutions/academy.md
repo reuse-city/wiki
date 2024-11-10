@@ -2,7 +2,7 @@
 title: Reuse Academy
 description: Education on the fundamental skills to promote the reuse of materials in cities and regions
 published: true
-date: 2024-11-06T19:04:48.730Z
+date: 2024-11-10T14:36:44.569Z
 tags: solutions
 editor: markdown
 dateCreated: 2024-11-04T21:09:13.135Z
@@ -62,3 +62,4 @@ Contact [Felipe Schmidt Fonseca](https://reuse.city/#Felipe) (felipe at reuse.ci
  - Resources focused on particular topics such as [hiking gear](https://www.backpacker.com/skills/gear-repair/fix-it-how-to-repair-hiking-gear/), [eletronics](https://www.ifixit.com/Guide), [bikes](https://www.bikeride.com/guide/).
  - Instructables tutorials on [repairs](https://www.instructables.com/search/?q=repair&projects=all).
  - [Culture of Repair Grant](https://rrepairs.shop/Culture-of-Repair-Grant), collaboration between The High School of Fashion Industries and Repair Shop, funded by the Culture of Repair Project.
+ - [Restarters Wiki](https://wiki.restarters.net/), with beginners guides to repairing electronics.
