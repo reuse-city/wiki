@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2024-11-05T00:07:42.505Z
+date: 2024-11-20T22:53:57.902Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -30,6 +30,13 @@ Shortly after obtaining the degree, Felipe presented the research at a "Learning
 ![Learning Circle](/opendott/images/learning-circle.png)
 
 See also more actions of [public engagement and outreach](/opendott/public) during the research.
+
+### Highlights: Generous Cities - a summary
+
+**TL;DR:** The concept of generous cities was the central binding element of my PhD thesis produced for the OpenDoTT project (Northumbria University / Mozilla / University of Dundee, 2019–2023). It proposes an alternative framing for the handling of excess materials (things kept unused or prematurely discarded), to overcome the conceptual and practical limitations of a waste management paradigm chiefly focused on recycling. A generous city perspective, in turn, promotes the development of commons-based systems to collectively identify and realise the value of excess materials. It does so through practices of reuse to benefit local communities, organisations, and businesses. The concept borrows elements from diverse fields of knowledge and is aligned with growing awareness of the need to mitigate the impacts of human activity on the planet. The generous city perspective offers a concrete critique of unregulated industrial production guided only by profit extraction under neoliberal capitalism. It promotes conviviality as a basis for the regeneration of social bonds and the creation of more sustainable practices. This text provides an overview of the scenario, motivations, and methods I adopted in my doctoral research, and describes some of its outcomes and potential future developments.
+
+- [Read the summary](https://is.efeefe.me/opendott/generous-cities-summary)
+
 
 ### Highlight: Reuse Commons
 
