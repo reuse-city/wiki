@@ -2,7 +2,7 @@
 title: ThingData
 description: 
 published: true
-date: 2024-12-09T12:26:01.728Z
+date: 2024-12-09T12:29:25.155Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
@@ -13,6 +13,8 @@ dateCreated: 2024-07-30T10:50:11.499Z
 Direct links:
 
 - [ThingData website](https://thingdata.org)
+- [ThingData Protocol Specification](https://github.com/reuse-city/thingdata-server/wiki/ThingData-Protocol-Specification)
+- [ThingData Model Server Implementation / GitHub](https://github.com/reuse-city/thingdata-server)
 
 ## Summary
 
