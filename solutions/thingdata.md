@@ -2,13 +2,17 @@
 title: ThingData
 description: 
 published: true
-date: 2024-07-31T01:49:50.217Z
+date: 2024-12-09T12:26:01.728Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
 ---
 
 # ThingData
+
+Direct links:
+
+- [ThingData website](https://thingdata.org)
 
 ## Summary
 
