@@ -2,13 +2,15 @@
 title: ThingData
 description: 
 published: true
-date: 2024-12-09T12:29:25.155Z
+date: 2024-12-10T14:06:43.660Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
 ---
 
 # ThingData
+
+![thingdata-logo-sq.png](/thingdata-logo-sq.png){.align-right}
 
 Direct links:
 
