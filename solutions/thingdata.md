@@ -2,7 +2,7 @@
 title: ThingData
 description: 
 published: true
-date: 2024-12-10T14:06:43.660Z
+date: 2024-12-18T21:18:49.921Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-30T10:50:11.499Z
@@ -100,3 +100,4 @@ It is connected with the following concept ideas and prototypes:
 - Open Repair Alliance https://openrepair.org/ 
 - Repair Circle https://www.repaircircle.eu/ 
 - ReMap Berlin https://www.remap-berlin.de/karte 
+- Link list https://links.efeefe.me/?searchtags=thingdata
