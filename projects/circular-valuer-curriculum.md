@@ -2,7 +2,7 @@
 title: Circular Material Valuer Curriculum
 description: Participatory Knowledge for the Circular Economy
 published: true
-date: 2025-01-23T19:32:30.121Z
+date: 2025-01-23T19:32:53.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:32:30.121Z
@@ -10,7 +10,7 @@ dateCreated: 2025-01-23T19:32:30.121Z
 
 # Circular Material Valuer Curriculum
 
-## Material Valuer Curriculum - participatory knowledge for the circular economy
+## Participatory knowledge for the circular economy
 
 The ”Circular Material Valuer Curriculum” is a citizen science initiative to explore the skills, experience and sensibility necessary to extend the lifespan of the growing volume of goods discarded or kept unused. The project draws attention to a particular set of tasks and activities whose relevance deserves better appreciation and research in order to transition to a more circular economy. Circular Material Valuer is envisioned as a new role for professionals, to decide how better to divert reusable goods and materials from the waste stream through repairing, upcycling, adapting and recirculating.
 
