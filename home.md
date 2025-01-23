@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2025-01-23T19:25:29.837Z
+date: 2025-01-23T19:25:59.398Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -14,8 +14,9 @@ This wiki hosts documentation of the projects developed by the [Reuse City](http
 Start browsing here:
 
 - [Solutions](/solutions).
+- [Projects](/projects).
 - [OpenDoTT](/opendott) doctoral investigation.
-- [Projects](/projects)
+
 
 A more detailed view of the website structure can be found [here](structure). 
 
