@@ -2,7 +2,7 @@
 title: Circular Material Valuer Curriculum
 description: Participatory Knowledge for the Circular Economy
 published: true
-date: 2025-02-25T03:00:09.060Z
+date: 2025-02-25T03:24:24.875Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:32:30.121Z
@@ -16,7 +16,7 @@ The ”Circular Material Valuer Curriculum” is a citizen science initiative to
 
 See also:
 
-- Blog post on [Circular MAterial Valuers](https://is.efeefe.me/stuff/fbr/circular-material-valuers)
+- Blog post on [Circular Material Valuers](https://is.efeefe.me/stuff/fbr/circular-material-valuers)
 
 ![bulky-waste-5279249_1280.jpg](/bulky-waste-5279249_1280.jpg)
 
