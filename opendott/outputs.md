@@ -2,7 +2,7 @@
 title: Research Outputs
 description: 
 published: true
-date: 2024-07-24T12:26:12.451Z
+date: 2025-03-17T22:31:14.949Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T12:42:05.841Z
@@ -11,6 +11,10 @@ dateCreated: 2024-05-15T12:42:05.841Z
 # Outputs
 
 ## Publications
+
+### Generous Cities: commons-based handling of excess materials
+
+Paper submitted to the LIvable Cities Conference (London, 2024) and included as a chapter of the ebook [Resilient Cities in a Changing World](https://amps-research-com.jmailroute.net/x/d?c=45345560&l=2ad0a0bc-02f8-4cf2-be4b-c109c41d9ca2&r=6768ae6a-5bca-468f-ae8d-2b816bfc955b) (ISBN 978-1-0369-0933-8).
 
 ### An online co-design lab: reuse.city
 
