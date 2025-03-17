@@ -2,7 +2,7 @@
 title: Research Outputs
 description: 
 published: true
-date: 2025-03-17T22:31:14.949Z
+date: 2025-03-17T22:32:00.954Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-15T12:42:05.841Z
@@ -30,6 +30,10 @@ DOI: [10.5281/zenodo.7432152](https://doi.org/10.5281/zenodo.7432152)
 - Recording of presentation available on [Youtube](https://www.youtube.com/watch?v=9FffmnQeZCU) / [Archive](https://archive.org/details/reuse-commons_fab-city)
 
 ## Presentations
+
+### Generous Cities (2024)
+
+Presentation at the Livable Cities Conference (London, 2024).
 
 ### Repair Journey (2021)
 
