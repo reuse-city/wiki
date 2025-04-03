@@ -2,7 +2,7 @@
 title: Circular Material Valuer Curriculum
 description: Participatory Knowledge for the Circular Economy
 published: true
-date: 2025-02-26T17:33:48.888Z
+date: 2025-04-03T09:56:15.505Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:32:30.121Z
@@ -28,6 +28,6 @@ By combining material, social, economic and environmental considerations, the Ma
 
 ![flea-market-2759041_1280.jpg](/flea-market-2759041_1280.jpg)
 
-The aim of the project is to gain a better understanding of the importance of Material Valuers in circular systems. It will well document the knowledge, skills, experience, sensitivity and processes required for their daily work. All research data and ongoing outputs will be published with open licenses.
+The main goal of the project is to gain a better understanding of the importance of Material Valuers in circular systems. It will document the knowledge, skills, experience, sensitivity and processes required for their daily work. All research data and ongoing outputs will be published with open licenses.
 
 Project developed in partnership with [GIG](https://globalinnovationgathering.org/), funded by the [Hans Sauer Stiftung](https://www.hanssauerstiftung.de/).
