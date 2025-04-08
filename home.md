@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2025-04-08T08:02:47.699Z
+date: 2025-04-08T08:07:55.071Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -31,6 +31,12 @@ A more detailed view of the website structure can be found [here](structure).
 
 ---
 
+### Reuse City studio
+
+In September 2024, Dr. Schmidt Fonseca launches the Reuse City, a studio dedicated to applied research, service design and technology development in the fields of circular economy, right to repair, and zero waste policy. Read more about it in the website https://reuse.city.
+
+---
+
 ### Generous Cities - a summary
 
 - [Read the summary](https://is.efeefe.me/opendott/generous-cities-summary). Introduction below:
@@ -40,9 +46,11 @@ A more detailed view of the website structure can be found [here](structure).
 
 ---
 
-### Reuse City studio
+### Understanding the Right-to-Repair Movement in the Global North and Global South
 
-In September 2024, Dr. Schmidt Fonseca launches the Reuse City, a studio dedicated to applied research, service design and technology development in the fields of circular economy, right to repair, and zero waste policy. Read more about it in the website https://reuse.city.
+- Panel during re:publica24, in Berlin. Video recording available on [YouTube](https://youtu.be/JCdRvdSm3do?t=2808) (starting on min 46). A post about the panel was published in the [GIG website](https://globalinnovationgathering.org/2024/07/31/discussing-the-right-to-repair-movement/).
+
+![re:publica24 Right-to-Repair](https://globalinnovationgathering.org/wp-content/uploads/2024/07/Screenshot_30-7-2024_162325_www.youtube.com_.jpeg)
 
 ---
 
