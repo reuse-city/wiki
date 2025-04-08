@@ -2,7 +2,7 @@
 title: Thesis
 description: 
 published: true
-date: 2025-04-08T08:13:20.541Z
+date: 2025-04-08T08:13:30.923Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T12:56:35.495Z
@@ -21,7 +21,7 @@ The thesis was ~~made available on 24/10/24 from [Northumbria Research Link](htt
 
 *A PDF copy of the thesis is stored* **[here](/opendott/thesis/Schmidt-Fonseca_Generous-Citie_Thesis_Final-Version.pdf).**
 
-Under this section:
+## Under this section
 
 - [Research Questions](/opendott/thesis/research-questions).
 - [Literature and Context Review](/opendott/thesis/literature).
