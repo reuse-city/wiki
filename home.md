@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2025-04-08T07:54:57.226Z
+date: 2025-04-08T08:02:47.699Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -24,7 +24,7 @@ A more detailed view of the website structure can be found [here](structure).
 
 ### Generous Cities: commons-based handling of excess materials
 
-- Paper submitted to the Livable Cities Conference and included in the ebook Resilient Cities in a Changing World (ISBN 978-1-0369-0933-8). Full text available [here](https://is.efeefe.me/stuff/generous-cities).
+- Paper based on the [thesis intro](/opendott/thesis) and submitted to the Livable Cities Conference. It was included in the ebook *Resilient Cities in a Changing World* (ISBN 978-1-0369-0933-8). Full text available [here](https://is.efeefe.me/stuff/generous-cities).
 
 > A common way to describe the contemporary globalised world is that it is organised chiefly around industrial production. That point of view, although insufficient to provide a deep understanding of the many economic, political and social dynamics at play, is prevalent in the public opinion. The mere fact that it has uncritical wide adoption by the media and the general public has many consequences. Crucially, it makes it all but inevitable to accept that the global economy depends on an increasing extraction of raw materials, their transformation into products, and the distribution of such products to consumers. Contemporary industrial production is, after all, usually structured in such a way that multiple materials are extracted from nature – often in parts of the world distant from one another – and transformed into products through the use of labour, energy and applied knowledge.
 > That mode of organisation impacts the entire supply chain, but its final section is particularly problematic. It would make sense to assume that the products of industrial production would better stay in use for as long as possible, lest the investment – labour, energy, and knowledge – disappear altogether when products are discarded, or at best recycled. In other words, the resources invested into manufacturing are literally wasted at the end of the product life cycle. The so-called linear mode of industrial production generates increasing volumes of objects that can not be reincorporated into production processes. Such excess materials are largely wasted, despite often still being potentially valuable. Recent policies attempting to increase the rate of recyclable materials' collection address this situation partly, but they cause other sorts of undesirable effects, as will be discussed in this text.
