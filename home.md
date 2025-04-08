@@ -2,7 +2,7 @@
 title: Reuse City Wiki
 description: 
 published: true
-date: 2025-01-23T19:25:59.398Z
+date: 2025-04-08T07:54:57.226Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-12T10:50:45.063Z
@@ -20,7 +20,18 @@ Start browsing here:
 
 A more detailed view of the website structure can be found [here](structure). 
 
-### Highlights: Generous Cities - a summary
+## Featured
+
+### Generous Cities: commons-based handling of excess materials
+
+- Paper submitted to the Livable Cities Conference and included in the ebook Resilient Cities in a Changing World (ISBN 978-1-0369-0933-8). Full text available [here](https://is.efeefe.me/stuff/generous-cities).
+
+> A common way to describe the contemporary globalised world is that it is organised chiefly around industrial production. That point of view, although insufficient to provide a deep understanding of the many economic, political and social dynamics at play, is prevalent in the public opinion. The mere fact that it has uncritical wide adoption by the media and the general public has many consequences. Crucially, it makes it all but inevitable to accept that the global economy depends on an increasing extraction of raw materials, their transformation into products, and the distribution of such products to consumers. Contemporary industrial production is, after all, usually structured in such a way that multiple materials are extracted from nature – often in parts of the world distant from one another – and transformed into products through the use of labour, energy and applied knowledge.
+> That mode of organisation impacts the entire supply chain, but its final section is particularly problematic. It would make sense to assume that the products of industrial production would better stay in use for as long as possible, lest the investment – labour, energy, and knowledge – disappear altogether when products are discarded, or at best recycled. In other words, the resources invested into manufacturing are literally wasted at the end of the product life cycle. The so-called linear mode of industrial production generates increasing volumes of objects that can not be reincorporated into production processes. Such excess materials are largely wasted, despite often still being potentially valuable. Recent policies attempting to increase the rate of recyclable materials' collection address this situation partly, but they cause other sorts of undesirable effects, as will be discussed in this text.
+
+---
+
+### Generous Cities - a summary
 
 - [Read the summary](https://is.efeefe.me/opendott/generous-cities-summary). Introduction below:
 
@@ -29,13 +40,13 @@ A more detailed view of the website structure can be found [here](structure).
 
 ---
 
-### Highlight: Reuse City studio
+### Reuse City studio
 
 In September 2024, Dr. Schmidt Fonseca launches the Reuse City, a studio dedicated to applied research, service design and technology development in the fields of circular economy, right to repair, and zero waste policy. Read more about it in the website https://reuse.city.
 
 ---
 
-### Highlight: Research Datasets
+### Research Datasets
 
 Shortly after obtaining the degree, Felipe presented the research at a "Learning Circles" organised by [Circular Berlin](https://circular.berlin/). The presentation is focused in some of the design concepts, and is available here: [slides](https://drive.google.com/file/d/1p6kF7NGQzNWw8O5kPTP9Pt8CE5tvURVf/view) (google drive) / [video](https://www.youtube.com/watch?v=tUn0bJl5wAE&feature=youtu.be) (youtube).
 
@@ -45,7 +56,7 @@ See also more actions of [public engagement and outreach](/opendott/public) duri
 
 ---
 
-### Highlight: Reuse Commons
+### Reuse Commons
 
 The video below is an online presentation of the paper [Reuse Commons - a toolkit to weave generous cities](https://zenodo.org/record/7432153) for the 2022 edition of [Fab City Summit](https://bali.fabevent.org/). It summarises the doctoral investigation up to that point, as well as providing context on how it was developed.
 
