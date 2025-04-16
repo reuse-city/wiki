@@ -2,7 +2,7 @@
 title: Material Valuers - Online Survey
 description: 
 published: true
-date: 2025-04-16T12:09:17.086Z
+date: 2025-04-16T12:09:28.442Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T06:30:36.210Z
@@ -10,11 +10,11 @@ dateCreated: 2025-04-16T06:30:36.210Z
 
 # Material Valuer - Online Survey
 
-As part of the citizen science project [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum), we released an online survey to learn from people experienced in the activities of Material Valuers. Please read the Participant Information below **before contributing** via [this form](https://forms.gle/16ULM7ydC4sKdmje6).
+As part of the citizen science project [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum), we released an online survey to learn from people experienced in the activities of Material Valuers. Please read the Participant Information below **before contributing** via [this form]().
 
 ## Participant Information
 
-You are invited to take part in a citizen science project. Please read the information provided below. This will help you to understand why and how the research is being carried out and what your participation will involve. You are welcome to contact us to clarify any questions via email on felipe (at) globalinnovationgathering.org before participating in this survey.
+You are invited to take part in a citizen science project. Please read the information provided below. This will help you to understand why and how the research is being carried out and what your participation will involve. You are welcome to contact us to clarify any questions via email on felipe@globalinnovationgathering.org before participating in this survey.
 
 ### What is the purpose of the research?
 
