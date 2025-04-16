@@ -2,7 +2,7 @@
 title: Material Valuers - Online Survey
 description: 
 published: true
-date: 2025-04-16T12:08:52.630Z
+date: 2025-04-16T12:09:00.440Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T06:30:36.210Z
@@ -10,7 +10,7 @@ dateCreated: 2025-04-16T06:30:36.210Z
 
 # Material Valuer - Online Survey
 
-As part of the citizen science project [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum), we released an online survey to learn from people experienced in the activities of Material Valuers. Please read the Participant Information below **before contributing** via [this form]().
+As part of the citizen science project [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum), we released an online survey to learn from people experienced in the activities of Material Valuers. Please read the Participant Information below **before contributing** via [this form](https://forms.gle/16ULM7ydC4sKdmje6).
 
 ## Participant Information
 
