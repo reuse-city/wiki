@@ -2,7 +2,7 @@
 title: Thesis
 description: 
 published: true
-date: 2025-04-08T08:13:30.923Z
+date: 2025-04-22T17:23:05.048Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T12:56:35.495Z
@@ -17,9 +17,11 @@ dateCreated: 2024-05-24T12:56:35.495Z
 - Final version submitted to Northumbria University's Graduate School in March 2024.
 - Degree awarded in May 2024.
 
-The thesis was ~~made available on 24/10/24 from [Northumbria Research Link](https://nrl.northumbria.ac.uk/id/eprint/51731/)~~ (apparently the University portal has changed).
+The thesis was made available on 24/10/24 from [Northumbria's Research Portal](https://researchportal.northumbria.ac.uk/en/studentTheses/generous-cities-weaving-commons-oriented-systems-for-the-reuse-of-3).
 
-*A PDF copy of the thesis is stored* **[here](/opendott/thesis/Schmidt-Fonseca_Generous-Citie_Thesis_Final-Version.pdf).**
+Uploaded to [Zenodo](https://zenodo.org/records/15263864) as well (April 2025). **DOI:** [10.5281/zenodo.15263863](https://doi.org/10.5281/zenodo.15263863).
+
+*A PDF copy of the thesis is also stored* **[here](/opendott/thesis/Schmidt-Fonseca_Generous-Citie_Thesis_Final-Version.pdf).**
 
 ## Under this section
 
@@ -28,4 +30,3 @@ The thesis was ~~made available on 24/10/24 from [Northumbria Research Link](htt
 - [Methodology](/opendott/thesis/methodology).
 
 **See also:** ["Generous Cities - a summary"](https://is.efeefe.me/opendott/generous-cities-summary) in my research blog.
-
