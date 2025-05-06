@@ -2,7 +2,7 @@
 title: Thesis
 description: 
 published: true
-date: 2025-04-22T17:23:05.048Z
+date: 2025-05-06T08:40:59.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T12:56:35.495Z
@@ -28,5 +28,6 @@ Uploaded to [Zenodo](https://zenodo.org/records/15263864) as well (April 2025). 
 - [Research Questions](/opendott/thesis/research-questions).
 - [Literature and Context Review](/opendott/thesis/literature).
 - [Methodology](/opendott/thesis/methodology).
+- [References](/opendott/thesis/references).
 
 **See also:** ["Generous Cities - a summary"](https://is.efeefe.me/opendott/generous-cities-summary) in my research blog.
