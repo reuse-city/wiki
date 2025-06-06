@@ -2,7 +2,7 @@
 title: OpenDoTT
 description: Open Design of Trusted Things - EU funded joint research project (Northumbria University + Mozilla Foundation)
 published: true
-date: 2025-06-06T09:31:31.577Z
+date: 2025-06-06T09:32:42.125Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-23T18:52:26.082Z
@@ -14,7 +14,7 @@ The research topic I was assigned to in the project was "smart cities", describe
 
 > Technology is fundamentally changing how cities work, but these smart cities are most often determined in a top-down fashion, with little transparency or accountability in how data influences the workings of the city. Can we create cities that are not just smarter, but kinder, fairer and more citizen-centred?
 
-During the years of doctoral research, the focus I adopted was *waste prevention through community-based practices of reuse*. The final title of my investigation is **"Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts"**. My [thesis](thesis) was successfully defended in September 2023, and my PhD degree awarded in April 2024. An overview of the investigation was published in the [research blog](https://is.efeefe.me/opendott/generous-cities-summary) (also available as a [PDF from the Internet Archive](https://archive.org/details/generous-cities-summary)).
+During the years of doctoral research, the focus I adopted was *waste prevention through community-based practices of reuse*. The final title of my investigation is **"Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts"**. My [thesis](thesis) was successfully defended in September 2023, and my PhD degree awarded in April 2024. An overview of the investigation was published in the [research blog](https://is.efeefe.me/opendott/generous-cities-summary) (also available as a [PDF from the Internet Archive](https://archive.org/details/generous-cities-summary)), and an adapted version of the Thesis Intro was published as a [book chapter](https://is.efeefe.me/stuff/generous-cities).
 
 ![berlin-excess.png](/opendott/images/berlin-excess.png){.align-center}
 
