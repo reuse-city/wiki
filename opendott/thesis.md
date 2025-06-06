@@ -2,7 +2,7 @@
 title: Thesis
 description: 
 published: true
-date: 2025-05-19T11:25:57.780Z
+date: 2025-06-06T09:33:01.943Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-24T12:56:35.495Z
@@ -15,7 +15,7 @@ dateCreated: 2024-05-24T12:56:35.495Z
 - Submitted for examination on 30/06/2023.
 - Viva voce (examination board) took place on 21/09/2023.
 - Final version submitted to Northumbria University's Graduate School in March 2024.
-- Degree awarded in May 2024.
+- Degree awarded in April 2024.
 
 The thesis was made available on 24/10/24 from [Northumbria's Research Portal](https://researchportal.northumbria.ac.uk/en/studentTheses/generous-cities-weaving-commons-oriented-systems-for-the-reuse-of-3).
 
