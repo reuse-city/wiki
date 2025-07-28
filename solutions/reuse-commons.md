@@ -2,7 +2,7 @@
 title: Reuse Commons
 description: Toolkit for local systems of material reuse
 published: true
-date: 2024-07-31T02:08:26.374Z
+date: 2025-07-28T09:56:21.597Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T01:29:20.799Z
@@ -39,3 +39,4 @@ Groups activated by the Reuse Commons can partner with initiatives under diverse
 ## Research Background
 
 - [Original design concept](/opendott/concepts/reuse-commons) (2020).
+- Research Paper [Reuse Commons - a toolkit to weave generous cities](https://zenodo.org/records/7432153), presented at FAB 17 (2022).
