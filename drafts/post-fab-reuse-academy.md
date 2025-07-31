@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-07-31T08:59:17.409Z
+date: 2025-07-31T10:20:01.511Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -178,7 +178,7 @@ This makes the work of Gilda, Simone, Josi, and the cooperative members even mor
 
 Even living abroad for some years now, every time I visit Brazil, I pay them a visit. I learnt a lot from CeC and its leadership. One of the first such lessons happened before I left Ubatuba, likely in 2018. I had the opportunity to appoint one organisation to receive a small grant (USD 5,000) from an international foundation. No strings attached.
 
-I chose CeC, and suggested that they could use the money to build a [Precious Plastic](https://search.brave.com/search?q=precious+plstic) workshop. I would volunteer my time and bring my geek friends to get it up and running. Their response was gentle but clear. “Thanks, Felipe, but to be honest what we need now is to renovate the roof to allow the expansion of our sorting area”.
+I chose CeC, and suggested that they could use the money to build a [Precious Plastic](https://www.preciousplastic.com/) workshop. I would volunteer my time and bring my geek friends to get it up and running. Their response was gentle but clear. “Thanks, Felipe, but to be honest what we need now is to renovate the roof to allow the expansion of our sorting area”.
 
 And they were right, of course. Given the sheer volume of materials that CeC needs to process every day, it made no sense to invest the little unassigned funds they had into building a gimmick that would only scratch the surface and be practically useless to solve their challenges. They got the 5k, built the roof, and kept growing. Nowadays they have their own trucks, a formal contract with the Municipality, and are mentoring groups in other cities into creating their own coops. A good part of their success comes from their commitment to do _what they know they need_, not what a well-intentioned middle-class white man with friends abroad (that would be me) thought would be cool.
 
@@ -190,7 +190,7 @@ Now let's get back to a broader view. If the fab movement is to develop local so
 
 The origins of waste can, of course, be easily traced by following the international path of industrial supply chains in reverse. However, its effects are at everyone's doorstep. I mean, I wish manufacturers were held responsible for solving the problem that they generate - and I hope in the future they will. I live in Europe and support the policy developments in that direction. The European Waste Framework, the Circular Economy Action Plan. EU directives on Ecodesign and the Right to Repair. Growing awareness about the ill effects of fast fashion, and measures to mitigate it. All of those are necessary. They point to a better situation. However, the effects of those developments are projected for decades into the future.
 
-## VIDEO TOP LIXO
+![video lixo]
 
 But in today's world, manufacturers produce too much. Society discards too much. Any attempt at addressing this globally distributed local issue needs to aim at reducing the volume of things being discarded every day, everywhere. To my perspective, we should create ways to enable local groups to seize the potential value of things discarded or kept out of use. Yes, that includes your drawer full of stuff that you'll sort through next month. Or the month after that. Or next spring, maybe.
 
