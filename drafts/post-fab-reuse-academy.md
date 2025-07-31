@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-07-31T10:20:23.803Z
+date: 2025-07-31T15:07:43.940Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-31T08:59:17.409Z
 
 # Post-FAB - Reuse Academy
 
-This text is based on the notes I had prepared for a talk and a workshop at [FAB25] in Brno (Czechia), as well as insights based on other talks and conversations before and during the conference. It positions the [Reuse Academy], a project I started to conceptualise recently and expect to give more concrete steps towards in the coming months. The Reuse Academy builds on prior work - mine and of others - and is planned to be open and inclusive.
+This text is based on the notes I had prepared for a talk and a workshop at [FAB25](https://fab25.fabevent.org/) in Brno (Czechia), as well as insights based on other talks and conversations before and during the conference in Brno and Prague. It positions the **Reuse Academy**, a project I started to conceptualise recently and expect to give more concrete steps towards in the coming months. The Reuse Academy builds on prior work - mine and of others - and is planned to be open and inclusive.
 
 > Too long, don't want to read? Jump straight to the [Reuse Academy](#reuse-academy) section. I'll also update and keep maintaining processual documentation of the Reuse Academy through [this wiki page](https://wiki.reuse.city/en/solutions/academy). If you are interested and want to go deeper into this kind of topic, drop me a line and I'll invite you to a telegram group called _reuse city lab_.
 
@@ -18,7 +18,7 @@ The days in Czechia gave me the opportunity to chat with plenty of bright people
 
 ## (almost) a joke
 
-If I'm being honest, the idea of proposing a lightning talk for FAB25 with the title _"Reuse Academy: how to reuse (almost) anything"_ was partly a joke. Of course, I have been questioning the acritical adoption of digital fabrication as a simple answer to complex problems for more than a decade. That said, I certainly do see many positive aspects of the fab movement, in particular stemming from its roots connected to hands-on innovation and a strong focus on community-weaving. The main issue I have, though, is how the discourse centred on making and fabrication is narrowly perceived and adopted outside the fab world.
+If I'm being honest, the idea of proposing a lightning talk for FAB25 with the title *"Reuse Academy: how to reuse (almost) anything"* was partly a joke. Of course, I have been questioning the acritical adoption of digital fabrication as a simple answer to complex problems for more than a decade. That said, I certainly do see many positive aspects of the fab movement, in particular stemming from its roots connected to hands-on innovation and a strong focus on community-weaving. The main issue I have, though, is how the discourse centred on making and fabrication is narrowly perceived and adopted outside the fab world.
 
 Time and again, I've seen top-down 'fab' projects sidelining existing initiatives that had a deeper understanding of local realities, social aspirations, and the manifold challenges about territory, history, and culture that affect local realities. On some such occasions, grassroots organisations which had taken a long time crafting projects that made sense to their constituent communities eventually felt forced to label their work as 'making', changing their vocabulary and objectives to adapt to funding pressure from the institutions supporting them. When you change your vocabulary - not due to organic local dynamics but rather to adapt to what external funders expect from you -, you change your practices, assumptions, and expectations. And that often results in a situation of conforming to a market-oriented framing which generates outputs that are more valuable to external agents than the community they are supposed to benefit. In some cases, that phenomenon also produces microcelebrities more interested in aligning with external partners than in establishing meaningful conversation with their local peers. I'm concerned with the long-term effects of such dynamics.
 
