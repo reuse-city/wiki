@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-07-31T15:07:43.940Z
+date: 2025-07-31T15:25:58.693Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
