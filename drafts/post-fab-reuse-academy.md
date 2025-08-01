@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-01T10:47:14.424Z
+date: 2025-08-01T10:48:12.638Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -67,7 +67,7 @@ For now, suffice to say that things I learnt then kept coming back in most of my
 
 Ahead of my talk at FAB25, I already planned to mention the famous TED Talk given by Neil Gershenfeld in 2006. But his [opening session in Brno](https://www.youtube.com/watch?v=VSJ_2FYDYMs&t=1807s) made me add a slight diversion. So, before I return to the 2006 Neil, please allow me to refer to the 2025 one, particularly on two issues:
 
-- a seeming contradiction between _diversity and non-diversity_: people from everywhere, who nonetheless share a common trait: the drive to promote change \[and, I might add, a similar vocabulary on how to pursue that\].
+- a seeming contradiction between _diversity and non-diversity_: people from everywhere, who nonetheless share a common trait: the drive to promote change *\[and, I might add, a similar vocabulary on how to pursue that\]*.
 - the present goal of _scaling impact_ instead of merely counting the number of labs installed across the continents.
 
 My way of framing my talk and workshop could arguably relate to both of those considerations. First though, just to be clear, to my individual sensibility there was not enough diversity at FAB25. And I'm not even talking about skin color, accent, or gender spectrum - all of which felt narrower than I'd expect on any international conference in 2025. For the purposes of this text, I'm more interested in the diversity of vocabularies of change. In particular, I still hear an excessive focus on fabrication, machines, and sensors. And insufficient discussion about the reuse of goods and materials.
