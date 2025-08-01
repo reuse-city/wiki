@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-01T12:04:37.578Z
+date: 2025-08-01T13:46:05.204Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -36,13 +36,13 @@ What follows is an expanded version of what I tried to cover in my talk.
 
 ## Lightning talk: Reuse Academy
 
-![Reuse Academy](00_reuse-academy.png)
+![Reuse Academy](/img/00_reuse-academy.jpg)
 
 My talk juxtaposed things I've done over the years with insights on how they intersect with the fab world. It was probably a bit crammed - I had timed it to fit the 10 minutes slot, but decided on a whim to add a couple of extra slides based on my first impressions of FAB25. The pace was then a bit broken and I improvised a bit, so here is a more complete version.
 
 ### Who is FF?
 
-![01 FF](01_efeefe.jpg)
+![01_efeefe.jpg](/img/01_efeefe.jpg){.align-right}
 
 I am relatively a newcomer to the fab context, but not to some of community-oriented uses of digital technologies. Still, it's always good to start with a short introduction. Felipe, a.k.a. FF or "efe efe". I come from Brazil, and most of my work until 2019 was based there, while frequently cooperating internationally. In 2020, I moved to Berlin, where I still live nowadays. Being as brief as possible here, I've been active since the early 2000s in fields like:
 
@@ -55,7 +55,7 @@ I am relatively a newcomer to the fab context, but not to some of community-orie
 
 ### MetaReciclagem and more
 
-![02 MetaReciclagem](02_metareciclagem.jpg)
+![02 MetaReciclagem](/img/02_metareciclagem.jpg)
 
 Through the decades working in these fields, I collected hundreds of stories. For instance, in 2002 I was a co-founder of MetaReciclagem, setting up labs to refurbish computers discarded and donated by diverse actors. We'd set up “computer rooms” or “telecentres” in community associations, cultural centres, and schools. For historical context, about 20 years ago we set up what was probably the first open WiFi access point in a park in Brazil - and that was before any of us even had personal WiFi devices. It's even hard to imagine today, but at that time, the Internet was only available through cable connections. Wireless connectivity was a dream, something we craved. The idea of truly functional mobile Internet sounded like something out of science fiction.
 
@@ -69,6 +69,8 @@ Ahead of my talk at FAB25, I already planned to mention the famous TED Talk give
 
 - a seeming contradiction between _diversity and non-diversity_: people from everywhere, who nonetheless share a common trait: the drive to promote change *\[and, I might add, a similar vocabulary on how to pursue that\]*.
 - the present goal of _scaling impact_ instead of merely counting the number of labs installed across the continents.
+
+![03_25-neil.jpg](/img/03_25-neil.jpg)
 
 My way of framing my talk and workshop could arguably relate to both of those considerations. First though, just to be clear, to my individual sensibility there was not enough diversity at FAB25. And I'm not even talking about skin color, accent, or gender spectrum - all of which felt narrower than I'd expect on any international conference in 2025. For the purposes of this text, I'm more interested in the diversity of vocabularies of change. In particular, I still hear an excessive focus on fabrication, machines, and sensors. And insufficient discussion about the reuse of goods and materials.
 
@@ -86,7 +88,7 @@ An attentive eye can see that happening when the supposed change-maker thinks th
 
 Delicate power dynamics may arise in such situations, particularly when the outsider is backed by external funding, has formal institutional recognition, or is the only technologically savvy person in the conversation. Such imbalances add pressure to the exchange and will frequently tilt decision-making away from the real needs of local communities. To mitigate such undesired effects, perhaps we should aim not at impacting communities, but rather _embracing and caring_ for them.
 
-![03 Neil](03_neil.jpg
+![04_06-neil.jpg](/img/04_06-neil.jpg)
 
 All that leads me back to the 2006 Neil. [This video](https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab) was watched almost a million times on the TED website alone, and one can suppose thousands more on other platforms. It was an important seed for what the fab movement became. In addition to stating that “the digital revolution is over, and we have won”, that talk brought other essential points. And honestly, it disappoints me to see that many members of fab communities seem to have missed a crucial part. I mean this one:
 
@@ -148,7 +150,11 @@ Through all these years, I have collected stories. Hundreds of them, perhaps mor
 
 ### Ubatuba
 
-![Ubatuba centro](05_ubatuba-01.jpg
+![07_ubatuba.jpg](/img/07_ubatuba.jpg)
+
+*Photo [CC-BY-SA Bruno Amir / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_Ubatuba.png)*
+
+---
 
 This is [Ubatuba](https://en.wikipedia.org/wiki/Ubatuba). An amazing place. It's situated where our Atlantic Coast is crossed by the Tropic of Capricorn. It has almost 100 beaches, waterfalls, communities of indigenous, quilombola and fishing cultures, and a high proportion of preserved Atlantic Rainforest. The population is a little over 100,000 for most of the year, and in the summer it grows manifold due to vacationing.
 
@@ -160,9 +166,9 @@ Of course, while living there, I tried to do my part. Most of the time as a volu
 
 More importantly, though, I was always seeking ways to engage, learn with, and support grassroots and community-based organisations. I wanted my experience, networks, and skills to be useful in changing local reality for the better. 
 
-![](ubatuba-ucs.jpg
+![Ubatuba Forest](/img/08_ubatuba.jpg)
 
-Ubatuba is indeed a natural haven. One of the structural conditions for the existence of its largely preserved areas - very rare amid the Atlantic Rainforest otherwise destroyed through centuries of colonial extraction - are its environmental Conservation Units. You can see in this image parts of a state park, a national park, and a marine preservation area. That is not a coincidence, of course. Rather, it results from political organisation, popular education, and grounded activism.
+Ubatuba is indeed a natural haven, as you can seen in this image generated on [MapBiomas](https://mapbiomas.org/). The light green area shows the proportion of preserved Atlantic Forest in the territory. One of the structural conditions for the existence of its largely preserved areas - very rare amid the Atlantic Rainforest otherwise destroyed through centuries of colonial extraction - are its environmental Conservation Units. The municipality has parts of a state park, a national park, and a marine preservation area. That is not a coincidence, of course. Rather, it results from political organisation, popular education, and grounded activism.
 
 Affected communities have been able to slow down and sometimes block completely the plans of those people with money and power always trying either to transform lush forest into concrete and asphalt (paraphrasing my friend Juan Prada) - or to fence off the attractive places and allow them only to be used by themselves and their guests.
 
