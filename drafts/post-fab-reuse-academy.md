@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-07-31T15:25:58.693Z
+date: 2025-08-01T10:47:14.424Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -156,7 +156,7 @@ I love that place. Lived there for 11 happy years.
 
 I love the place, I must say, even being fully aware that it is not a complete paradise - despite what a clever photo selection might suggest. Ubatuba suffers the effects of contemporary contradictions just as much as any other place on earth. Social inequality, political polarisation, [climate fatigue](https://is.efeefe.me/stuff/fbr/climate-fatigue-convivial-futures), mindless consumerism, hyper-individualism and its consequences. The seemingly inevitable battle between growth and sustainability. Dominant classes with little regard for the real needs of the people. Contemporary condition, no less.
 
-Of course, while living there, I tried to do my part. Most of the time as a volunteer, sometimes investing my time and money, occasionally making enough to cover costs. I set up an experimental lab, founded a nonprofit co-working space, helped a community radio digitise their operation. I created and organised four editions of an [international festival on arts, science and technology](https://is.efeefe.me/stuff/fbr/climate-fatigue-convivial-futures).  I taught computer maintenance to 15-year-olds at a local technical school. I was elected as the representative of digital and urban cultures on the local Advisory Board for Cultural Policy, and almost succeeded in creating a similar policy board for science and technology. I pitched for a participatory action research project on open and collaborative science with a well-reputed research institute, got it and [co-led the project](https://cienciaaberta.ubatuba.cc).
+Of course, while living there, I tried to do my part. Most of the time as a volunteer, sometimes investing my time and money, occasionally making enough to cover costs. I set up an experimental lab, founded a nonprofit co-working space, helped a community radio digitise their operation. I created and organised four editions of an [international festival on arts, science and technology](https://tropixel.org).  I taught computer maintenance to 15-year-olds at a local technical school. I was elected as the representative of digital and urban cultures on the local Advisory Board for Cultural Policy, and almost succeeded in creating a similar policy board for science and technology. I pitched for a participatory action research project on open and collaborative science with a well-reputed research institute, got it and [co-led the project](https://cienciaaberta.ubatuba.cc).
 
 More importantly, though, I was always seeking ways to engage, learn with, and support grassroots and community-based organisations. I wanted my experience, networks, and skills to be useful in changing local reality for the better. 
 
@@ -174,7 +174,7 @@ Since then, Ubatuba has had to spend a significant part of its monthly budget to
 
 The nice lady in the picture with me is Gilda Godoy, founder of Coco e Cia. They are a recycling cooperative led by black women, operating in a marginalised neighbourhood of Ubatuba. CeC provides decent and fair work for vulnerable people. Just as importantly, they help mitigate one of the worst and more widespred consequences of global capitalism: the growing mountains of waste produced every single day.
 
-This makes the work of Gilda, Simone, Josi, and the cooperative members even more valuable. After all, they are reducing significantly the load of trash to be incinerated uphill and diverting it to recycling facilities. You'd think that the municipality would be happy to work with them. But of course things are not always that smooth. After all, they are a democratically run coop, politically organised, well networked, and doing the right things. If Coco was a profit-oriented private company whose owners were part of the local elites and had no problem exploiting their workforce, things would probably be easier, but that's not the point here. Thankfully, they are members of the National Waste Pickers' Movement ([MNCR](https://loja.mncr.org.br/)), which is quite strong in Brazil. Each small victory CeC has is the result of alliances, negotiations, and struggle.
+This makes the work of Gilda, Simone, Josi, and the cooperative members even more valuable. After all, they are reducing significantly the load of trash to be incinerated uphill and diverting it to recycling facilities. You'd think that the municipality would be happy to work with them. But of course things are not always that smooth. After all, they are a democratically run coop, politically organised, well networked, and doing the right things. If Coco was a profit-oriented private company whose owners were part of the local elites and had no problem exploiting their workforce, things would probably be easier, but that's not the point here. Thankfully, they are members of the National Waste Pickers' Movement ([MNCR](https://www.mncr.org.br/)), which is quite strong in Brazil. Each small victory CeC has is the result of alliances, negotiations, and struggle.
 
 Even living abroad for some years now, every time I visit Brazil, I pay them a visit. I learnt a lot from CeC and its leadership. One of the first such lessons happened before I left Ubatuba, likely in 2018. I had the opportunity to appoint one organisation to receive a small grant (USD 5,000) from an international foundation. No strings attached.
 
@@ -218,6 +218,6 @@ There are currently no manuals for this kind of plan. And it's not only about tr
 
 The final question of this rather long text is: do we need Fab Labs to create reuse strategies for every city, town, and region? Not necessarily. But can such strategies benefit from having purposeful and well-trained change agents who respect and embrace local realities? Definitely. If you read this through (or if you jumped straight here, I don't mind), take this as an invitation. Let's create that. And while we're at it:
 
-- If you are already involved with any kind of material reuse initiative, please help our project on the material valuer curriculum by filling [this survey]. It's fast, most questions are optional, and it would be great to have your take on it.
+- If you are already involved with any kind of material reuse initiative, please help our project on the material valuer curriculum by filling [this survey](https://forms.gle/ArxtMa3YLewLkt358). It's fast, most questions are optional, and it would be great to have your take on it.
 - I'm available to discuss these and other topics - here's my zcal link and LinkedIn profile.
 - For more on repair, reuse and upcycling and multiple other versions of most of my arguments above, check the [Reuse City wiki](https://wiki.reuse.city).
