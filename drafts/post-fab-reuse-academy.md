@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-01T10:48:12.638Z
+date: 2025-08-01T12:02:06.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -36,15 +36,15 @@ What follows is an expanded version of what I tried to cover in my talk.
 
 ## Lightning talk: Reuse Academy
 
+![Reuse Academy](00_reuse-academy.jpg)
+
 My talk juxtaposed things I've done over the years with insights on how they intersect with the fab world. It was probably a bit crammed - I had timed it to fit the 10 minutes slot, but decided on a whim to add a couple of extra slides based on my first impressions of FAB25. The pace was then a bit broken and I improvised a bit, so here is a more complete version.
 
-### Who is this guy?
+### Who is FF?
 
-![01 efeefe](01_efeefe.jpg
+![01 efeefe](01_efeefe.jpg)
 
-I come from Brazil, and most of my work until 2019 was based there, while frequently cooperating internationally. In 2020, I moved to Berlin, where I still live nowadays.
-
-I am relatively a newcomer to the fab context, but not to some of community-oriented uses of digital technologies. Being as brief as possible here, I've been active since the early 2000s in fields like:
+I am relatively a newcomer to the fab context, but not to some of community-oriented uses of digital technologies. Still, it's always good to start with a short introduction. Felipe, a.k.a. FF or "efe efe". I come from Brazil, and most of my work until 2019 was based there, while frequently cooperating internationally. In 2020, I moved to Berlin, where I still live nowadays. Being as brief as possible here, I've been active since the early 2000s in fields like:
 
 - community informatics and digital inclusion
 - digital culture, open-source culture, creative commons
@@ -55,7 +55,7 @@ I am relatively a newcomer to the fab context, but not to some of community-orie
 
 ### MetaReciclagem and more
 
-![02 MetaReciclagem](02_metareciclagem-01.jpg
+![02 MetaReciclagem](02_metareciclagem.jpg)
 
 Through the decades working in these fields, I collected hundreds of stories. For instance, in 2002 I was a co-founder of MetaReciclagem, setting up labs to refurbish computers discarded and donated by diverse actors. We'd set up “computer rooms” or “telecentres” in community associations, cultural centres, and schools. For historical context, about 20 years ago we set up what was probably the first open WiFi access point in a park in Brazil - and that was before any of us even had personal WiFi devices. It's even hard to imagine today, but at that time, the Internet was only available through cable connections. Wireless connectivity was a dream, something we craved. The idea of truly functional mobile Internet sounded like something out of science fiction.
 
