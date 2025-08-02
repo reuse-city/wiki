@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-01T13:46:05.204Z
+date: 2025-08-02T23:13:44.219Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -10,11 +10,11 @@ dateCreated: 2025-07-31T08:59:17.409Z
 
 # Post-FAB - Reuse Academy
 
-This text is based on the notes I had prepared for a talk and a workshop at [FAB25](https://fab25.fabevent.org/) in Brno (Czechia), as well as insights based on other talks and conversations before and during the conference in Brno and Prague. It positions the **Reuse Academy**, a project I started to conceptualise recently and expect to give more concrete steps towards in the coming months. The Reuse Academy builds on prior work - mine and of others - and is planned to be open and inclusive.
+This text is based on the notes I had prepared for a talk and a workshop at [FAB25](https://fab25.fabevent.org/) in Brno (Czechia), as well as insights based on other talks and conversations before and during the conference in Brno and Prague. It positions the groundwork and first insights leading to the **Reuse Academy**, a project I started to conceptualise recently and expect to give more concrete steps towards in the coming months. The Reuse Academy builds on prior work - mine and of others - and is planned to be open and inclusive.
 
-> Too long, don't want to read? Jump straight to the [Reuse Academy](#reuse-academy) section. I'll also update and keep maintaining processual documentation of the Reuse Academy through [this wiki page](https://wiki.reuse.city/en/solutions/academy). If you are interested and want to go deeper into this kind of topic, drop me a line and I'll invite you to a telegram group called _reuse city lab_.
+The days in Czechia gave me the opportunity to chat with plenty of bright people, refine ideas, and acquire new perspectives. Good parts of the text below will be nothing new to those who already read my [previous writing](https://is.efeefe.me/stuff) on inclusive circularity, communities, and material reuse. In any case, the tension between [reiteration and divergence](https://fbr.efeefe.me/fbr/ritualised-repetitions) is central to my way of doing things (as some of you may be aware), so I'm posting this longish - while arguably redundant - version.
 
-The days in Czechia gave me the opportunity to chat with plenty of bright people, refine ideas, and acquire new insights. Good parts of the text below are nothing new to those who already read my [previous writing](https://is.efeefe.me/stuff) on inclusive circularity, communities, and material reuse. In any case, the tension between [reiteration and divergence](https://fbr.efeefe.me/fbr/ritualised-repetitions) is central to my way of doing things (as some of you may be aware), so I'm posting this longish - while arguably redundant - version.
+> *Too long, won't read?* Jump straight to the [Reuse Academy](#reuse-academy) section. I'll also update and keep maintaining processual documentation of the project through [this wiki page](https://wiki.reuse.city/en/solutions/academy). If you are interested and want to go deeper into this and similar topics, drop me a line and I'll invite you to a telegram group called _reuse city lab_.
 
 ## (almost) a joke
 
