@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-02T23:37:35.886Z
+date: 2025-08-02T23:38:49.594Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -71,7 +71,7 @@ Ahead of my talk at FAB25, I already planned to mention the famous TED Talk give
 
 ![03_25-neil.jpg](/img/03_25-neil.jpg)
 
-My way of framing my talk and workshop could arguably relate to both of those considerations. First though, just to be clear, to my individual sensibility there was not enough diversity at FAB25. And I'm not even talking about skin color, accent, or gender spectrum - all of which felt narrower than I'd expect on any international conference in 2025. For the purposes of this text, I'm more interested in the diversity of vocabularies of change. In particular, I still hear an excessive focus on fabrication, machines, and sensors. And insufficient discussion about the reuse of goods and materials.
+My way of framing my own talk and workshop for FAB25 could arguably relate to both of those considerations. First though, I must add that to my individual sensibility there was not enough diversity at FAB25. And I'm not even talking about skin color, accent, or gender spectrum - all of which felt narrower than I'd expect on an international conference in 2025. For the purposes of this text, I'm more interested in the diversity of vocabularies of change. In particular, I still hear an excessive focus on fabrication, machines, and sensors. And insufficient discussion about the reuse of goods and materials.
 
 Well of course, one could say, _it's the **FAB** conference, why wouldn't people be discussing... fabrication?_. And that is precisely the point of my talk. I see fabrication as necessary and full of potential, but not the ultimate solution for every problem in the world. And being among so many dedicated and purpose-oriented people in Czechia reinforced the sensation that a lot of talent is being _wasted_ on misguided techno-solutionism. And of course, I'm not a fan of waste - either as a noun or a verb.
 
