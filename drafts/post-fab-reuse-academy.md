@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-02T23:18:09.577Z
+date: 2025-08-02T23:19:11.988Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -22,7 +22,7 @@ If I'm being honest, the idea of proposing a lightning talk for FAB25 with the t
 
 Time and again, I've seen top-down 'fab' projects sidelining existing initiatives that had a deeper grasp of local realities, social aspirations, and understood the manifold challenges about territory, history, and culture affecting local realities. On some such occasions, grassroots organisations which had taken a long time crafting projects that made sense to and were trusted by their constituent communities eventually felt forced to label their work as 'making', changing their vocabulary and objectives to adapt to funding pressure from the institutions supporting them. When you change your vocabulary - not by virtue of organic local dynamics but rather to adapt to what external funders expect your initiative to perform -, you change your practices, assumptions, and expectations. That often results in a situation of conforming to a market-oriented framing which generates outputs more valuable to external agents than to the community they are supposed to benefit. In some cases, that phenomenon also produces microcelebrities more interested in aligning with external partners than in establishing meaningful conversation with their local peers. I'm concerned with the long-term effects of such dynamics.
 
-Of course, those contradictions are not exclusive to the fab and maker movements. I remember once talking to a pioneer of open-source and being particularly disappointed as he described an educational project of his creation. He said something to the effect of “you do something here, learn from it, and replicate it everywhere. As a cookie cutter”. That is one of the problems I have with technosolutionism. Expecting that any solution can be simply scaled and replicated everywhere else is a false assumption. Especially regarding complex social, economic and political issues. I prefer my cookies to be shaped by human hands.
+Of course, those contradictions are not exclusive to the fab and maker movements. I remember once talking to a pioneer of open-source softwate and feeling uncomfortable as he described an educational project of his creation. He said something to the effect of “we do something here, learn from it, and replicate it everywhere - as a cookie cutter”. That is one of the problems I have with technosolutionism. Expecting that any solution can be simply scaled and replicated everywhere else by repetition is a misleading assumption. Especially regarding complex social, economic and political issues. I prefer my cookies to be shaped by human hands.
 
 To be clear: of course the fab community - or more precisely, the smart and well-intentioned people who constitute a great part of the fab community - has a huge potential to help achieve the kind of much needed change to face the challenges of present times. Many of those people have concretely enabled transformative practices in many parts of the world for years already. But we must be conscious of how a superficial and homogeneous vision of digital making frequently imposes biases and tilts power balance on many localities. While there are many fields of activity in which these effects can be seen, this text focuses on the topics that interest me most: the reuse of materials that still retain potential value.
 
