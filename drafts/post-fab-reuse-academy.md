@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-02T23:25:57.985Z
+date: 2025-08-02T23:37:35.886Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -36,17 +36,18 @@ Lately, though, I've noticed that many people that I admire (for instance those 
 
 ![Reuse Academy](/img/00_reuse-academy.jpg)
 
-My talk juxtaposed things I've done over the years with insights on how they intersect with the fab world. It was probably a bit crammed - I had timed it to fit the 10 minutes slot, but decided on a whim to add a couple of extra slides based on my first impressions of FAB25. The pace was then a bit broken and I improvised a bit, so here is a more complete version.
+My talk in Brno juxtaposed things I've done over the years with insights on how they intersect with the fab world. It was probably a bit crammed - I had timed it to fit the 10 minutes slot, but decided on a whim to add a couple of extra slides based on my first impressions of FAB25. The pace was then a bit broken and I improvised a bit, but here is an even longer version.
 
 ### Who is FF?
 
 ![01_efeefe.jpg](/img/01_efeefe.jpg){.align-right}
 
-I am relatively a newcomer to the fab context, but not to some of community-oriented uses of digital technologies. Still, it's always good to start with a short introduction. Felipe, a.k.a. FF or "efe efe". I come from Brazil, and most of my work until 2019 was based there, while frequently cooperating internationally. In 2020, I moved to Berlin, where I still live nowadays. Being as brief as possible here, I've been active since the early 2000s in fields like:
+I am a relative newcomer to the fab context, but not to community-oriented uses of digital technologies. Still, it may be good to start with a short introduction. Felipe, a.k.a. FF or "efe efe". I come from Brazil, and most of my work until 2019 was based there, while frequently cooperating internationally. In 2020, I moved to Berlin, where I still live nowadays. Being as brief as possible here, I've been active since the early 2000s in fields like:
 
 - community informatics and digital inclusion
-- digital culture, open-source culture, creative commons
-- critical making, hacklabs and makerspaces
+- digital culture, creative commons, open-source culture and technology 
+- critical making, hacklabs, and makerspaces
+- e-waste, reuse, inclusive circularity
 - arts + tech labs
 - citizen and open science
 - participatory design research
@@ -55,11 +56,11 @@ I am relatively a newcomer to the fab context, but not to some of community-orie
 
 ![02 MetaReciclagem](/img/02_metareciclagem.jpg)
 
-Through the decades working in these fields, I collected hundreds of stories. For instance, in 2002 I was a co-founder of MetaReciclagem, setting up labs to refurbish computers discarded and donated by diverse actors. We'd set up “computer rooms” or “telecentres” in community associations, cultural centres, and schools. For historical context, about 20 years ago we set up what was probably the first open WiFi access point in a park in Brazil - and that was before any of us even had personal WiFi devices. It's even hard to imagine today, but at that time, the Internet was only available through cable connections. Wireless connectivity was a dream, something we craved. The idea of truly functional mobile Internet sounded like something out of science fiction.
+Through the decades working in these fields, I collected hundreds of stories. For instance, in 2002 I was a co-founder of MetaReciclagem, an open network setting up labs to refurbish computers discarded and donated by diverse actors. We'd set up “computer rooms” or “telecentres” in community associations, cultural centres, and schools. For historical context, about 20 years ago we set up what was probably the first open WiFi access point in a park in Brazil - and that was before any of us even had personal WiFi devices. It may be hard for newer generations, but at that time, the Internet was only available through bulky computers and cable connections. You would typically use it sitting on a chair. Wireless connectivity was a dream, something we craved. The idea of truly functional mobile Internet sounded like something out of science fiction.
 
-My formative years were around the turn of the century and the early 2000s. Which means I started as a blogger, so you can find documentation of most of what I've done over these decades in [my website](https://is.efeefe.me/stuff). A good part of it is of course in Portuguese, but nowadays it's less of an obstacle than it used to be in the past.
+My formative years were around the turn of the century and the early 2000s - when we were on the left were the ones against globalisation an proposing to break with mainstream politics. Another world should be possible, as we tried to articulate on the [World Social Forum](https://en.wikipedia.org/wiki/World_Social_Forum). The Internet was growing and looked promising. We were finally able to have our own media. And yes, I started as a blogger, so open documentation was always at the centre of most of what I've done over these decades. Some samples can still be found on [my current website](https://is.efeefe.me/stuff). A good part of it is of course in Portuguese, but nowadays it's less of an obstacle than it used to be in the past.
 
-For now, suffice to say that things I learnt then kept coming back in most of my following projects. I can try to define my field of work as an _open-source_, _open-ended_ approach to _hands-on community engagement_. And I reckon all of those topics are familiar and relevant to the fab movement.
+For now, suffice to say that things I learnt since those early times kept coming back in most of my following projects. I can try to define my field of work as an _open-source_, _open-ended_ approach to _commons-oriented community engagement_ grounded on the _hands-on critical appropriation of technologies and materials_. And I reckon all of those topics are familiar and relevant to the fab movement.
 
 ### Two Neils
 
