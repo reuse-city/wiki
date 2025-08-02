@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-02T23:25:36.245Z
+date: 2025-08-02T23:25:57.985Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -30,7 +30,7 @@ My decades of community-oriented work have always privileged repair and reuse ov
 
 The half-joke comes partly from my feeling of lying at the border. Until recently, I would certainly not consider myself part of the fab community. As I wrote some years ago, I'm [more of a _gambiarra_ kind of guy](https://is.efeefe.me/stuff/gambiarra-repair-culture). Though arguably elements like improvisation (and failures), repurposing, and technological disobedience are very much present on the daily life of Fab Labs and makerspaces, those are not among their most celebrated aspects in public discourse. Furthermore, my personal journey took a parallel path for some years since I first heard about Fab Labs. I went for deep dives on [experimental digital culture](https://redelabs-org.github.io/), [open and collaborative science](https://cienciaaberta.ubatuba.cc/), [design for community initiatives](https://semente.de), among other topics.
 
-Lately, though, I've noticed that many people that I admire (for instance those that I met through [GOSH](https://forum.openhardware.science/) and [GIG](https://globalinnovationgathering.org/)) and whose opinions I deeply respect are indeed involved with the fab context. That led me to pay more attention and eventually submit two proposals accepted for this year's programme: the lightning talk I just mentioned above, and a longer "theoretical workshop" to discuss ideas around a project I'm currently leading at GIG: the [Circular Material Valuer Curriculum](https://wiki.reuse.city/en/projects/circular-valuer-curriculum). What follows is an expanded version of what I tried to cover in my talk, with some expansions that I touched upon in the workshop and some stories that didn't fit my time slots in Czechia.
+Lately, though, I've noticed that many people that I admire (for instance those that I met through [GOSH](https://forum.openhardware.science/) and [GIG](https://globalinnovationgathering.org/)) and whose opinions I deeply respect are indeed involved with the fab context. That led me to pay more attention and eventually submit two proposals accepted for this year's programme: the lightning talk I just mentioned above, and a longer "theoretical workshop" to discuss ideas around a project I'm currently leading at GIG: the [Circular Material Valuer Curriculum](https://wiki.reuse.city/en/projects/circular-valuer-curriculum). What follows is an expanded version of what I tried to cover in my talk, with some expansions that I touched upon in the workshop and some additional stories and references.
 
 ## Lightning talk: Reuse Academy
 
