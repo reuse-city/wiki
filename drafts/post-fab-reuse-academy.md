@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T12:00:41.548Z
+date: 2025-08-03T12:12:41.409Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -147,6 +147,8 @@ Building and maintaining that network taught all of us quite a lot about commons
 - The [Brazilian Digital Culture](https://web.archive.org/web/20200428202319/http://culturadigital.br/) strategy (Internet Archive copy), implemented chiefly through the Pontos de Cultura program.
 - [Repair Culture](https://is.efeefe.me/stuff/vcuq-residency), a design residency in Qatar.
 - [TransforMatéria](https://is.efeefe.me/opendott/transformateria), an open investigation on the contact points between repair, recycling, digital making, and traditional craft - including a design residency in France and a research visit in Germany.
+
+![Residencies](/img/05_residencies.jpg)
 
 Those experiences would later be instrumental in writing my doctoral thesis titled "[Generous cities](https://wiki.reuse.city/en/opendott/thesis)", wherein I discuss the reuse of materials through community-based practices of repair, upcycling, re-circulation and re-purposing. More recently, I also started an experimental research diary called "[Future Beyond Repair](https://fbr.efeefe.me)".
 
