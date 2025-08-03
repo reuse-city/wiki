@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T01:16:26.462Z
+date: 2025-08-03T11:08:49.620Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -118,7 +118,7 @@ A community, in my view, is not an easily definable and homogeneous entity facin
 
 Think of a community you feel part of: would it be at all significant if every member had the same opinion about everything? Would it feel like a true and healthy community?
 
-One of the authors I most consistently quote in my texts is the Spanish scholar Antonio Lafuente, whose work on the concept of _common science_ has inspired many of my projects. Lafuente [discusses the idea](https://mxfractal.org/RevistaFractal57AntonioLafuente.html) of _affected communities_ as central to any honest attempt to generate knowledge and technology that truly addresses real people's problems instead of only partially working around the usual biases of scientists and technologists. If we are to promote transformative positive change (be it by *scaling impact* or more nuanced formulations), affected communities should be involved from the start. I'd also add that communities should indeed have the right to even refuse innovations, when they find them irrelevant or to be driving attention away from real issues.
+One of the authors I most repeatedly quote in my texts is the Spanish scholar Antonio Lafuente, whose work on the concept of _common science_ has inspired many of my projects. Lafuente [discusses the idea](https://mxfractal.org/RevistaFractal57AntonioLafuente.html) of _affected communities_ as central to any honest attempt to generate knowledge and technology that truly addresses real people's problems instead of only partially working around the usual biases of scientists and technologists. If we are to promote transformative positive change (be it by *scaling impact* or more nuanced formulations), affected communities should be involved from the start. I'd also add that communities should indeed have the right to even refuse innovations, when they find them irrelevant or to be driving attention away from real issues.
 
 Reinforcing the point about externally-oriented agents and locally-rooted _network weavers_, another of my often-cited authors, John Thackara, recently wrote the following [commented on a LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7341070960566919168?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7341070960566919168%2C7341408924874477568%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287341408924874477568%2Curn%3Ali%3Aactivity%3A7341070960566919168%29):
 
@@ -132,15 +132,15 @@ To achieve that in communities, we need true dialog - with respect for embodied 
 
 ### Connecting, reflecting, and wandering
 
-As already mentioned, I was one of the founders of the MetaReciclagem network in Brazil, 22 years ago. MetaReciclagem would grow through what we called *spores*: autonomous labs that maintained loose connections with each other. But each of them was rather idiosyncratic and deeply adapted to their local context. There was no requirement for a common methodology or approach other than following three basic principles:
+As already mentioned, I was one of the founders of the MetaReciclagem network in Brazil, 22+ years ago. MetaReciclagem grew through what we called *spores*: loosely connected autonomous labs. Each spore was rather idiosyncratic and deeply adapted to its local context. There was no requirement for a common overall methodology, setup, or approach other than following three basic principles:
 
 - promoting the critical appropriation of digital technologies;
-- using and developing open solutions;
-- documenting activities, findings, and insights on a shared online infrastructure.
+- using and developing open technologies, methods, and culture;
+- documenting activities, findings, and insights using a shared online infrastructure - most of the time, that meant an email group and a wiki, or wiki-inspired, website.
 
-Building and maintaining that network taught all of us quite a lot about commons-oriented takes on technological appropriation, tactical creativity, and vernacular innovation in Brazilian cultures. It was the first in a series of open and collaborative initiatives I was part of. Project websites from those times are still around, also mainly in Portuguese. Here are some of them, if anyone is interested: 
+Building and maintaining that network taught all of us quite a lot about commons-oriented takes on technological appropriation, tactical creativity, and vernacular innovation in Brazilian cultures. I would go on investigating and building initiatives on those fields. Project websites from those times are still around - also mainly in Portuguese. Here are some of them, if anyone is interested: 
 
-- The [MetaReciclagem](https://metareciclagem.github.io/) network.
+- The archived [MetaReciclagem](https://metareciclagem.github.io/) website.
 - [Mutirão da Gambiarra](https://mutgamb.github.io/), a collaborative editorial collective discovering and documenting MetaReciclagem actions.
 - The advocacy group [Lixo Eletrônico](https://web.archive.org/web/20140804165140/http://www.lixoeletronico.org/) (Internet Archive copy), contributing to the inclusion of EEE in the Brazilian Solid Waste legislation.
 - [Desvio](https://desvio.github.io/), an experimental lab about electronic arts and waste.
