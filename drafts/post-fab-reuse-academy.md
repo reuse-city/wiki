@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T14:15:53.685Z
+date: 2025-08-03T14:17:55.412Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -205,7 +205,7 @@ The material origins of waste can, of course, be easily traced if one follows in
 
 ---
   
-In today's world, manufacturers produce too much. Society discards too much. Any honest attempt at addressing this globally distributed local condition needs to aim at reducing the volume of things that end up in the waste stream every day, everywhere. And while the path towards more sustainable manufacturing practices is being built, we should create ways to enable local groups to seize the potential value of things discarded or kept out of use. Yes, that includes your drawer full of stuff that you'll sort through next month. Or the month after that. Or next spring, maybe.
+In today's world, manufacturers produce too much. Society discards too much. Any honest attempt at addressing this globally distributed local condition needs to aim at reducing the volume of things that end up in the waste stream every day, everywhere. And while the path towards more sustainable manufacturing practices is being built, we should create ways to enable local communities to seize the potential value of things discarded or kept out of use. Yes, that includes that drawer full of stuff that you'll sort through next month - or the month after that, or next spring, maybe.
 
 There is of course room for significant innovation here, from diverse approaches. Better collection and sorting. Improved recycling processes. Smart procurement. Tracking material provenance and destination to ensure compliance with regulations. Educational campaigns. Incentive systems that reward sustainable behaviour.
 
