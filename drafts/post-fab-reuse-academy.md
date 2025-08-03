@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T13:39:55.639Z
+date: 2025-08-03T13:43:15.132Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -201,7 +201,7 @@ The material origins of waste can, of course, be easily traced if one follows in
   Embedded video player
 </video>
 
-*[CC Tom Fisk / Pexels](https://www.pexels.com/video/a-pile-of-trash-in-bird-s-eye-view-3181041/)*
+*Video [CC Tom Fisk / Pexels](https://www.pexels.com/video/a-pile-of-trash-in-bird-s-eye-view-3181041/)*
 
 ---
   
