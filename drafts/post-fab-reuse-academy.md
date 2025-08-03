@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T15:59:00.654Z
+date: 2025-08-03T16:18:23.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -205,11 +205,9 @@ The material origins of waste can, of course, be easily traced if one follows in
 
 ---
   
-In today's world, manufacturers produce too much. Society discards too much. Any honest attempt at addressing this globally distributed local condition needs to aim at reducing the volume of things that end up in the waste stream every day, everywhere. And while the path towards more sustainable manufacturing practices is being built, we should create ways to enable local communities to seize the potential value of things discarded or kept out of use. Yes, that includes that drawer full of stuff that you'll sort through next month - or the month after that, or next spring, maybe.
+On this day and age, a global industry-oriented economy produces too much. Society discards too much. Everywhere. Any honest attempt at addressing this globally distributed local condition needs to aim at reducing the volume of things that end up in the waste stream every day. And just as the path towards more sustainable manufacturing practices is being built, we must simultaneously create ways to enable local communities to seize today the potential value of things discarded or kept out of use. Yes, that includes that drawer full of stuff that you'll sort through next month - or the month after that, or next spring, maybe.
 
-There is of course room for significant innovation here, from diverse approaches. Better collection and sorting. Improved recycling processes. Smart procurement. Tracking material provenance and destination to ensure compliance with regulations. Educational campaigns. Incentive systems that reward sustainable behaviour.
-
-My 2 cents to the discussion presently relate to knowledge and skills to increase the reuse of materials. Investment in waste prevention and material reuse is proven to generate better societal outcomes than sorting, collecting, or recycling. And there are significant benefits - beyond economic ones - of adopting commons-based approaches for material reuse at the local and community level.
+There is, of course, room for significant innovation here, adopting quite approaches. Better collection and sorting. Improved recycling processes. Smart procurement. Tracking the material provenance and destination of goods to ensure compliance with regulations. Educational campaigns. Incentive systems that reward sustainable behaviour. Investment in waste prevention and material reuse is proven to generate better societal outcomes than sorting, collecting, or recycling. And there are significant benefits - beyond economic ones - of adopting commons-based approaches for material reuse at the local and community level.
 
 It's always useful to think of cities and towns as large-scale makerspaces: practically every human settlement from the smallest of villages to the largest megacity has facilities and workshops with machines and equipment, skilled and experienced people, and varied amounts of materials waiting to be put into use. The people in many of those facilities are seldom aware of fab labs and makerspaces, and talking to them may be hard at times in terms of vocabulary, worldview, and expectations. But while I do see how it's reassuring to find a global community of like-minded people in events like the FAB Conferences, my argument is that promoting effective and caring positive change in the world requires more. Willing changemakers need to embrace the idea of engaging with real people who think and act in ways radically different from theirs.
 
