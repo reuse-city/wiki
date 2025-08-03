@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T01:11:48.068Z
+date: 2025-08-03T01:16:26.462Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -170,13 +170,11 @@ More importantly, though, I was always seeking ways to engage, learn with, and s
 
 ![Ubatuba Forest](/img/08_ubatuba.jpg)
 
-Ubatuba is indeed a natural haven, as you can seen in this image generated on [MapBiomas](https://mapbiomas.org/). The light green area shows the proportion of preserved Atlantic Forest in the territory. One of the structural conditions for the existence of its largely preserved areas - very rare amid the Atlantic Rainforest otherwise destroyed through centuries of colonial extraction - are its environmental Conservation Units. The municipality has parts of a state park, a national park, and a marine preservation area. That is not a coincidence, of course. Rather, it results from political organisation, popular education, and grounded activism.
+Ubatuba is indeed a natural haven, as you can seen in this image generated on [MapBiomas](https://mapbiomas.org/). The light green area shows the proportion of preserved areas in the territory: upwards of 80%. One of the structural conditions for the existence of its largely preserved areas - very rare amid the [Atlantic Forest](https://en.wikipedia.org/wiki/Atlantic_Forest) otherwise destroyed through centuries of colonial extraction - are its environmental Conservation Units. The municipality has parts of a state park, a national park, and a marine preservation area. That is not a coincidence, of course. Rather, it results from political organisation, popular education, and grounded activism.
 
-Affected communities have been able to slow down and sometimes block completely the plans of those people with money and power always trying either to transform lush forest into concrete and asphalt (paraphrasing my friend Juan Prada) - or to fence off the attractive places and allow them only to be used by themselves and their guests.
+Affected communities have been able to slow down and sometimes block completely the plans of those people with money and power always trying either to transform lush forest into concrete and asphalt (paraphrasing my friend Juan Prada) - or to fence off the attractive places and allow them only to be used by themselves and their guests. Resulting from the side effects of a global economic system based on excess and wastefulness, some decades ago the local landfill in Ubatuba exhausted its capacity. And the environmental regulations made it impractical to license new landfills. Thankfully, in some senses; but also problematic in others.
 
-Resulting from the side effects of a global economic system based on excess and wastefulness, a couple of decades ago the local landfill exceeded its capacity. And the environmental regulations made it impractical to license new landfills. Thankfully, in some senses; but also problematic in others.
-
-Since then, Ubatuba has had to spend a significant part of its monthly budget to collect the solid waste generated in the territory, and transport it about 150 km uphill to be incinerated in another city. All that means that, on any given day, many garbage trucks spread lots of diesel smoke, oil stains, and the reek of decomposing matter along the otherwise beautiful, forest-surrounded sinuous roads.
+Since then, Ubatuba has had to spend a significant part of its monthly budget to collect the solid waste generated in the territory, and transport it about 150 km uphill to be incinerated in another city. All that means that, on any given day, a number of garbage trucks spread lots of diesel smoke, oil stains, and leave the reek of decomposing matter along the otherwise beautiful, forest-surrounded sinuous roads.
 
 ![](FF-Gilda.jpg
 
