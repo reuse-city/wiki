@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T12:58:12.514Z
+date: 2025-08-03T13:39:55.639Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -196,8 +196,15 @@ Now let's get zoom back out to a broader view. If the fab movement is to develop
 
 The material origins of waste can, of course, be easily traced if one follows in reverse the international path of industrial supply chains. However, its effects are at everyone's doorstep. In other words, I sure wish manufacturers were held responsible for solving the problem that they generate - and I hope in the future they will. I live in Europe, and strongly support the policy developments in that direction. The [European Waste Framework](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-framework-directive_en) and the [Circular Economy Action Plan](https://environment.ec.europa.eu/strategy/circular-economy-action-plan_en). EU directives on [Ecodesign](https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/ecodesign-sustainable-products-regulation_en) and the [Right to Repair](https://eur-lex.europa.eu/eli/dir/2024/1799/oj/eng). Growing awareness about the ill effects of fast fashion, and measures to mitigate it. All of those are necessary. They point to a better situation. However, the effects of those developments are projected for decades into the future.
 
-![video lixo]
+<video controls>
+  <source src="https://www.pexels.com/download/video/3181041/?fps=29.969999313354492&h=720&w=1280" type="video/mp4">
+  Embedded video player
+</video>
 
+*[CC Tom Fisk / Pexels](https://www.pexels.com/video/a-pile-of-trash-in-bird-s-eye-view-3181041/)*
+
+---
+  
 But in today's world, manufacturers produce too much. Society discards too much. Any attempt at addressing this globally distributed local issue needs to aim at reducing the volume of things being discarded every day, everywhere. To my perspective, we should create ways to enable local groups to seize the potential value of things discarded or kept out of use. Yes, that includes your drawer full of stuff that you'll sort through next month. Or the month after that. Or next spring, maybe.
 
 There is of course room for significant innovation here, from diverse approaches. Better collection and sorting. Improved recycling processes. Smart procurement. Tracking material provenance and destination to ensure compliance with regulations. Educational campaigns. Incentive systems that reward sustainable behaviour.
