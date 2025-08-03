@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T12:12:41.409Z
+date: 2025-08-03T12:55:00.395Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -192,9 +192,9 @@ The short story about Coco and my reflections about it may sound obvious to many
 
 ### A globally distributed local problem
 
-Now let's get back to a broader view. If the fab movement is to develop local solutions to local problems, here's a slight twist: how about local solutions to globally distributed local problems? I mean, of course, the issue of waste. That would certainly benefit from more truly grounded social-environmental innovation.
+Now let's get zoom back out to a broader view. If the fab movement is to develop *local solutions to local problems*, here's a slightly refined question: how to explore local solutions to globally distributed local problems? And here I mean, of course, the issue of waste. Addressing it would certainly benefit from more truly grounded social-environmental innovation combined with state-of-the-art technologies.
 
-The origins of waste can, of course, be easily traced by following the international path of industrial supply chains in reverse. However, its effects are at everyone's doorstep. I mean, I wish manufacturers were held responsible for solving the problem that they generate - and I hope in the future they will. I live in Europe and support the policy developments in that direction. The European Waste Framework, the Circular Economy Action Plan. EU directives on Ecodesign and the Right to Repair. Growing awareness about the ill effects of fast fashion, and measures to mitigate it. All of those are necessary. They point to a better situation. However, the effects of those developments are projected for decades into the future.
+The material origins of waste can, of course, be easily traced if one follows the international path of industrial supply chains in reverse. However, its effects are at everyone's doorstep. I mean, I wish manufacturers were held responsible for solving the problem that they generate - and I hope in the future they will. I live in Europe and support the policy developments in that direction. The European Waste Framework, the Circular Economy Action Plan. EU directives on Ecodesign and the Right to Repair. Growing awareness about the ill effects of fast fashion, and measures to mitigate it. All of those are necessary. They point to a better situation. However, the effects of those developments are projected for decades into the future.
 
 ![video lixo]
 
