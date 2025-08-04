@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-03T21:32:21.100Z
+date: 2025-08-04T07:30:42.889Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -223,11 +223,17 @@ Here comes another part of the half-joking naming of this project and my talk at
 
 There are many potential starting points to build the Reuse Academy. My mind is initially set on those types of organisations already engaged in waste prevention, but not always heard in strategic discussions. Zero waste projects, experimental and inclusive circular economy initiatives, creatives and entrepreneurs working on upcycling and remanufacturing, repair cafes and open workshops. There certainly is an important role for those few waste agencies with eyes on tactical interventions that help reduce the very need to handle discarded materials by creating *reuse centres*. But what I found, after visiting and interviewing some of these spaces and people, is that there is currently no structured educational offer that covers all aspects of such a complex topic: systemic, material, social, and environmental. Part of the problem is that some of these centres are created and run by managers who have worked for decades in the recycling industry and don't question its deep ties with a wasteful capitalist worldview. 
 
-The answer, in my opinion, needs to start by listening to people who are cognisant of the material and economic aspects of material reuse, while being at the same time socially aware and politically active on the side of communities. I'm not saying we should disregard for-profit businesses to design solutions. But those actors have so far been over-represented, and if solutions are to be created, I'd like to include those actors with deeper ties with affected communities, and those embodied local experts such as Coco e Cia. Locally designed solutions for globally distributed local problems.
+The answer, in my opinion, needs to start by listening to people who are cognisant of the material and economic aspects of material reuse, while being at the same time socially aware and politically active on the side of communities. I'm not saying we should disregard for-profit businesses to design solutions. But those actors have so far been over-represented, and for complementary solutions to be created, we should include those actors with deeper ties with affected communities and embodied local experts such as Coco e Cia. Locally designed solutions for globally distributed local problems.
 
 Apart from setting up reuse centres and training their staff, of course, I'm also interested in creating novel approaches for regenerative strategies to handle excess materials. A couple of months ago, my friend [Jay Cousins](https://circusofseeds.substack.com) and [Jeff Emmett](https://www.jeffemmett.com/) held a workshop in Berlin on “[Forest Economics](https://www.youtube.com/watch?v=hmKbFVUd9_I)”. One image that stuck with me was their description of one of the main differences between us humans and mycelia: while we take nutrients in to digest them internally, mushrooms move around them and digest externally, so to say. A plan for local material reuse would arguably benefit from a similar take: instead of relying only on centralised infrastructure to receive, process, and output stuff, how about enabling neighbourhood associations, local entrepreneurs, community coops and other deeply embedded agents to sort the available materials and use them to benefit their [local economies](https://localeconomies.org/)?
 
-The final question of this rather long text is: do we need Fab Labs to create reuse strategies for every city, town, and region? Not necessarily. But can such strategies be more effective by having purposeful and well-trained change agents who respect and embrace local realities? Definitely. If you read this far (or if you jumped straight here, I don't mind), take this as an invitation. Let's create that. And while we're at it:
+The final question of this rather long text is: do we need Fab Labs to create reuse strategies for every city, town, and region? Not necessarily. But can such strategies be more effective by having purposeful and well-trained change agents who respect and embrace local realities? Definitely. There may even be a place for digital fabrication, in the context of providing local contexts with the capacity for situated reuse-oriented making.
+
+---
+
+## Final words
+
+If you read this far (or if you skipped the text and jumped straight here, I don't mind), take this as an invitation. Let's experiment and create these realities together. And while we're at it:
 
 - If you are already involved with any kind of material reuse initiative, please help our project on the material valuer curriculum by filling out [this survey](https://forms.gle/ArxtMa3YLewLkt358). It's fast, most questions are optional, and it would be great to have your take on it.
 - I'm available to discuss these and other topics - here's my [LinkedIn profile](https://www.linkedin.com/in/felipefonseca/), and a [zcal to book calls](https://zcal.co/i/TtAvqmhK).
