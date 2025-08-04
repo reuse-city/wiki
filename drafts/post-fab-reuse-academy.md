@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-04T07:30:42.889Z
+date: 2025-08-04T07:39:59.177Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -36,7 +36,7 @@ Lately, though, I've noticed that many people that I admire (for instance those 
 
 ![Reuse Academy](/img/00_reuse-academy.jpg)
 
-My talk in Brno juxtaposed things I've done over the years with insights on how they intersect with the fab world. It was probably a bit crammed - I had timed it to fit the 10 minutes slot, but decided on a whim to add a couple of extra slides based on my first impressions of FAB25. The pace was then a bit broken, and I partly improvised. What follows is a reinterpreted version.
+My talk in Brno juxtaposed things I've done over the years with insights on how they intersect with the fab world. It was probably a bit crammed - I had timed it to fit the 10-minute slot, but decided on a whim to add a couple of extra slides based on my first impressions of FAB25. The pace was then a bit broken, and I partly improvised. What follows is a reinterpreted version.
 
 ### Who is FF?
 
