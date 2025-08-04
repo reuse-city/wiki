@@ -2,7 +2,7 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-04T07:39:59.177Z
+date: 2025-08-04T07:43:01.698Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
@@ -225,7 +225,7 @@ There are many potential starting points to build the Reuse Academy. My mind is 
 
 The answer, in my opinion, needs to start by listening to people who are cognisant of the material and economic aspects of material reuse, while being at the same time socially aware and politically active on the side of communities. I'm not saying we should disregard for-profit businesses to design solutions. But those actors have so far been over-represented, and for complementary solutions to be created, we should include those actors with deeper ties with affected communities and embodied local experts such as Coco e Cia. Locally designed solutions for globally distributed local problems.
 
-Apart from setting up reuse centres and training their staff, of course, I'm also interested in creating novel approaches for regenerative strategies to handle excess materials. A couple of months ago, my friend [Jay Cousins](https://circusofseeds.substack.com) and [Jeff Emmett](https://www.jeffemmett.com/) held a workshop in Berlin on “[Forest Economics](https://www.youtube.com/watch?v=hmKbFVUd9_I)”. One image that stuck with me was their description of one of the main differences between us humans and mycelia: while we take nutrients in to digest them internally, mushrooms move around them and digest externally, so to say. A plan for local material reuse would arguably benefit from a similar take: instead of relying only on centralised infrastructure to receive, process, and output stuff, how about enabling neighbourhood associations, local entrepreneurs, community coops and other deeply embedded agents to sort the available materials and use them to benefit their [local economies](https://localeconomies.org/)?
+Apart from setting up reuse centres and training their staff, of course, I'm also interested in creating novel approaches for regenerative strategies to handle excess materials. A couple of months ago, [Jay Cousins](https://circusofseeds.substack.com) and [Jeff Emmett](https://www.jeffemmett.com/) held a workshop in Berlin on “[Forest Economics](https://www.youtube.com/watch?v=hmKbFVUd9_I)”. One image that stuck with me was their description of one of the main differences between us humans and mycelia: while we take nutrients in to digest them internally, mushrooms move around them and digest externally, so to say. A plan for local material reuse would arguably benefit from a similar take: instead of relying only on centralised infrastructure to receive, process, and output stuff, how about enabling neighbourhood associations, local entrepreneurs, community coops and other deeply embedded agents to sort the available materials and use them to benefit their [local economies](https://localeconomies.org/)?
 
 The final question of this rather long text is: do we need Fab Labs to create reuse strategies for every city, town, and region? Not necessarily. But can such strategies be more effective by having purposeful and well-trained change agents who respect and embrace local realities? Definitely. There may even be a place for digital fabrication, in the context of providing local contexts with the capacity for situated reuse-oriented making.
 
