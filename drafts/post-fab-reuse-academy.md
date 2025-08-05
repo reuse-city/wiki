@@ -2,13 +2,15 @@
 title: Post-FAB - Reuse Academy
 description: Draft post about my participation on FAB25
 published: true
-date: 2025-08-04T07:43:01.698Z
+date: 2025-08-05T08:49:06.805Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-31T08:59:17.409Z
 ---
 
 # Post-FAB - Reuse Academy
+
+> **P.S.:** a final version of this text was published to [my blog](https://is.efeefe.me/stuff/fbr/post-fab).
 
 This text is based on the notes I had prepared for a talk and a workshop at [FAB25](https://fab25.fabevent.org/) in Brno (Czechia), as well as insights based on other talks and conversations before and during the conference in Brno and Prague. It positions the groundwork and first insights leading to the **Reuse Academy**, a project I started to conceptualise recently and expect to give more concrete steps towards in the coming months. The Reuse Academy builds on prior work - mine and of others - and is planned to be open and inclusive.
 
