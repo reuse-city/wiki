@@ -2,7 +2,7 @@
 title: Reuse Commons
 description: Toolkit for local systems of material reuse
 published: true
-date: 2025-07-28T09:56:21.597Z
+date: 2025-09-18T11:42:54.625Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-31T01:29:20.799Z
@@ -20,7 +20,7 @@ Reuse Commons is a toolkit to help create commons-based local systems for the re
 
 ![reuse-commons-mapping.jpg](/opendott/images/reuse-commons-mapping.jpg)
 
-Reuse Commons starts from a geographic map of the city or region, on top of which participants locate actors in multiple sectors that can potentially integrate their reuse commons: repair professionals, hardware stores, waste sorting centres, recycling facilities, second-hand shops, technical schools, and any other type of organisation that proves relevant for material reuse on a local scale.
+Reuse Commons starts from a geographic map of the city or region, on top of which participants locate actors in multiple sectors that can potentially integrate their reuse commons: repair professionals, hardware stores, waste sorting centres, recycling facilities, second-hand shops, technical schools, and any other type of organisation that proves relevant for material reuse on a local scale. In some cases, it is also useful to perform a mapping of material flows - how do discarded, broken, donated, unused goods circulate - or not - in the region.
 
 ## Stakeholder Profiles
 
