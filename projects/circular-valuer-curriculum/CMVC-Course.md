@@ -2,13 +2,13 @@
 title: CMVC - Sample Course Programme
 description: 
 published: true
-date: 2025-10-02T09:07:37.925Z
+date: 2025-10-02T09:07:50.880Z
 tags: cmvc, valuer, valoriste
 editor: markdown
 dateCreated: 2025-10-02T09:07:37.925Z
 ---
 
-# Circular Material Valuer
+# Circular Material Valuer - Course
 
 *Part of the [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum) project.*
 
