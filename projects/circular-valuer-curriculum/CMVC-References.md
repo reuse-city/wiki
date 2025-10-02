@@ -2,7 +2,7 @@
 title: CMVC - References
 description: 
 published: true
-date: 2025-10-02T08:22:27.771Z
+date: 2025-10-02T08:50:36.663Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T08:22:27.771Z
@@ -10,7 +10,7 @@ dateCreated: 2025-10-02T08:22:27.771Z
 
 # CMVC - References
 
-References associated with the Circular Material Valuer Curriculum. This page was published with the [first version of the Curriculum](/projects/circular-valuer-curriculum/CMVC-01), and will be updated with new references over time.
+References associated with the [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum). This page was published together with the [first version of the Curriculum](/projects/circular-valuer-curriculum/CMVC-01), and will be updated with new references over time.
 
 ## Module 1: Systemic View and Social Value
 
