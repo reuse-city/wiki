@@ -2,7 +2,7 @@
 title: Circular Material Valuer Curriculum
 description: Participatory Knowledge for the Circular Economy
 published: true
-date: 2025-10-02T08:14:59.204Z
+date: 2025-10-02T08:19:29.142Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:32:30.121Z
@@ -17,6 +17,7 @@ The ”Circular Material Valuer Curriculum” is a citizen science initiative to
 ### Project outputs
 
 - [CMVC - v.01](/projects/circular-valuer-curriculum/CMVC-01)
+- [CMVC - Sample Course Programme](/projects/circular-valuer-curriculum/CMVC-Course)
 - [CMVC References](/projects/circular-valuer-curriculum/CMVC-References)
 
 ### Additional assets
