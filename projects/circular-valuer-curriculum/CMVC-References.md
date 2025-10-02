@@ -2,7 +2,7 @@
 title: CMVC - References
 description: 
 published: true
-date: 2025-10-02T08:50:36.663Z
+date: 2025-10-02T09:00:43.732Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T08:22:27.771Z
@@ -14,18 +14,17 @@ References associated with the [Circular Material Valuer Curriculum](/projects/c
 
 ## Module 1: Systemic View and Social Value
 
-Readings & Resources
-Readings:
-Schröder, Patrick, et al. Circular Economy and the Global South.
-Schmidt Fonseca, Felipe. Thesis title: Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts. Doctoral Thesis. Zenodo. DOI: https://doi.org/10.5281/zenodo.15263864.
-Clark, Liesl, and Rockefeller, Rebecca. The Buy Nothing, Get Everything Plan.
-Thackara, John. How to Thrive in the Next Economy.
-Shannon Mattern, Maintenance and Care. In: Places Journal, November 2018. Accessed 08 Aug 2025. https://doi.org/10.22269/181120
-Translated Articles from French websites on the agent valoriste role.
-Videos:
-Furtado, Jorge. Ilha das Flores.
-Walker, Lucy, et al. Waste Land.
-"L'agent valoriste - un métier de l'économie circulaire" on YouTube.
+* **Readings:**  
+  * Schröder, Patrick, et al. *Circular Economy and the Global South*.  
+  * Schmidt Fonseca, Felipe. *Thesis title: Generous cities – weaving commons-oriented systems for the reuse of excess materials in urban contexts.* Doctoral Thesis. Zenodo. DOI: [https://doi.org/10.5281/zenodo.15263864](https://doi.org/10.5281/zenodo.15263864).  
+  * Clark, Liesl, and Rockefeller, Rebecca. *The Buy Nothing, Get Everything Plan*.  
+  * Thackara, John. *How to Thrive in the Next Economy*.  
+  * Shannon Mattern, *Maintenance and Care*. In: Places Journal, November 2018\. Accessed 08 Aug 2025\. https://doi.org/10.22269/181120  
+  * Translated Articles from French websites on the **agent valoriste** role.  
+* **Videos:**  
+  * Furtado, Jorge. *Ilha das Flores*.  
+  * Walker, Lucy, et al. *Waste Land*.  
+  * "L'agent valoriste \- un métier de l'économie circulaire" on YouTube.
 
 ## Module 2: Eyes and Hands of a Circular Valuer
 
