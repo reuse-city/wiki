@@ -2,15 +2,17 @@
 title: CMVC - V. 01
 description: Circular Material Valuer Curriculum - V. 01
 published: true
-date: 2025-10-02T08:56:08.662Z
+date: 2025-11-25T14:42:19.601Z
 tags: cmvc, valuer, valoriste
 editor: markdown
 dateCreated: 2025-10-02T08:56:08.662Z
 ---
 
-# CMVC V. 01
+# CMVC Version 1
 
 This page contains the first version in English of the co-designed **Circular Material Valuer Curriculum**, created by [GIG](https://globalinnovationgathering.org) and [Reuse City](https://reuse.city). The Curriculum was created as a citizen science project supported by the [Hans Sauer Foundation](https://www.hanssauerstiftung.de/).
+
+V1 of this Curriculum was published on Zenodo (DOI [10.5281/zenodo.17712503](https://doi.org/10.5281/zenodo.17712503)) and is also available as a [PDF](https://github.com/reuse-city/CMVC/blob/main/outputs/CMVC_v1.pdf) from the [project repository](https://github.com/reuse-city/CMVC).
 
 **Learn more:**
 
