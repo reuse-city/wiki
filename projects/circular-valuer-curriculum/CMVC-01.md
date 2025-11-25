@@ -1,8 +1,8 @@
 ---
-title: CMVC - V. 01
-description: Circular Material Valuer Curriculum - V. 01
+title: CMVC - V01
+description: Circular Material Valuer Curriculum - V 01
 published: true
-date: 2025-11-25T14:42:19.601Z
+date: 2025-11-25T16:48:54.549Z
 tags: cmvc, valuer, valoriste
 editor: markdown
 dateCreated: 2025-10-02T08:56:08.662Z
