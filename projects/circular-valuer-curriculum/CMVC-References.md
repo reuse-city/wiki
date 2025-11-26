@@ -2,7 +2,7 @@
 title: CMVC - References
 description: 
 published: true
-date: 2025-10-02T09:03:34.629Z
+date: 2025-11-26T12:49:44.509Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T08:22:27.771Z
@@ -20,6 +20,7 @@ References associated with the [Circular Material Valuer Curriculum](/projects/c
   * Clark, Liesl, and Rockefeller, Rebecca. *The Buy Nothing, Get Everything Plan*.  
   * Thackara, John. *How to Thrive in the Next Economy*.  
   * Shannon Mattern, *Maintenance and Care*. In: Places Journal, November 2018\. Accessed 08 Aug 2025\. https://doi.org/10.22269/181120  
+  * Vosse, Corinna. *Coming full circle*. In: *Coming full circle*. Accessed 26 Nov 2025. DOI: 10.4324/9781003244196-30.
   * Translated Articles from French websites on the **agent valoriste** role.  
 * **Videos:**  
   * Furtado, Jorge. *Ilha das Flores*.  
