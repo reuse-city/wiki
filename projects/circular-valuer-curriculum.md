@@ -2,7 +2,7 @@
 title: Circular Material Valuer Curriculum
 description: Participatory Knowledge for the Circular Economy
 published: true
-date: 2025-12-02T13:57:35.446Z
+date: 2025-12-02T13:58:12.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:32:30.121Z
@@ -17,11 +17,11 @@ The ”Circular Material Valuer Curriculum” is a citizen science initiative to
 ### Project outputs
 
 - The curriculum
-  - [Published in Zenodo](https://zenodo.org/records/17712504) | [wiki page](/projects/circular-valuer-curriculum/CMVC-01)
+  - [Published in Zenodo](https://zenodo.org/records/17712504) | [wiki page](/projects/circular-valuer-curriculum/CMVC-01).
 - The sample course programme
-  - [Published in Zenodo](https://zenodo.org/records/17712673) | [wiki page](/projects/circular-valuer-curriculum/CMVC-Course)
-- Curriculum [references](/projects/circular-valuer-curriculum/CMVC-References)
-- Project [data repository and processual documentation](https://github.com/reuse-city/CMVC/) on GitHub
+  - [Published in Zenodo](https://zenodo.org/records/17712673) | [wiki page](/projects/circular-valuer-curriculum/CMVC-Course).
+- Curriculum [references](/projects/circular-valuer-curriculum/CMVC-References).
+- Project [data repository and processual documentation](https://github.com/reuse-city/CMVC/) on GitHub.
 
 ### Additional assets
 
