@@ -2,7 +2,7 @@
 title: Circular Material Valuer Curriculum
 description: Participatory Knowledge for the Circular Economy
 published: true
-date: 2025-12-12T17:20:03.246Z
+date: 2025-12-12T17:28:48.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:32:30.121Z
@@ -23,12 +23,12 @@ The ”Circular Material Valuer Curriculum” is a citizen science initiative to
   - [Published in Zenodo](https://zenodo.org/records/17712673)
   - [Entry on OER Commons](https://oercommons.org/courses/circular-material-valuer-course-programme)
   - [Wiki page](/projects/circular-valuer-curriculum/CMVC-Course)
-- **Session during [OER Global 2025](https://oercamp.global/): **
+- **Session during [OER Global 2025](https://oercamp.global/):**
 	- [From Waste Stream to Learning Stream: Co-Creating OER for Circular Material Valuers](https://go.oercamp.de/global-2025/talk/SJVAMZ/)
   - Video recording: [Internet Archive](https://archive.org/details/circular-material-valuers_oercamp-global) / [YouTube](https://youtu.be/5VRSHuy3PiE)
 - Curriculum [references](/projects/circular-valuer-curriculum/CMVC-References)
 - Project [data repository and processual documentation](https://github.com/reuse-city/CMVC/) on GitHub
-- List of participants
+- List of contributors
 
 ### Additional assets
 
