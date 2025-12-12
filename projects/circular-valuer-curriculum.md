@@ -2,7 +2,7 @@
 title: Circular Material Valuer Curriculum
 description: Participatory Knowledge for the Circular Economy
 published: true
-date: 2025-12-12T17:28:48.919Z
+date: 2025-12-12T18:08:30.582Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:32:30.121Z
@@ -28,7 +28,7 @@ The ”Circular Material Valuer Curriculum” is a citizen science initiative to
   - Video recording: [Internet Archive](https://archive.org/details/circular-material-valuers_oercamp-global) / [YouTube](https://youtu.be/5VRSHuy3PiE)
 - Curriculum [references](/projects/circular-valuer-curriculum/CMVC-References)
 - Project [data repository and processual documentation](https://github.com/reuse-city/CMVC/) on GitHub
-- List of contributors
+- List of [contributors](https://github.com/reuse-city/CMVC/blob/main/contributors.md)
 
 ### Additional assets
 
