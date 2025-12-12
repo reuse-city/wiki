@@ -2,7 +2,7 @@
 title: CMVC - Sample Course Programme
 description: 
 published: true
-date: 2025-11-25T16:50:03.555Z
+date: 2025-12-12T12:37:49.161Z
 tags: cmvc, valuer, valoriste
 editor: markdown
 dateCreated: 2025-10-02T09:07:37.925Z
@@ -10,7 +10,7 @@ dateCreated: 2025-10-02T09:07:37.925Z
 
 # Circular Material Valuer - Course
 
-*Part of the [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum) project. The contents of this page can be found also on Zenodo (DOI [10.5281/zenodo.17712671](https://doi.org/10.5281/zenodo.17712671)) and in the [project repository](https://github.com/reuse-city/CMVC) as a [PDF](https://github.com/reuse-city/CMVC/blob/main/outputs/course-sample_v1.pdf).*
+*Part of the [Circular Material Valuer Curriculum](/projects/circular-valuer-curriculum) project. The contents of this page can be found also on Zenodo (DOI [10.5281/zenodo.17712671](https://doi.org/10.5281/zenodo.17712671)) and in the [project repository](https://github.com/reuse-city/CMVC) as a [PDF](https://github.com/reuse-city/CMVC/blob/main/outputs/course-sample_v1.pdf). The Course Sample is also available from [OER COMMONS](https://oercommons.org/courses/circular-material-valuer-course-programme).*
 
 
 ***Sample Course Programme***
