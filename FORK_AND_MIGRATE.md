@@ -124,7 +124,7 @@ To automatically build and publish your site using GitHub Actions:
      build:
        runs-on: ubuntu-latest
        env:
-         HUGO_VERSION: 0.125.4
+         HUGO_VERSION: 0.146.0
        steps:
          - uses: actions/checkout@v4
            with:
