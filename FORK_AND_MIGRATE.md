@@ -36,10 +36,14 @@ At the root of the repository, run the following commands:
    languageCode = 'en-us'
    title = 'Reuse City Wiki'
    theme = 'hugo-book'
+   ignoreLogs = ['warning-deprecated']
 
    [markup.goldmark.parser.attribute]
      block = true
      title = true
+
+   [markup.goldmark.renderer]
+     unsafe = true
 
    [params]
      BookTheme = 'auto'
