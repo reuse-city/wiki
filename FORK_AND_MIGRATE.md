@@ -36,14 +36,6 @@ At the root of the repository, run the following commands:
    languageCode = 'en-us'
    title = 'Reuse City Wiki'
    theme = 'hugo-book'
-   ignoreLogs = ['warning-deprecated']
-
-   [markup.goldmark.parser.attribute]
-     block = true
-     title = true
-
-   [markup.goldmark.renderer]
-     unsafe = true
 
    [params]
      BookTheme = 'auto'
@@ -94,14 +86,7 @@ Your markdown uses absolute paths for images (e.g., `![logo](/reuse-city-logo-br
    mv content/opendott/images/ static/opendott/
    ```
 
-## 6. Clean Up Markdown Frontmatter
-Wiki.js exports Markdown with certain attributes (`published: true`, unquoted colons in titles/descriptions) that cause Hugo to crash.
-Run the included cleanup script to fix all frontmatter automatically:
-```bash
-python3 cleanup_frontmatter.py
-```
-
-## 7. Test Your New Site Locally
+## 6. Test Your New Site Locally
 You can now start the Hugo development server to see how it looks:
 ```bash
 hugo server -D
@@ -110,7 +95,7 @@ Open your browser to `http://localhost:1313`. Click around to ensure all images 
 
 > *Note on Links: If some internal links are relative, they might require minor tweaking, but absolute links starting with `/` will work perfectly.*
 
-## 8. Set Up GitHub Pages Deployment
+## 7. Set Up GitHub Pages Deployment
 To automatically build and publish your site using GitHub Actions:
 
 1. Create a directory for the workflow:
@@ -167,7 +152,7 @@ To automatically build and publish your site using GitHub Actions:
            uses: actions/deploy-pages@v4
    ```
 
-## 9. Commit and Push
+## 8. Commit and Push
 Finally, commit all your changes and push them back to your new GitHub repository.
 ```bash
 git add .
@@ -175,7 +160,7 @@ git commit -m "Migrate Wiki.js content to Hugo"
 git push origin main
 ```
 
-## 10. Enable GitHub Pages
+## 9. Enable GitHub Pages
 1. Go to your repository settings on GitHub.
 2. Click on **Pages** in the left sidebar.
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
