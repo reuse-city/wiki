@@ -1,0 +1,79 @@
+/* Legacy Wiki.js Alignment Gambiarra */
+
+.align-right {
+    float: right;
+    margin: 0 0 1rem 1.5rem;
+    text-align: right;
+}
+
+.align-left {
+    float: left;
+    margin: 0 1.5rem 1rem 0;
+    text-align: left;
+}
+
+.align-center {
+    display: block;
+    margin: 0 auto 1rem auto;
+    text-align: center;
+}
+
+/* Ensure images don't break out of their containers on mobile */
+img.align-right, img.align-left {
+    max-width: 50%; 
+}
+
+@media (max-width: 768px) {
+    /* On mobile screens, disable floating so text doesn't get squished */
+    .align-right, .align-left {
+        float: none;
+        margin: 0 auto 1rem auto;
+        display: block;
+    }
+}
+
+/* Right Sidebar Custom Cards */
+.sidebar-cards {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-gray-200); /* Adds a subtle separator above the cards */
+}
+
+.book-card {
+    background: var(--color-bg);
+    border: 1px solid var(--color-gray-200);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    transition: box-shadow 0.2s ease;
+}
+
+.book-card:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.book-card h4 {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.95rem;
+    color: var(--color-text);
+}
+
+.book-card p {
+    margin: 0 0 0.8rem 0;
+    font-size: 0.85rem;
+    color: #666;
+    line-height: 1.4;
+}
+
+.card-link {
+    display: inline-block;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-link);
+    text-decoration: none;
+}
+
+.card-link:hover {
+    text-decoration: underline;
+}

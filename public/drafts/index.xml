@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drafts on REUSE CITY Wiki</title>
+    <link>http://localhost:1313/wiki/drafts/</link>
+    <description>Recent content in Drafts on REUSE CITY Wiki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Aug 2025 08:49:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/wiki/drafts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post-FAB - Reuse Academy</title>
+      <link>http://localhost:1313/wiki/drafts/post-fab-reuse-academy/</link>
+      <pubDate>Tue, 05 Aug 2025 08:49:06 +0000</pubDate>
+      <guid>http://localhost:1313/wiki/drafts/post-fab-reuse-academy/</guid>
+      <description>&lt;h1 id=&#34;post-fab---reuse-academy&#34;&gt;Post-FAB - Reuse Academy&lt;a class=&#34;anchor&#34; href=&#34;#post-fab---reuse-academy&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;blockquote class=&#39;book-hint &#39;&gt;&#xA;&lt;p&gt;&lt;strong&gt;P.S.:&lt;/strong&gt; a final version of this text was published to &lt;a href=&#34;https://is.efeefe.me/stuff/fbr/post-fab&#34;&gt;my blog&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;p&gt;This text is based on the notes I had prepared for a talk and a workshop at &lt;a href=&#34;https://fab25.fabevent.org/&#34;&gt;FAB25&lt;/a&gt; in Brno (Czechia), as well as insights based on other talks and conversations before and during the conference in Brno and Prague. It positions the groundwork and first insights leading to the &lt;strong&gt;Reuse Academy&lt;/strong&gt;, a project I started to conceptualise recently and expect to give more concrete steps towards in the coming months. The Reuse Academy builds on prior work - mine and of others - and is planned to be open and inclusive.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+baseURL = "https://reuse.city/wiki/"
+languageCode = "en-us"
+title = "REUSE CITY Wiki"
+theme = "hugo-book"
+
+# Hugo Book specific settings
+[params]
+  BookTheme = "light" # or "dark", or "auto"
+  BookRepo = "https://github.com/reuse-city/wiki"
+  BookLogo = "logo.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
