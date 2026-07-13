@@ -12,9 +12,15 @@ Start browsing here:
 - [OpenDoTT](/wiki/opendott) doctoral investigation.
 
 
-A more detailed view of the website structure can be found [here](structure). 
+A more detailed view of the website structure can be found [here](structure). Video recording available [here](https://www.youtube.com/watch?v=p2I50aD8E00&list=PLPSRZrrm1Dwz7_4IEC3FLuNzO42Q98N9l&index=26).
+
+
 
 ## Featured
+
+### Thingdata: Unlocking Systemic Value in the Material Commons through Open Data as a Digital Public Good
+
+- Presentation about [ThingData](https://thingdata.org/) at the **OpenForum Academy Symposium 2025: Open Technology Impact in Uncertain Times** (Rio de Janeiro, 2025). 
 
 ### Generous Cities: commons-based handling of excess materials
 
